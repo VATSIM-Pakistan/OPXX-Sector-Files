@@ -1,3 +1,3 @@
-# OPXX-Sector-Files
-Official repository of Pakistan vACC's Sector Files development
+Pakistan-Sector-File-OPXX
+
 https://files.aero-nav.com/OPXX
