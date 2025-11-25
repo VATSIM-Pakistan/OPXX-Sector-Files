@@ -80,3 +80,7 @@ Plugins	Plugin2Display0	DelHel
 Plugins	Plugin6Display3	Ground Radar display
 Plugins	Plugin7Display1	Standard ES radar screen
 Plugins	Plugin7Display2	Ground Radar display
+Plugins	Plugin8	\OPXX\Plugins\vSID\vSID.dll
+Plugins	Plugin8Display0	DelHel
+Plugins	Plugin8Display1	Ground Radar display
+Plugins	Plugin8Display2	Standard ES radar screen

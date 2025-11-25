@@ -1,8 +1,8 @@
 DisplayTypeName:SMR radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-SECTORFILE:
-SECTORTITLE:
+SECTORFILE:C:\Users\Moiz\Documents\GitHub\OPXX-Sector-Files\OPXX-Install-Package_20251002185553-251001-0001.sct
+SECTORTITLE:OPXX-Install-Package_20251002185553-251001-0001.sct
 Free Text:OPLA Ground Freetext\1:freetext
 Free Text:OPLA Ground Freetext\10:freetext
 Free Text:OPLA Ground Freetext\11:freetext
@@ -42,9 +42,7 @@ Free Text:OPLA Ground Freetext\D:freetext
 Free Text:OPLA Ground Freetext\E:freetext
 Free Text:OPLA Ground Freetext\F:freetext
 Free Text:OPLA Ground Freetext\G:freetext
-Free Text:OPLA Ground Freetext\G:freetext
 Free Text:OPLA Ground Freetext\GENERAL AVIATION:freetext
-Free Text:OPLA Ground Freetext\H:freetext
 Free Text:OPLA Ground Freetext\H:freetext
 Free Text:OPLA Ground Freetext\J:freetext
 Free Text:OPLA Ground Freetext\JET APRON:freetext
@@ -56,9 +54,7 @@ Free Text:OPLA Ground Freetext\OLD APRON:freetext
 Free Text:OPLA Ground Freetext\OLD TERMINAL:freetext
 Free Text:OPLA Ground Freetext\P:freetext
 Free Text:OPLA Ground Freetext\Q:freetext
-Free Text:OPLA Ground Freetext\Q:freetext
 Free Text:OPLA Ground Freetext\R:freetext
-Free Text:OPLA Ground Freetext\S:freetext
 Free Text:OPLA Ground Freetext\S:freetext
 Free Text:OPLA Ground Freetext\T:freetext
 Free Text:OPLA Ground Freetext\U:freetext
@@ -82,7 +78,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:89.00000
 TAGFAMILY:TopSky_Pakistan_TWR
-WINDOWAREA:31.508237:74.373002:31.535750:74.426891
+WINDOWAREA:31.508237:74.370298:31.535750:74.429595
 PLUGIN:TopSky plugin:NoDraw:1
 PLUGIN:vSMR:ActiveProfile:Pakistan vACC
 PLUGIN:vSMR:Afterglow:1

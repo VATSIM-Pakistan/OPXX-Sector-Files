@@ -1,8 +1,16 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:
-SECTORTITLE:
+SECTORFILE:C:\Users\Moiz\Documents\GitHub\OPXX-Sector-Files\OPXX-Install-Package_20251002185553-251001-0001.sct
+SECTORTITLE:OPXX-Install-Package_20251002185553-251001-0001.sct
+ARTCC boundary:ISB ACC:
+ARTCC boundary:OPLR E ACC:
+ARTCC boundary:OPLR W ACC:
+ARTCC low boundary:CHERAT N TMA:
+ARTCC low boundary:CHERAT S TMA:
+ARTCC low boundary:NUR KHAN TMA:
+ARTCC low boundary:OPIS CTR:
+ARTCC low boundary:OPIS TMA:
 Airports:OPBN:name
 Airports:OPCH:name
 Airports:OPCL:name
@@ -16,14 +24,6 @@ Airports:OPRT:name
 Airports:OPSD:name
 Airports:OPSS:name
 Airports:OPTA:name
-ARTCC boundary:ISB ACC:
-ARTCC boundary:OPLR E ACC:
-ARTCC boundary:OPLR W ACC:
-ARTCC low boundary:CHERAT N TMA:
-ARTCC low boundary:CHERAT S TMA:
-ARTCC low boundary:NUR KHAN TMA:
-ARTCC low boundary:OPIS CTR:
-ARTCC low boundary:OPIS TMA:
 Fixes:BELKO:name
 Fixes:BELKO:symbol
 Fixes:BOBAM:name
@@ -65,7 +65,6 @@ Fixes:SUMEB:symbol
 Fixes:TOMON:name
 Fixes:TOMON:symbol
 Free Text:OPIS Minimum Safe Altitudes\MSA 3300:freetext
-Free Text:OPIS Minimum Safe Altitudes\MSA 3700:freetext
 Free Text:OPIS Minimum Safe Altitudes\MSA 3700:freetext
 Free Text:OPIS Minimum Safe Altitudes\MSA 4200:freetext
 Free Text:OPLR Neighbouring FIR\OAKX (Kabul):freetext
@@ -278,4 +277,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:TopSky_Pakistan
-WINDOWAREA:31.488359:66.745061:38.586805:80.173605
+WINDOWAREA:31.488359:65.809797:38.586805:81.108869

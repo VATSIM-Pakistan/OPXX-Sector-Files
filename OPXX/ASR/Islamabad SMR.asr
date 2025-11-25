@@ -1,8 +1,8 @@
 DisplayTypeName:SMR radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-SECTORFILE:
-SECTORTITLE:
+SECTORFILE:C:\Users\Moiz\Documents\GitHub\OPXX-Sector-Files\OPXX-Install-Package_20251002185553-251001-0001.sct
+SECTORTITLE:OPXX-Install-Package_20251002185553-251001-0001.sct
 Airports:OPIS:name
 Airports:OPIS:symbol
 Free Text:OPIS Ground Freetext\1:freetext
@@ -39,28 +39,16 @@ Free Text:OPIS Ground Freetext\7:freetext
 Free Text:OPIS Ground Freetext\8:freetext
 Free Text:OPIS Ground Freetext\9:freetext
 Free Text:OPIS Ground Freetext\A:freetext
-Free Text:OPIS Ground Freetext\A:freetext
 Free Text:OPIS Ground Freetext\B:freetext
-Free Text:OPIS Ground Freetext\C:freetext
-Free Text:OPIS Ground Freetext\C:freetext
 Free Text:OPIS Ground Freetext\C:freetext
 Free Text:OPIS Ground Freetext\CARGO TERMINAL:freetext
 Free Text:OPIS Ground Freetext\D:freetext
 Free Text:OPIS Ground Freetext\E:freetext
 Free Text:OPIS Ground Freetext\F:freetext
-Free Text:OPIS Ground Freetext\F:freetext
-Free Text:OPIS Ground Freetext\F:freetext
-Free Text:OPIS Ground Freetext\G:freetext
-Free Text:OPIS Ground Freetext\G:freetext
-Free Text:OPIS Ground Freetext\G:freetext
 Free Text:OPIS Ground Freetext\G:freetext
 Free Text:OPIS Ground Freetext\GA APRON:freetext
 Free Text:OPIS Ground Freetext\H:freetext
-Free Text:OPIS Ground Freetext\H:freetext
 Free Text:OPIS Ground Freetext\J:freetext
-Free Text:OPIS Ground Freetext\J:freetext
-Free Text:OPIS Ground Freetext\K:freetext
-Free Text:OPIS Ground Freetext\K:freetext
 Free Text:OPIS Ground Freetext\K:freetext
 Free Text:OPIS Ground Freetext\L:freetext
 Free Text:OPIS Ground Freetext\M:freetext
@@ -72,7 +60,6 @@ Free Text:OPIS Ground Freetext\R:freetext
 Free Text:OPIS Ground Freetext\S:freetext
 Free Text:OPIS Ground Freetext\SOUTH EAST APRON:freetext
 Free Text:OPIS Ground Freetext\STATE LOUNGE APRON:freetext
-Free Text:OPIS Ground Freetext\T:freetext
 Free Text:OPIS Ground Freetext\T:freetext
 Free Text:OPIS Ground Freetext\TERMINAL BUILDING:freetext
 Geo:OPIS Groundlayout Geo Data:
@@ -90,7 +77,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:350.00000
 TAGFAMILY:TopSky_Pakistan_TWR
-WINDOWAREA:33.538335:72.800704:33.565848:72.854593
+WINDOWAREA:33.538335:72.798000:33.565848:72.857297
 PLUGIN:TopSky plugin:NoDraw:1
 PLUGIN:vSMR:ActiveProfile:Pakistan vACC
 PLUGIN:vSMR:Afterglow:1

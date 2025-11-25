@@ -103,3 +103,4 @@ Plugins	Plugin8Display0	DelHel
 Plugins	Plugin8Display1	SMR radar display
 Plugins	Plugin8Display2	Standard ES radar screen
 Plugins	Plugin4Display2	Standard ES radar screen
+Plugins	Plugin9	\OPXX\Plugins\vSID\vSID.dll

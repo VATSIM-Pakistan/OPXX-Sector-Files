@@ -72,9 +72,9 @@ LastSession	atis3	DO NOT REPLACE YOUR CALLSIGN AND CLICK CONNECT!
 LastSession	range	50
 LastSession	proxyserver	localhost
 LastSession	simdatapublish	0
-RecentFiles	Recent1	\OPXX\ASR\Karachi ACC Bandbox.asr
-RecentFiles	Recent2	\OPXX\ASR\Karachi ACC Upper.asr
-RecentFiles	Recent3	\OPXX\ASR\Karachi SMR.asr
+RecentFiles	Recent1	\OPXX\ASR\Karachi SMR.asr
+RecentFiles	Recent2	\OPXX\ASR\Karachi ACC Bandbox.asr
+RecentFiles	Recent3	\OPXX\ASR\Karachi ACC Upper.asr
 RecentFiles	Recent4	\OPXX\ASR\Nawabshah SMR.asr
 RecentFiles	Recent5	\OPXX\ASR\Gwadar SMR.asr
 RecentFiles	Recent6	\OPXX\ASR\Turbat SMR.asr
@@ -106,3 +106,8 @@ Plugins	Plugin8	\OPXX\Plugins\Topsky 2.5b11\TopSky.dll
 Plugins	Plugin8Display0	DelHel
 Plugins	Plugin8Display1	SMR radar display
 Plugins	Plugin8Display2	Standard ES radar screen
+Plugins	Plugin9	\OPXX\Plugins\Ground Radar Plugin\GRplugin.dll
+Plugins	Plugin9Display0	Ground Radar display
+Plugins	Plugin9Display1	Standard ES radar screen
+Plugins	Plugin9Display2	SMR radar display
+Plugins	Plugin10	\OPXX\Plugins\vSID\vSID.dll

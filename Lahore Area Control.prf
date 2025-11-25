@@ -106,3 +106,6 @@ Plugins	Plugin8	\OPXX\Plugins\Topsky 2.5b11\TopSky.dll
 Plugins	Plugin8Display0	DelHel
 Plugins	Plugin8Display1	SMR radar display
 Plugins	Plugin8Display2	Standard ES radar screen
+Plugins	Plugin9	\OPXX\Plugins\vSID\vSID.dll
+Plugins	Plugin10	\OPXX\Plugins\Ground Radar Plugin\GRplugin.dll
+Plugins	Plugin10Display0	Ground Radar display

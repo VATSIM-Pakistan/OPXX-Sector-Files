@@ -1,20 +1,8 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:
-SECTORTITLE:
-Airports:OPDB:name
-Airports:OPGD:name
-Airports:OPJI:name
-Airports:OPKC:name
-Airports:OPKD:name
-Airports:OPKH:name
-Airports:OPMJ:name
-Airports:OPNH:name
-Airports:OPOR:name
-Airports:OPPG:name
-Airports:OPPI:name
-Airports:OPTU:name
+SECTORFILE:C:\Users\Moiz\Documents\GitHub\OPXX-Sector-Files\OPXX-Install-Package_20251002185553-251001-0001.sct
+SECTORTITLE:OPXX-Install-Package_20251002185553-251001-0001.sct
 ARTCC boundary:OPKR C ACC:
 ARTCC boundary:OPKR E ACC:
 ARTCC boundary:OPKR S ACC:
@@ -28,6 +16,18 @@ ARTCC high boundary:VABF FIR:
 ARTCC low boundary:OPKC CTA:
 ARTCC low boundary:OPKC TMA:
 ARTCC low boundary:OPKC TWR:
+Airports:OPDB:name
+Airports:OPGD:name
+Airports:OPJI:name
+Airports:OPKC:name
+Airports:OPKD:name
+Airports:OPKH:name
+Airports:OPMJ:name
+Airports:OPNH:name
+Airports:OPOR:name
+Airports:OPPG:name
+Airports:OPPI:name
+Airports:OPTU:name
 Fixes:ALPOR:name
 Fixes:ALPOR:symbol
 Fixes:AMJID:name
@@ -101,7 +101,6 @@ Fixes:ZOHAR:symbol
 Free Text:OPKC Minimum Safe Altitudes\MSA 1600:freetext
 Free Text:OPKC Minimum Safe Altitudes\MSA 2000:freetext
 Free Text:OPKC Minimum Safe Altitudes\MSA 2600:freetext
-Free Text:OPKC Minimum Safe Altitudes\MSA 3700:freetext
 Free Text:OPKC Minimum Safe Altitudes\MSA 3700:freetext
 Free Text:OPKC Minimum Safe Altitudes\MSA 5300:freetext
 Free Text:OPKR Neighbouring FIR\OIIX (Tehran):freetext
@@ -354,4 +353,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:TopSky_Pakistan
-WINDOWAREA:20.754145:54.883974:33.309278:79.475504
+WINDOWAREA:20.754145:53.649884:33.309278:80.709594

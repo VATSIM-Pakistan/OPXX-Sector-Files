@@ -1,10 +1,8 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:
-SECTORTITLE:
-Airports:OPKC:name
-Airports:OPKC:symbol
+SECTORFILE:C:\Users\Moiz\Documents\GitHub\OPXX-Sector-Files\OPXX-Install-Package_20251002185553-251001-0001.sct
+SECTORTITLE:OPXX-Install-Package_20251002185553-251001-0001.sct
 ARTCC boundary:OPKR C ACC:
 ARTCC boundary:OPKR E ACC:
 ARTCC boundary:OPKR S ACC:
@@ -12,6 +10,8 @@ ARTCC boundary:OPKR W ACC:
 ARTCC low boundary:OPKC CTA:
 ARTCC low boundary:OPKC TMA:
 ARTCC low boundary:OPKC TWR:
+Airports:OPKC:name
+Airports:OPKC:symbol
 Fixes:AMJID:name
 Fixes:AMJID:symbol
 Fixes:ANRIM:name
@@ -49,7 +49,6 @@ Fixes:TELEM:symbol
 Free Text:OPKC Minimum Safe Altitudes\MSA 1600:freetext
 Free Text:OPKC Minimum Safe Altitudes\MSA 2000:freetext
 Free Text:OPKC Minimum Safe Altitudes\MSA 2600:freetext
-Free Text:OPKC Minimum Safe Altitudes\MSA 3700:freetext
 Free Text:OPKC Minimum Safe Altitudes\MSA 3700:freetext
 Free Text:OPKC Minimum Safe Altitudes\MSA 5300:freetext
 Geo:OPKC MRVA:
@@ -109,7 +108,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:TopSky_Pakistan
-WINDOWAREA:22.735330:62.273350:28.220055:73.016190
+WINDOWAREA:22.735330:61.734236:28.220055:73.555304
 PLUGIN:EuroScope History Trails:HistoryTrailAntiAlias:1
 PLUGIN:EuroScope History Trails:HistoryTrailColour:255,130,20
 PLUGIN:EuroScope History Trails:HistoryTrailDegrade:1

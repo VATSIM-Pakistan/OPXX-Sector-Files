@@ -1,16 +1,16 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:
-SECTORTITLE:
-Airports:OPLA:name
-Airports:OPLA:symbol
+SECTORFILE:C:\Users\Moiz\Documents\GitHub\OPXX-Sector-Files\OPXX-Install-Package_20251002185553-251001-0001.sct
+SECTORTITLE:OPXX-Install-Package_20251002185553-251001-0001.sct
 ARTCC boundary:OPLR E ACC:
 ARTCC boundary:OPLR S ACC:
 ARTCC boundary:OPLR W ACC:
 ARTCC low boundary:OPLA CTA:
 ARTCC low boundary:OPLA CTR:
 ARTCC low boundary:OPLA TMA:
+Airports:OPLA:name
+Airports:OPLA:symbol
 Fixes:ADNIM:name
 Fixes:ADNIM:symbol
 Fixes:AKBER:name
@@ -35,8 +35,6 @@ Fixes:SULOM:name
 Fixes:SULOM:symbol
 Fixes:VEREN:name
 Fixes:VEREN:symbol
-Free Text:OPLA Minimum Safe Altitudes\MSA 2600:freetext
-Free Text:OPLA Minimum Safe Altitudes\MSA 2600:freetext
 Free Text:OPLA Minimum Safe Altitudes\MSA 2600:freetext
 Geo:OPLA MRVA:
 NDBs:SP:name
@@ -98,4 +96,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:TopSky_Pakistan
-WINDOWAREA:29.846304:70.597422:33.356528:77.472839
+WINDOWAREA:29.846304:70.252389:33.356528:77.817872

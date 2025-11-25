@@ -1,8 +1,14 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:
-SECTORTITLE:
+SECTORFILE:C:\Users\Moiz\Documents\GitHub\OPXX-Sector-Files\OPXX-Install-Package_20251002185553-251001-0001.sct
+SECTORTITLE:OPXX-Install-Package_20251002185553-251001-0001.sct
+ARTCC boundary:ISB ACC:
+ARTCC boundary:OPLR E ACC:
+ARTCC boundary:OPLR S ACC:
+ARTCC boundary:OPLR W ACC:
+ARTCC low boundary:CHERAT N TMA:
+ARTCC low boundary:CHERAT S TMA:
 Airports:OPBN:name
 Airports:OPBN:symbol
 Airports:OPPS:name
@@ -11,12 +17,6 @@ Airports:OPSS:name
 Airports:OPSS:symbol
 Airports:OPTA:name
 Airports:OPTA:symbol
-ARTCC boundary:ISB ACC:
-ARTCC boundary:OPLR E ACC:
-ARTCC boundary:OPLR S ACC:
-ARTCC boundary:OPLR W ACC:
-ARTCC low boundary:CHERAT N TMA:
-ARTCC low boundary:CHERAT S TMA:
 Fixes:BELKO:name
 Fixes:BELKO:symbol
 Fixes:FATEH:name
@@ -143,4 +143,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:TopSky_Pakistan
-WINDOWAREA:32.085018:68.959980:35.595242:75.835397
+WINDOWAREA:31.543349:68.045258:35.931129:77.502112

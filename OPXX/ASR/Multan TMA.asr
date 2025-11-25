@@ -1,15 +1,15 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:
-SECTORTITLE:
-Airports:OPMT:name
-Airports:OPMT:symbol
+SECTORFILE:C:\Users\Moiz\Documents\GitHub\OPXX-Sector-Files\OPXX-Install-Package_20251002185553-251001-0001.sct
+SECTORTITLE:OPXX-Install-Package_20251002185553-251001-0001.sct
 ARTCC boundary:OPLR E ACC:
 ARTCC boundary:OPLR S ACC:
 ARTCC boundary:OPLR W ACC:
 ARTCC low boundary:OPMT CTR:
 ARTCC low boundary:OPMT TMA:
+Airports:OPMT:name
+Airports:OPMT:symbol
 Fixes:DIBBA:name
 Fixes:DIBBA:symbol
 Fixes:HILAL:name
@@ -92,4 +92,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:TopSky_Pakistan_TWR
-WINDOWAREA:29.012149:69.397085:31.118550:73.522859
+WINDOWAREA:29.012149:69.190040:31.118550:73.729904
