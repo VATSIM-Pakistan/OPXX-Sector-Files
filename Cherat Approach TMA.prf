@@ -1,8 +1,5 @@
 ASRFastKeys	1	\OPXX\ASR\Cherat TMA.asr
 ASRFastKeys	2	\OPXX\ASR\Peshawar SMR.asr
-ASRFastKeys	3	\OPXX\ASR\Saidu Sharif SMR.asr
-ASRFastKeys	4	\OPXX\ASR\Bannu SMR.asr
-ASRFastKeys	5	\OPXX\ASR\Tarbela Dam SMR.asr
 Plugins	Plugin0	\OPXX\Plugins\MAESTRO\MAESTRO.dll
 Plugins	Plugin0Display0	Standard ES radar screen
 Plugins	Plugin0Display1	SMR radar display
@@ -38,7 +35,6 @@ Settings	airlines	\OPXX\ICAO\ICAO_Airlines.txt
 Settings	airportcoords	\OPXX\NavData\icao.txt
 Settings	airports	\OPXX\ICAO\ICAO_Airports.txt
 Settings	airways	\OPXX\NavData\airway.txt
-Settings	sector	\OPXX-Install-Package_20251002185553-251001-0001.sct
 Sounds	Sound0	\OPXX\Sounds\handoff_request.wav
 Sounds	Sound1	\OPXX\Sounds\handoff_accept.wav
 Sounds	Sound10	\OPXX\Sounds\disconnected.wav
@@ -58,22 +54,8 @@ Sounds	Sound6	\OPXX\Sounds\broadcast_message.wav
 Sounds	Sound7	\OPXX\Sounds\landline_request.wav
 Sounds	Sound8	\OPXX\Sounds\supervisor_message.wav
 Sounds	Sound9	\OPXX\Sounds\connected.wav
-LastSession	connecttype	0
-LastSession	callsign	Select_Callsign_Here------>
-LastSession	facility	0
-LastSession	rating	0
-LastSession	tovatsim	1
-LastSession	atis2	Select Your Callsign From The Dropdown Menu.
-LastSession	atis3	DO NOT REPLACE YOUR CALLSIGN AND CLICK CONNECT!
-LastSession	range	50
-LastSession	proxyserver	localhost
-LastSession	simdatapublish	0
 RecentFiles	Recent1	\OPXX\ASR\Cherat TMA.asr
 RecentFiles	Recent2	\OPXX\ASR\Peshawar SMR.asr
-RecentFiles	Recent3	\OPXX\ASR\Saidu Sharif SMR.asr
-RecentFiles	Recent4	\OPXX\ASR\Bannu SMR.asr
-RecentFiles	Recent5	\OPXX\ASR\Tarbela Dam SMR.asr
-LastSession	atis_freq4	118000
 Plugins	Plugin0Display2	DelHel
 Plugins	Plugin1Display1	SMR radar display
 Plugins	Plugin1Display2	Standard ES radar screen
@@ -100,3 +82,5 @@ Plugins	Plugin9	\OPXX\Plugins\Ground Radar Plugin\GRplugin.dll
 Plugins	Plugin9Display0	Ground Radar display
 Plugins	Plugin9Display1	Standard ES radar screen
 Plugins	Plugin6Display3	Ground Radar display
+
+Settings	sector	\OPXX-DEV_20251211190103-251201-0006.sct

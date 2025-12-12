@@ -42,8 +42,6 @@ Color_Redundant=47,120,12
 Color_Rwy_App_Line_Inuse=0,120,0
 Color_Rwy_App_Line_Not_Inuse=0,120,0
 Color_Rwy_Locked=255,255,255
-Color_Sid_Star_Allocation=15,185,15
-Color_Sid_Star_No_Allocation=15,185,15
 Color_Standard_Line_RDF=115,115,115
 Color_Standard_RDF=115,115,115
 Color_Track_Highlight=110,255,148
@@ -87,7 +85,6 @@ Label_AHDG_HideDctIfCOPX=0
 Label_Field18_Flag_Items=STS/,newbie,NEWBIE,Newbie,beginner,new,NEW
 Label_RTE_Origin=OP
 Label_Alt_Digits=2
-Label_All_N=0
 
 RDF_Mode=2
 RDF_Accuracy=0
@@ -122,8 +119,6 @@ System_TrueColorMode=1
 System_UseAcceptedCoordColor=1
 System_TaxiTime=15
 System_UseRwyLockedColor=0
-System_UseSidStarAllocationColor=0
-System_UseSidStarNoAllocationColor=0
 System_FPASD=0
 
 FlightLeg_FontSize=8
@@ -134,8 +129,6 @@ FlightLeg_AutoShow=1
 RwyAppLines_Length=10
 RwyAppLines_Markers=5
 RwyAppLines_Auto=0
-
-HTTP_SIGMET_Pages=6443
 
 Window_PDC_SetCFL=1
 

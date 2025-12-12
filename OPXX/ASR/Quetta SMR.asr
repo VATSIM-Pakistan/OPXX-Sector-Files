@@ -1,8 +1,8 @@
 DisplayTypeName:SMR radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-SECTORFILE:
-SECTORTITLE:
+SECTORFILE:C:\Users\salma\Desktop\Latest Dev Test\OPXX-DEV_20251211190103-251201-0006.sct
+SECTORTITLE:OPXX-DEV_20251211190103-251201-0006.sct
 Airports:OPQT:name
 Airports:OPQT:symbol
 Free Text:OPQT Ground Freetext\1:freetext
@@ -40,7 +40,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:314.00000
 TAGFAMILY:TopSky_Pakistan_TWR
-WINDOWAREA:30.241678:66.913711:30.266445:66.967600
+WINDOWAREA:30.136113:66.854971:30.255298:67.111934
 PLUGIN:TopSky plugin:NoDraw:1
 PLUGIN:vSMR:ActiveProfile:Pakistan vACC
 PLUGIN:vSMR:Afterglow:1

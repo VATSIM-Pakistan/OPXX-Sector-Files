@@ -1,12 +1,12 @@
 /// OPIS - Islamabad domestic Groups
 GROUP:OPISDOM:ABQ:SEP:SIF:FJL:PIA
 
-/// OPKC – Karachi domestic airlines 
+/// OPKC ? Karachi domestic airlines 
 GROUP:KHIDOMESTIC:ABQ:SEP:SIF:FJL:PIA
 
-// === OPLA – Lahore stands 1–20 ===
+// === OPLA ? Lahore stands 1?20 ===
 
-// stand 1 – Medium airliners only
+// stand 1 ? Medium airliners only
 STAND:OPLA:1:N031.31.25.387:E074.24.34.805:35
 ENGINETYPE:J
 BLOCKS:1
@@ -14,7 +14,7 @@ WTC:LM
 USE:A
 PRIORITY:+1
 
-// stand 2 – Medium airliners only
+// stand 2 ? Medium airliners only
 STAND:OPLA:2:N031.31.23.346:E074.24.34.842:35
 ENGINETYPE:J
 BLOCKS:2
@@ -22,7 +22,7 @@ WTC:LM
 USE:A
 PRIORITY:+1
 
-// stand 3 – Airliners (medium + heavy)
+// stand 3 ? Airliners (medium + heavy)
 STAND:OPLA:3:N031.31.19.696:E074.24.34.599:35
 ENGINETYPE:J
 BLOCKS:3
@@ -31,7 +31,7 @@ USE:A
 PRIORITY:+1
 WINGSPAN:30:80
 
-// stand 4 – Airliners (medium + heavy)
+// stand 4 ? Airliners (medium + heavy)
 STAND:OPLA:4:N031.31.18.107:E074.24.34.404:35
 ENGINETYPE:J
 BLOCKS:4
@@ -40,7 +40,7 @@ USE:A
 PRIORITY:+1
 WINGSPAN:30:80
 
-// stand 5 – Airliners (medium + heavy)
+// stand 5 ? Airliners (medium + heavy)
 STAND:OPLA:5:N031.31.15.751:E074.24.34.234:35
 ENGINETYPE:J
 BLOCKS:5
@@ -49,7 +49,7 @@ USE:A
 PRIORITY:+1
 WINGSPAN:30:80
 
-// stand 6 – Airliners (medium + heavy)
+// stand 6 ? Airliners (medium + heavy)
 STAND:OPLA:6:N031.31.13.416:E074.24.34.113:35
 ENGINETYPE:J
 BLOCKS:6
@@ -58,7 +58,7 @@ USE:A
 PRIORITY:+1
 WINGSPAN:30:80
 
-// stand 7 – Airliners (medium + heavy)
+// stand 7 ? Airliners (medium + heavy)
 STAND:OPLA:7:N031.31.11.101:E074.24.34.247:35
 ENGINETYPE:J
 BLOCKS:7
@@ -67,7 +67,7 @@ USE:A
 PRIORITY:+1
 WINGSPAN:30:80
 
-// stand 8 – Airliners (medium + heavy)
+// stand 8 ? Airliners (medium + heavy)
 STAND:OPLA:8:N031.31.08.724:E074.24.34.307:35
 ENGINETYPE:J
 BLOCKS:8
@@ -76,7 +76,7 @@ USE:A
 PRIORITY:+1
 WINGSPAN:30:80
 
-// stand 9 – Medium airliners only
+// stand 9 ? Medium airliners only
 STAND:OPLA:9:N031.31.07.420:E074.24.35.388:35
 ENGINETYPE:J
 BLOCKS:9
@@ -85,7 +85,7 @@ USE:A
 PRIORITY:+1
 WINGSPAN:20:40
 
-// stand 10 – Cargo only, heavy-capable
+// stand 10 ? Cargo only, heavy-capable
 STAND:OPLA:10:N031.31.03.506:E074.24.34.210:35
 ENGINETYPE:J
 BLOCKS:10
@@ -93,7 +93,7 @@ WTC:MHJ
 USE:C
 PRIORITY:-1
 
-// stand 11 – Cargo only, heavy-capable
+// stand 11 ? Cargo only, heavy-capable
 STAND:OPLA:11:N031.31.01.455:E074.24.34.368:35
 ENGINETYPE:J
 BLOCKS:11
@@ -101,7 +101,7 @@ WTC:MHJ
 USE:C
 PRIORITY:-1
 
-// stand 12 – Medium airliners + ATRs / turboprops
+// stand 12 ? Medium airliners + ATRs / turboprops
 STAND:OPLA:12:N031.31.06.124:E074.24.26.761:35
 ENGINETYPE:JP
 BLOCKS:12
@@ -110,7 +110,7 @@ USE:A
 PRIORITY:+1
 WINGSPAN:0:40
 
-// stand 13 – Medium airliners + ATRs / turboprops
+// stand 13 ? Medium airliners + ATRs / turboprops
 STAND:OPLA:13:N031.31.07.873:E074.24.27.004:35
 ENGINETYPE:JP
 BLOCKS:13
@@ -119,7 +119,7 @@ USE:A
 PRIORITY:+1
 WINGSPAN:0:40
 
-// stand 14 – Medium airliners + ATRs / turboprops
+// stand 14 ? Medium airliners + ATRs / turboprops
 STAND:OPLA:14:N031.31.09.543:E074.24.27.065:35
 ENGINETYPE:JP
 BLOCKS:14
@@ -128,7 +128,7 @@ USE:A
 PRIORITY:+1
 WINGSPAN:0:40
 
-// stand 15 – Medium airliners + ATRs / turboprops
+// stand 15 ? Medium airliners + ATRs / turboprops
 STAND:OPLA:15:N031.31.11.291:E074.24.27.034:35
 ENGINETYPE:JP
 BLOCKS:15
@@ -137,7 +137,7 @@ USE:A
 PRIORITY:+1
 WINGSPAN:0:40
 
-// stand 16 – Medium airliners + ATRs / turboprops
+// stand 16 ? Medium airliners + ATRs / turboprops
 STAND:OPLA:16:N031.31.13.014:E074.24.27.065:35
 ENGINETYPE:JP
 BLOCKS:16
@@ -146,7 +146,7 @@ USE:A
 PRIORITY:+1
 WINGSPAN:0:40
 
-// stand 17 – Medium airliners + ATRs / turboprops
+// stand 17 ? Medium airliners + ATRs / turboprops
 STAND:OPLA:17:N031.31.14.737:E074.24.27.338:35
 ENGINETYPE:JP
 BLOCKS:17
@@ -155,7 +155,7 @@ USE:A
 PRIORITY:+1
 WINGSPAN:0:40
 
-// stand 18 – Medium airliners + ATRs / turboprops
+// stand 18 ? Medium airliners + ATRs / turboprops
 STAND:OPLA:18:N031.31.16.479:E074.24.27.295:35
 ENGINETYPE:JP
 BLOCKS:18
@@ -164,7 +164,7 @@ USE:A
 PRIORITY:+1
 WINGSPAN:0:40
 
-// stand 19 – Medium airliners + ATRs / turboprops
+// stand 19 ? Medium airliners + ATRs / turboprops
 STAND:OPLA:19:N031.31.18.246:E074.24.27.210:35
 ENGINETYPE:JP
 BLOCKS:19
@@ -173,7 +173,7 @@ USE:A
 PRIORITY:+1
 WINGSPAN:0:40
 
-// stand 20 – Medium airliners + ATRs / turboprops
+// stand 20 ? Medium airliners + ATRs / turboprops
 STAND:OPLA:20:N031.31.19.961:E074.24.27.040:35
 ENGINETYPE:JP
 BLOCKS:20
@@ -182,7 +182,7 @@ USE:A
 PRIORITY:+1
 WINGSPAN:0:40
 
-// === OPIS – International terminal stands 1–10 ===
+// === OPIS ? International terminal stands 1?10 ===
 
 STAND:OPIS:1:N033.33.13.758:E072.50.13.508:35
 BLOCKS:1
@@ -226,7 +226,7 @@ USE:A
 PRIORITY:+2
 WINGSPAN:35:90
 
-// stand 7 – SUPER capable international gate
+// stand 7 ? SUPER capable international gate
 STAND:OPIS:7:N033.33.16.573:E072.49.56.884:35
 BLOCKS:7
 WTC:MHJ
@@ -255,9 +255,9 @@ USE:A
 PRIORITY:+2
 WINGSPAN:35:90
 
-// === OPIS – Medium-jet stands 11–12 ===
+// === OPIS ? Medium-jet stands 11?12 ===
 
-// stand 11 – mediums only
+// stand 11 ? mediums only
 STAND:OPIS:11:N033.33.10.861:E072.49.46.639:35
 BLOCKS:11
 WTC:LM
@@ -265,7 +265,7 @@ USE:A
 PRIORITY:0
 WINGSPAN:25:40
 
-// stand 12 – mediums only
+// stand 12 ? mediums only
 STAND:OPIS:12:N033.33.09.403:E072.49.43.983:35
 BLOCKS:12
 WTC:LM
@@ -273,9 +273,9 @@ USE:A
 PRIORITY:0
 WINGSPAN:25:40
 
-// === OPIS – Domestic terminal stands 13–28 ===
+// === OPIS ? Domestic terminal stands 13?28 ===
 
-// stand 13 – medium airliners only
+// stand 13 ? medium airliners only
 STAND:OPIS:13:N033.33.12.113:E072.49.38.151:35
 BLOCKS:13
 WTC:LM
@@ -284,7 +284,7 @@ PRIORITY:+1
 CALLSIGN:GROUP_OPISDOM
 WINGSPAN:25:45
 
-// stand 14 – medium airliners only
+// stand 14 ? medium airliners only
 STAND:OPIS:14:N033.33.12.944:E072.49.39.851:35
 BLOCKS:14
 WTC:LM
@@ -293,7 +293,7 @@ PRIORITY:+1
 CALLSIGN:GROUP_OPISDOM
 WINGSPAN:25:45
 
-// stand 15 – heavy capable airliner
+// stand 15 ? heavy capable airliner
 STAND:OPIS:15:N033.33.14.122:E072.49.42.195:35
 BLOCKS:15
 WTC:MH
@@ -302,7 +302,7 @@ PRIORITY:+2
 CALLSIGN:GROUP_OPISDOM
 WINGSPAN:35:65
 
-// stand 16 – heavy capable airliner
+// stand 16 ? heavy capable airliner
 STAND:OPIS:16:N033.33.15.258:E072.49.44.308:35
 BLOCKS:16
 WTC:MH
@@ -311,7 +311,7 @@ PRIORITY:+2
 CALLSIGN:GROUP_OPISDOM
 WINGSPAN:35:65
 
-// stand 17 – heavy capable airliner
+// stand 17 ? heavy capable airliner
 STAND:OPIS:17:N033.33.16.626:E072.49.46.918:35
 BLOCKS:17
 WTC:MH
@@ -320,7 +320,7 @@ PRIORITY:+2
 CALLSIGN:GROUP_OPISDOM
 WINGSPAN:35:65
 
-// stand 18 – heavy capable airliner
+// stand 18 ? heavy capable airliner
 STAND:OPIS:18:N033.33.17.909:E072.49.49.359:35
 BLOCKS:18
 WTC:MH
@@ -329,7 +329,7 @@ PRIORITY:+2
 CALLSIGN:GROUP_OPISDOM
 WINGSPAN:35:65
 
-// stand 19 – heavy capable airliner
+// stand 19 ? heavy capable airliner
 STAND:OPIS:19:N033.33.19.141:E072.49.51.681:35
 BLOCKS:19
 WTC:MH
@@ -338,7 +338,7 @@ PRIORITY:+2
 CALLSIGN:GROUP_OPISDOM
 WINGSPAN:35:65
 
-// stand 20 – SUPER capable (A388, domestic)
+// stand 20 ? SUPER capable (A388, domestic)
 STAND:OPIS:20:N033.33.21.416:E072.49.54.079:35
 BLOCKS:20
 WTC:MHJ
@@ -347,7 +347,7 @@ PRIORITY:+3
 CALLSIGN:GROUP_OPISDOM
 WINGSPAN:50:90
 
-// stand 21 – heavy capable airliner
+// stand 21 ? heavy capable airliner
 STAND:OPIS:21:N033.33.23.836:E072.49.54.580:35
 BLOCKS:21
 WTC:MH
@@ -356,7 +356,7 @@ PRIORITY:+2
 CALLSIGN:GROUP_OPISDOM
 WINGSPAN:35:65
 
-// stand 22 – heavy capable airliner
+// stand 22 ? heavy capable airliner
 STAND:OPIS:22:N033.33.25.676:E072.49.55.248:35
 BLOCKS:22
 WTC:MH
@@ -365,7 +365,7 @@ PRIORITY:+2
 CALLSIGN:GROUP_OPISDOM
 WINGSPAN:35:65
 
-// stand 23 – mediums only
+// stand 23 ? mediums only
 STAND:OPIS:23:N033.33.27.899:E072.49.55.020:35
 BLOCKS:23
 WTC:LM
@@ -374,7 +374,7 @@ PRIORITY:0
 CALLSIGN:GROUP_OPISDOM
 WINGSPAN:25:45
 
-// stand 24 – mediums only
+// stand 24 ? mediums only
 STAND:OPIS:24:N033.33.29.187:E072.49.55.339:35
 BLOCKS:24
 WTC:LM
@@ -383,7 +383,7 @@ PRIORITY:0
 CALLSIGN:GROUP_OPISDOM
 WINGSPAN:25:45
 
-// stand 25 – mediums only
+// stand 25 ? mediums only
 STAND:OPIS:25:N033.33.30.423:E072.49.55.749:35
 BLOCKS:25
 WTC:LM
@@ -392,7 +392,7 @@ PRIORITY:0
 CALLSIGN:GROUP_OPISDOM
 WINGSPAN:25:45
 
-// stand 26–28 → ATR / turboprops only
+// stand 26?28 ? ATR / turboprops only
 STAND:OPIS:26:N033.33.31.567:E072.49.56.432:35
 BLOCKS:26
 ENGINETYPE:JP
@@ -420,9 +420,9 @@ PRIORITY:-1
 CALLSIGN:GROUP_OPISDOM
 WINGSPAN:0:40
 
-// === OPIS – Cargo stands 29–31 ===
+// === OPIS ? Cargo stands 29?31 ===
 
-// stand 29 – heavy cargo only
+// stand 29 ? heavy cargo only
 STAND:OPIS:29:N033.33.02.709:E072.50.44.113:35
 BLOCKS:29
 WTC:MHJ
@@ -430,7 +430,7 @@ USE:C
 PRIORITY:+2
 WINGSPAN:40:90
 
-// stand 30 – medium cargo only
+// stand 30 ? medium cargo only
 STAND:OPIS:30:N033.33.02.224:E072.50.47.237:35
 BLOCKS:30
 WTC:LM
@@ -438,7 +438,7 @@ USE:C
 PRIORITY:+1
 WINGSPAN:0:45
 
-// stand 31 – medium cargo only
+// stand 31 ? medium cargo only
 STAND:OPIS:31:N033.33.01.706:E072.50.50.361:35
 BLOCKS:31
 WTC:LM
@@ -446,7 +446,7 @@ USE:C
 PRIORITY:+1
 WINGSPAN:0:45
 
-// === OPIS – GA / Private stands 32–33 ===
+// === OPIS ? GA / Private stands 32?33 ===
 
 STAND:OPIS:32:N033.33.14.398:E072.49.10.550:35
 BLOCKS:32
@@ -465,9 +465,9 @@ WINGSPAN:0:25
 LENGTH:0:25
 
 
-// === OPKC – Domestic terminal stands 11–18 ===
+// === OPKC ? Domestic terminal stands 11?18 ===
 
-// stand 11 – Domestic narrowbody
+// stand 11 ? Domestic narrowbody
 STAND:OPKC:11:N024.54.02.660:E067.09.57.406:35
 ENGINETYPE:J
 BLOCKS:11
@@ -476,7 +476,7 @@ USE:A
 PRIORITY:+1
 CALLSIGN:GROUP_KHIDOMESTIC
 
-// stand 12 – Domestic narrowbody
+// stand 12 ? Domestic narrowbody
 STAND:OPKC:12:N024.54.03.835:E067.09.55.737:35
 ENGINETYPE:J
 BLOCKS:12
@@ -485,7 +485,7 @@ USE:A
 PRIORITY:+1
 CALLSIGN:GROUP_KHIDOMESTIC
 
-// stand 13 – Domestic narrowbody
+// stand 13 ? Domestic narrowbody
 STAND:OPKC:13:N024.54.05.509:E067.09.54.761:35
 ENGINETYPE:J
 BLOCKS:13
@@ -494,7 +494,7 @@ USE:A
 PRIORITY:+1
 CALLSIGN:GROUP_KHIDOMESTIC
 
-// stand 14 – Domestic, heavy-capable
+// stand 14 ? Domestic, heavy-capable
 STAND:OPKC:14:N024.54.07.552:E067.09.55.016:35
 ENGINETYPE:J
 BLOCKS:14
@@ -503,7 +503,7 @@ USE:A
 PRIORITY:+1
 CALLSIGN:GROUP_KHIDOMESTIC
 
-// stand 15 – Domestic narrowbody
+// stand 15 ? Domestic narrowbody
 STAND:OPKC:15:N024.54.08.840:E067.09.56.903:35
 ENGINETYPE:J
 BLOCKS:15
@@ -512,7 +512,7 @@ USE:A
 PRIORITY:+1
 CALLSIGN:GROUP_KHIDOMESTIC
 
-// stand 16 – Domestic, heavy-capable
+// stand 16 ? Domestic, heavy-capable
 STAND:OPKC:16:N024.54.08.860:E067.09.59.371:35
 ENGINETYPE:J
 BLOCKS:16
@@ -521,7 +521,7 @@ USE:A
 PRIORITY:+1
 CALLSIGN:GROUP_KHIDOMESTIC
 
-// stand 17 – Domestic narrowbody
+// stand 17 ? Domestic narrowbody
 STAND:OPKC:17:N024.54.07.020:E067.10.00.693:35
 ENGINETYPE:J
 BLOCKS:17
@@ -530,7 +530,7 @@ USE:A
 PRIORITY:+1
 CALLSIGN:GROUP_KHIDOMESTIC
 
-// stand 18 – Domestic narrowbody
+// stand 18 ? Domestic narrowbody
 STAND:OPKC:18:N024.54.05.194:E067.10.01.312:35
 ENGINETYPE:J
 BLOCKS:18
@@ -539,9 +539,9 @@ USE:A
 PRIORITY:+1
 CALLSIGN:GROUP_KHIDOMESTIC
 
-// === OPKC – International terminal stands 21–28 ===
+// === OPKC ? International terminal stands 21?28 ===
 
-// stand 21 – Intl narrow/medium
+// stand 21 ? Intl narrow/medium
 STAND:OPKC:21:N024.54.06.601:E067.10.06.959:35
 ENGINETYPE:J
 BLOCKS:21
@@ -549,7 +549,7 @@ WTC:LM
 USE:A
 PRIORITY:+1
 
-// stand 22 – Intl narrow/medium
+// stand 22 ? Intl narrow/medium
 STAND:OPKC:22:N024.54.08.448:E067.10.06.313:35
 ENGINETYPE:J
 BLOCKS:22
@@ -557,7 +557,7 @@ WTC:LM
 USE:A
 PRIORITY:+1
 
-// stand 23 – Intl heavy stand
+// stand 23 ? Intl heavy stand
 STAND:OPKC:23:N024.54.10.495:E067.10.06.637:35
 ENGINETYPE:J
 BLOCKS:23
@@ -565,7 +565,7 @@ WTC:MH
 USE:A
 PRIORITY:+1
 
-// stand 24 – Intl heavy stand
+// stand 24 ? Intl heavy stand
 STAND:OPKC:24:N024.54.11.562:E067.10.08.577:35
 ENGINETYPE:J
 BLOCKS:24
@@ -573,7 +573,7 @@ WTC:MH
 USE:A
 PRIORITY:+1
 
-// stand 25 – Intl heavy stand
+// stand 25 ? Intl heavy stand
 STAND:OPKC:25:N024.54.11.411:E067.10.10.769:35
 ENGINETYPE:J
 BLOCKS:25
@@ -581,7 +581,7 @@ WTC:MH
 USE:A
 PRIORITY:+1
 
-// stand 26 – Intl mixed (med/heavy)
+// stand 26 ? Intl mixed (med/heavy)
 STAND:OPKC:26:N024.54.09.930:E067.10.12.238:35
 ENGINETYPE:J
 BLOCKS:26
@@ -589,7 +589,7 @@ WTC:MH
 USE:A
 PRIORITY:+1
 
-// stand 27 – Intl narrow/medium
+// stand 27 ? Intl narrow/medium
 STAND:OPKC:27:N024.54.08.082:E067.10.12.151:35
 ENGINETYPE:J
 BLOCKS:27
@@ -597,7 +597,7 @@ WTC:LM
 USE:A
 PRIORITY:+1
 
-// stand 28 – Intl narrow/medium
+// stand 28 ? Intl narrow/medium
 STAND:OPKC:28:N024.54.06.292:E067.10.11.521:35
 ENGINETYPE:J
 BLOCKS:28
@@ -605,9 +605,9 @@ WTC:LM
 USE:A
 PRIORITY:+1
 
-// === OPKC – GA / ATR / turboprops stands 67–69A ===
+// === OPKC ? GA / ATR / turboprops stands 67?69A ===
 
-// stand 67 – GA / ATR / turboprop
+// stand 67 ? GA / ATR / turboprop
 STAND:OPKC:67:N024.53.58.523:E067.09.27.088:35
 BLOCKS:67
 WTC:LM
@@ -615,7 +615,7 @@ USE:ABP
 PRIORITY:-1
 WINGSPAN:0:30
 
-// stand 68 – GA / ATR / turboprop
+// stand 68 ? GA / ATR / turboprop
 STAND:OPKC:68:N024.54.00.510:E067.09.26.966:35
 BLOCKS:68
 WTC:LM
@@ -623,7 +623,7 @@ USE:ABP
 PRIORITY:-1
 WINGSPAN:0:30
 
-// stand 68A – GA / ATR / turboprop (paired with 68)
+// stand 68A ? GA / ATR / turboprop (paired with 68)
 STAND:OPKC:68A:N024.54.02.408:E067.09.26.850:35
 BLOCKS:68
 WTC:LM
@@ -631,7 +631,7 @@ USE:ABP
 PRIORITY:-1
 WINGSPAN:0:30
 
-// stand 69 – GA / ATR / turboprop
+// stand 69 ? GA / ATR / turboprop
 STAND:OPKC:69:N024.54.04.210:E067.09.26.836:35
 BLOCKS:69
 WTC:LM
@@ -639,7 +639,7 @@ USE:ABP
 PRIORITY:-1
 WINGSPAN:0:30
 
-// stand 69A – GA / ATR / turboprop (paired with 69)
+// stand 69A ? GA / ATR / turboprop (paired with 69)
 STAND:OPKC:69A:N024.54.05.979:E067.09.26.809:35
 BLOCKS:69
 WTC:LM
@@ -647,9 +647,9 @@ USE:ABP
 PRIORITY:-1
 WINGSPAN:0:30
 
-// === OPKC – Cargo apron stands 70A–73 ===
+// === OPKC ? Cargo apron stands 70A?73 ===
 
-// stand 70A – Large cargo (incl. A388 / Antonov)
+// stand 70A ? Large cargo (incl. A388 / Antonov)
 STAND:OPKC:70A:N024.54.05.473:E067.09.28.610:35
 ENGINETYPE:J
 BLOCKS:70
@@ -657,7 +657,7 @@ WTC:MHJ
 USE:C
 PRIORITY:-1
 
-// stand 70 – Large cargo
+// stand 70 ? Large cargo
 STAND:OPKC:70:N024.54.05.434:E067.09.30.846:35
 ENGINETYPE:J
 BLOCKS:70
@@ -665,7 +665,7 @@ WTC:MHJ
 USE:C
 PRIORITY:-1
 
-// stand 71 – Large cargo
+// stand 71 ? Large cargo
 STAND:OPKC:71:N024.54.06.164:E067.09.33.422:35
 ENGINETYPE:J
 BLOCKS:71
@@ -673,7 +673,7 @@ WTC:MHJ
 USE:C
 PRIORITY:-1
 
-// stand 72 – Large cargo
+// stand 72 ? Large cargo
 STAND:OPKC:72:N024.54.06.810:E067.09.36.143:35
 ENGINETYPE:J
 BLOCKS:72
@@ -681,7 +681,7 @@ WTC:MHJ
 USE:C
 PRIORITY:-1
 
-// stand 73 – Large cargo
+// stand 73 ? Large cargo
 STAND:OPKC:73:N024.54.07.474:E067.09.38.775:35
 ENGINETYPE:J
 BLOCKS:73
