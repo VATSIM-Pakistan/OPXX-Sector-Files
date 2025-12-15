@@ -228,7 +228,8 @@
         {
           "direction": "EVEN",
           "destinations": [
-            "OPKC"
+            "OPKC",
+			"EGKK"
           ],
           "airways": [
             "G214"
@@ -264,7 +265,9 @@
           "destinations": [
             "UCFM",
             "UZTT",
-            "CYYZ"
+            "CYYZ",
+			"OPSD",
+			"OPIS"
           ],
           "airways": [
             "T400",

@@ -72,5 +72,3 @@ Plugins	Plugin3Display0	SMR radar display
 Plugins	Plugin3Display1	Standard ES radar screen
 Plugins	Plugin3Display2	DelHel
 Plugins	Plugin5Display3	Ground Radar display
-Settings	sector	\OPXX-DEV_20251211190103-251201-0006.sct
-LastSession	atis_freq4	118000

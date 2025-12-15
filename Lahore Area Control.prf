@@ -61,13 +61,13 @@ Sounds	Sound7	\OPXX\Sounds\landline_request.wav
 Sounds	Sound8	\OPXX\Sounds\supervisor_message.wav
 Sounds	Sound9	\OPXX\Sounds\connected.wav
 RecentFiles	Recent1	\OPXX\ASR\Lahore ACC Bandbox.asr
-RecentFiles	Recent2	\OPXX\ASR\Quetta SMR.asr
+RecentFiles	Recent2	\OPXX\ASR\Skardu SMR.asr
 RecentFiles	Recent3	\OPXX\ASR\Lahore SMR.asr
-RecentFiles	Recent4	\OPXX\ASR\Islamabad SMR.asr
+RecentFiles	Recent4	\OPXX\ASR\Multan SMR.asr
 RecentFiles	Recent5	\OPXX\ASR\Sialkot SMR.asr
-RecentFiles	Recent6	\OPXX\ASR\Multan SMR.asr
-RecentFiles	Recent7	\OPXX\ASR\Faisalabad SMR.asr
-RecentFiles	Recent8	\OPXX\ASR\Peshawar SMR.asr
+RecentFiles	Recent6	\OPXX\ASR\Quetta SMR.asr
+RecentFiles	Recent7	\OPXX\ASR\Islamabad SMR.asr
+RecentFiles	Recent8	\OPXX\ASR\Faisalabad SMR.asr
 Plugins	Plugin0Display2	SMR radar display
 Plugins	Plugin1Display1	SMR radar display
 Plugins	Plugin1Display2	Standard ES radar screen
@@ -92,5 +92,7 @@ Plugins	Plugin8Display1	Standard ES radar screen
 Plugins	Plugin9	\OPXX\Plugins\VFPC\VFPC.dll
 Plugins	Plugin9Display0	Ground Radar display
 Plugins	Plugin9Display1	Standard ES radar screen
-Settings	sector	\OPXX-DEV_20251211190103-251201-0006.sct
 LastSession	atis_freq4	118000
+Settings	sector	\OPXX-DEV_20251211190103-251201-0006.sct
+LastSession	atis_freq3	118000
+RecentFiles	Recent9	\OPXX\ASR\Peshawar SMR.asr

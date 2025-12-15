@@ -74,4 +74,5 @@ Plugins	Plugin7Display1	Standard ES radar screen
 Plugins	Plugin8	\OPXX\Plugins\VFPC\VFPC.dll
 Plugins	Plugin8Display0	Ground Radar display
 Plugins	Plugin8Display1	Standard ES radar screen
-Settings	sector	\OPXX-DEV_20251211190103-251201-0006.sct
+Plugins	Plugin5Display0	Ground Radar display
+Plugins	Plugin5Display1	Standard ES radar screen

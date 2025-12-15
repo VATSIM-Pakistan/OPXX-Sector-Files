@@ -77,20 +77,3 @@ Plugins	Plugin3Display2	Standard ES radar screen
 Plugins	Plugin7Display3	Standard ES radar screen
 Plugins	Plugin9Display0	Ground Radar display
 Plugins	Plugin9Display1	Standard ES radar screen
-Settings	sector	\OPXX-DEV_20251211190103-251201-0006.sct
-LastSession	atis_freq4	118000
-LastSession	connecttype	2
-LastSession	callsign	OPKC_APP
-LastSession	realname	Salman
-LastSession	certificate	1597249
-LastSession	password	AirbusA320@@@
-LastSession	facility	5
-LastSession	rating	6
-LastSession	server	SweatBox
-LastSession	tovatsim	1
-LastSession	atis2	"Karachi Approach" 
-LastSession	atis3	Covering the Karachi CTA up to FL195 | Report callsign, aircraft, and position on initial contact.
-LastSession	atis4	Interested in joining Pakistan vACC Discord? Join through community.vatsim.net | We love feedback --> https
-LastSession	range	150
-LastSession	proxyserver	localhost
-LastSession	simdatapublish	0

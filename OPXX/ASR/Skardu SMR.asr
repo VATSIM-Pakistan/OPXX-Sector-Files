@@ -1,6 +1,8 @@
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
 Airports:OPSD:name
 Airports:OPSD:symbol
 Free Text:OPSD Ground Freetext\A:freetext

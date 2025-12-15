@@ -78,5 +78,3 @@ Plugins	Plugin8	\OPXX\Plugins\Topsky Enroute OPXX\TopSky.dll
 Plugins	Plugin8Display0	Ground Radar display
 Plugins	Plugin8Display1	Standard ES radar screen
 Plugins	Plugin5Display3	Ground Radar display
-
-Settings	sector	\OPXX-DEV_20251211190103-251201-0006.sct
