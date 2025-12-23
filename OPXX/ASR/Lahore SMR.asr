@@ -1,8 +1,8 @@
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-SECTORFILE:C:\Users\salma\Desktop\Latest Dev Test\OPXX-DEV_20251211190103-251201-0006.sct
-SECTORTITLE:OPXX-DEV_20251211190103-251201-0006.sct
+SECTORFILE:
+SECTORTITLE:
 Free Text:OPLA Ground Freetext\1:freetext
 Free Text:OPLA Ground Freetext\10:freetext
 Free Text:OPLA Ground Freetext\11:freetext
@@ -81,8 +81,8 @@ SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:89.00000
-TAGFAMILY:Matias (built in)
-WINDOWAREA:31.501181:74.355074:31.542806:74.444819
+TAGFAMILY:GRplugin
+WINDOWAREA:31.506997:74.367330:31.537746:74.433626
 PLUGIN:Ground Radar plugin:AirportElevation:714
 PLUGIN:Ground Radar plugin:AirportRadius:1.7
 PLUGIN:Ground Radar plugin:GroundMode:OPLA

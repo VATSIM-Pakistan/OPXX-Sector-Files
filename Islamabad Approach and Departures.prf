@@ -56,8 +56,7 @@ Sounds	Sound7	\OPXX\Sounds\landline_request.wav
 Sounds	Sound8	\OPXX\Sounds\supervisor_message.wav
 Sounds	Sound9	\OPXX\Sounds\connected.wav
 RecentFiles	Recent1	\OPXX\ASR\Islamabad Approach.asr
-RecentFiles	Recent2	\OPXX\ASR\Chaklala SMR (OPRN).asr
-LastSession	atis_freq4	118000
+RecentFiles	Recent2	\OPXX\ASR\Islamabad SMR.asr
 Plugins	Plugin1Display1	Standard ES radar screen
 Plugins	Plugin2Display0	SMR radar display
 Plugins	Plugin2Display1	Standard ES radar screen
@@ -82,4 +81,6 @@ Plugins	Plugin9Display0	Ground Radar display
 Plugins	Plugin9Display1	Standard ES radar screen
 Plugins	Plugin3Display2	Standard ES radar screen
 Plugins	Plugin6Display3	Ground Radar display
-RecentFiles	Recent3	\OPXX\ASR\Islamabad SMR.asr
+RecentFiles	Recent3	\OPXX\ASR\Chaklala SMR (OPRN).asr
+Plugins	Plugin10	\OPXX\Plugins\RDF-1.2.2\Release\RDFPlugin.dll
+Plugins	Plugin10Display0	Standard ES radar screen

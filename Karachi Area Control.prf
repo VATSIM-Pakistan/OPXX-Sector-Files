@@ -58,8 +58,8 @@ Sounds	Sound7	\OPXX\Sounds\landline_request.wav
 Sounds	Sound8	\OPXX\Sounds\supervisor_message.wav
 Sounds	Sound9	\OPXX\Sounds\connected.wav
 RecentFiles	Recent1	\OPXX\ASR\Karachi ACC Bandbox.asr
-RecentFiles	Recent5	\OPXX\ASR\Nawabshah SMR.asr
-RecentFiles	Recent4	\OPXX\ASR\Hyderabad SMR.asr
+RecentFiles	Recent5	\OPXX\ASR\Hyderabad SMR.asr
+RecentFiles	Recent4	\OPXX\ASR\Nawabshah SMR.asr
 Plugins	Plugin0Display2	DelHel
 Plugins	Plugin1Display1	SMR radar display
 Plugins	Plugin1Display2	DelHel
@@ -88,5 +88,6 @@ Plugins	Plugin8Display0	Ground Radar display
 Plugins	Plugin8Display1	Standard ES radar screen
 RecentFiles	Recent6	\OPXX\ASR\Hyderabad SMR.asr
 RecentFiles	Recent2	\OPXX\ASR\Karachi SMR.asr
-RecentFiles	Recent3	\OPXX\ASR\Nawabshah SMR.asr
-LastSession	atis_freq4	118000
+RecentFiles	Recent3	\OPXX\ASR\Hyderabad SMR.asr
+Plugins	Plugin10	\OPXX\Plugins\RDF-1.2.2\Release\RDFPlugin.dll
+Plugins	Plugin10Display0	Standard ES radar screen

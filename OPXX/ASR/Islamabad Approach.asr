@@ -1,8 +1,8 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:
-SECTORTITLE:
+SECTORFILE:C:\Users\salma\Desktop\Latest Dev Test\OPXX-DEV_20251218122620-251201-0011.sct
+SECTORTITLE:OPXX-DEV_20251218122620-251201-0011.sct
 Airports:OPIS:name
 Airports:OPIS:symbol
 ARTCC boundary:ISB ACC:
@@ -28,8 +28,8 @@ SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
-TAGFAMILY:TopSky_Pakistan
-WINDOWAREA:32.328887:70.438480:35.137066:75.938813
+TAGFAMILY:Pakistan Tag Family (Standard)
+WINDOWAREA:32.328887:70.161428:35.137066:76.215865
 PLUGIN:EuroScope History Trails:HistoryTrailAntiAlias:1
 PLUGIN:EuroScope History Trails:HistoryTrailColour:255,130,20
 PLUGIN:EuroScope History Trails:HistoryTrailDegrade:1

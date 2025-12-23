@@ -12781,6 +12781,7 @@ UKBB	BORYSPIL INTL	Ukraine and Moldovia
 UKBL	BRODY	Ukraine and Moldovia
 UKBM	MYRHOROD	Ukraine and Moldovia
 UKBP	PRYLUKY	Ukraine and Moldovia
+UKCM	Mariupol	Ukraine and Moldovia
 UKDB	BERDIANSK	Ukraine and Moldovia
 UKDD	DNIPRO	Ukraine and Moldovia
 UKDE	ZAPORIZHZHIA INTL	Ukraine and Moldovia

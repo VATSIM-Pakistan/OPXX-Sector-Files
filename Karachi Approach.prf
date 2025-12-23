@@ -77,3 +77,5 @@ Plugins	Plugin3Display2	Standard ES radar screen
 Plugins	Plugin7Display3	Standard ES radar screen
 Plugins	Plugin9Display0	Ground Radar display
 Plugins	Plugin9Display1	Standard ES radar screen
+Plugins	Plugin10	\OPXX\Plugins\RDF-1.2.2\Release\RDFPlugin.dll
+Plugins	Plugin10Display0	Standard ES radar screen

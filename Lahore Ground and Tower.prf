@@ -58,8 +58,8 @@ Sounds	Sound7	\OPXX\Sounds\landline_request.wav
 Sounds	Sound8	\OPXX\Sounds\supervisor_message.wav
 Sounds	Sound9	\OPXX\Sounds\connected.wav
 RecentFiles	Recent1	\OPXX\ASR\Lahore SMR.asr
-RecentFiles	Recent2	\OPXX\ASR\Lahore 18L 36R.asr
-RecentFiles	Recent3	\OPXX\ASR\Lahore 18R 36L.asr
+RecentFiles	Recent2	\OPXX\ASR\Lahore 18R 36L.asr
+RecentFiles	Recent3	\OPXX\ASR\Lahore 18L 36R.asr
 Plugins	Plugin0Display2	DelHel
 Plugins	Plugin1Display2	DelHel
 Plugins	Plugin2Display2	Standard ES radar screen

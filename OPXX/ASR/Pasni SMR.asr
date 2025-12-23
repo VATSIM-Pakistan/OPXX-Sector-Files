@@ -1,8 +1,8 @@
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-SECTORFILE:C:\Users\salma\Desktop\Latest Dev Test\OPXX-DEV_20251211190103-251201-0006.sct
-SECTORTITLE:OPXX-DEV_20251211190103-251201-0006.sct
+SECTORFILE:
+SECTORTITLE:
 Airports:OPPI:name
 Airports:OPPI:symbol
 Free Text:OPPI Ground Freetext\APRON:freetext
