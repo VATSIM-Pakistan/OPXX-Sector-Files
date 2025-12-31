@@ -54,9 +54,6 @@ Sounds	Sound6	\OPXX\Sounds\broadcast_message.wav
 Sounds	Sound7	\OPXX\Sounds\landline_request.wav
 Sounds	Sound8	\OPXX\Sounds\supervisor_message.wav
 Sounds	Sound9	\OPXX\Sounds\connected.wav
-RecentFiles	Recent1	\OPXX\ASR\Lahore APP 18L 36R.asr
-RecentFiles	Recent2	\OPXX\ASR\Lahore APP 18R 36L.asr
-RecentFiles	Recent3	\OPXX\ASR\Lahore SMR.asr
 Plugins	Plugin1Display1	SMR radar display
 Plugins	Plugin1Display2	Standard ES radar screen
 Plugins	Plugin2Display0	SMR radar display

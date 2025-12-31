@@ -1,8 +1,8 @@
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-SECTORFILE:
-SECTORTITLE:
+SECTORFILE:G:\Pakistan Sector Files\OPXX-DEV_20251223201738-251201-0013.sct
+SECTORTITLE:OPXX-DEV_20251223201738-251201-0013.sct
 Airports:OPKD:name
 Airports:OPKD:symbol
 Free Text:OPKD Ground Freetext\APRON:freetext
@@ -21,7 +21,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:65.00000
 TAGFAMILY:Matias (built in)
-WINDOWAREA:25.311077:68.348270:25.327074:68.382759
+WINDOWAREA:25.295898:68.313678:25.344717:68.418931
 PLUGIN:Ground Radar plugin:AirportElevation:145
 PLUGIN:Ground Radar plugin:AirportRadius:1.7
 PLUGIN:Ground Radar plugin:GroundMode:OPKD

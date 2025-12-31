@@ -11747,6 +11747,8 @@ SADM	MORON	Argentina
 SADP	EL PALOMAR	Argentina
 SAEM	MIRAMAR	Argentina
 SAEZ	EZEIZA INTL/MINISTRO PISTARINI	Argentina
+SAFS	Sunchales	Argentina
+SAFV	Venado Tuerto	Argentina
 SAHC	CHOS MALAL	Argentina
 SAHZ	ZAPALA	Argentina
 SAME	EL PLUMERILLO	Argentina
@@ -11783,6 +11785,8 @@ SAWE	RIO GRANDE	Argentina
 SAWG	NORBERTO FERNANDEZ	Argentina
 SAWH	MALVINAS ARGENTINAS	Argentina
 SAZB	COMANDANTE ESPORA	Argentina
+SAZD	Dolores	Argentina
+SAZF	Olavarria	Argentina
 SAZG	GENERAL PICO	Argentina
 SAZM	ASTOR PIAZZOLLA	Argentina
 SAZN	PRESIDENTE PERON	Argentina
@@ -12914,6 +12918,8 @@ UNBG	GORNO-ALTAISK	Russian Federation
 UNEE	KEMEROVO	Russian Federation
 UNII	YENISEYSK	Russian Federation
 UNIP	PODKAMENNAYA TUNGUSKA	Russian Federation
+UNIW	VANAVARA	Russian Federation
+UNKI	KODINSK	Russian Federation
 UNKL	KRASNOYARSK	Russian Federation
 UNKM	CHEREMSHANKA	Russian Federation
 UNKO	Sharypovo	Russian Federation

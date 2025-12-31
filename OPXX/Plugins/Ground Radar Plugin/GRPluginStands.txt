@@ -12,7 +12,7 @@ ENGINETYPE:J
 BLOCKS:1
 WTC:LM
 USE:A
-PRIORITY:+1
+PRIORITY:-1
 
 // stand 2 ? Medium airliners only
 STAND:OPLA:2:N031.31.23.346:E074.24.34.842:35
@@ -20,7 +20,7 @@ ENGINETYPE:J
 BLOCKS:2
 WTC:LM
 USE:A
-PRIORITY:+1
+PRIORITY:-1
 
 // stand 3 ? Airliners (medium + heavy)
 STAND:OPLA:3:N031.31.19.696:E074.24.34.599:35
@@ -107,7 +107,7 @@ ENGINETYPE:JP
 BLOCKS:12
 WTC:LM
 USE:A
-PRIORITY:+1
+PRIORITY:-1
 WINGSPAN:0:40
 
 // stand 13 ? Medium airliners + ATRs / turboprops
@@ -116,7 +116,7 @@ ENGINETYPE:JP
 BLOCKS:13
 WTC:LM
 USE:A
-PRIORITY:+1
+PRIORITY:-1
 WINGSPAN:0:40
 
 // stand 14 ? Medium airliners + ATRs / turboprops
@@ -125,7 +125,7 @@ ENGINETYPE:JP
 BLOCKS:14
 WTC:LM
 USE:A
-PRIORITY:+1
+PRIORITY:-1
 WINGSPAN:0:40
 
 // stand 15 ? Medium airliners + ATRs / turboprops
@@ -134,7 +134,7 @@ ENGINETYPE:JP
 BLOCKS:15
 WTC:LM
 USE:A
-PRIORITY:+1
+PRIORITY:-1
 WINGSPAN:0:40
 
 // stand 16 ? Medium airliners + ATRs / turboprops
@@ -143,7 +143,7 @@ ENGINETYPE:JP
 BLOCKS:16
 WTC:LM
 USE:A
-PRIORITY:+1
+PRIORITY:-1
 WINGSPAN:0:40
 
 // stand 17 ? Medium airliners + ATRs / turboprops
@@ -152,7 +152,7 @@ ENGINETYPE:JP
 BLOCKS:17
 WTC:LM
 USE:A
-PRIORITY:+1
+PRIORITY:-1
 WINGSPAN:0:40
 
 // stand 18 ? Medium airliners + ATRs / turboprops
@@ -161,7 +161,7 @@ ENGINETYPE:JP
 BLOCKS:18
 WTC:LM
 USE:A
-PRIORITY:+1
+PRIORITY:-1
 WINGSPAN:0:40
 
 // stand 19 ? Medium airliners + ATRs / turboprops
@@ -170,7 +170,7 @@ ENGINETYPE:JP
 BLOCKS:19
 WTC:LM
 USE:A
-PRIORITY:+1
+PRIORITY:-1
 WINGSPAN:0:40
 
 // stand 20 ? Medium airliners + ATRs / turboprops
@@ -179,7 +179,7 @@ ENGINETYPE:JP
 BLOCKS:20
 WTC:LM
 USE:A
-PRIORITY:+1
+PRIORITY:-1
 WINGSPAN:0:40
 
 // === OPIS ? International terminal stands 1?10 ===

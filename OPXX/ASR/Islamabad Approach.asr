@@ -1,8 +1,8 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:C:\Users\salma\Desktop\Latest Dev Test\OPXX-DEV_20251218122620-251201-0011.sct
-SECTORTITLE:OPXX-DEV_20251218122620-251201-0011.sct
+SECTORFILE:
+SECTORTITLE:
 Airports:OPIS:name
 Airports:OPIS:symbol
 ARTCC boundary:ISB ACC:

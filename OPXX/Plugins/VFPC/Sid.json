@@ -108,13 +108,15 @@
             "WMKK"
           ],
           "airways": [
-            "Z10"
+            "Z10",
+			"N519"
           ]
         },
         {
           "direction": "ODD",
           "airways": [
-            "Z10"
+            "Z10",
+			"N519"
           ]
         }
       ]

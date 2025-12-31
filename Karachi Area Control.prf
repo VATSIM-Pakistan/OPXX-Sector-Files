@@ -1,8 +1,8 @@
 ASRFastKeys	1	\OPXX\ASR\Karachi ACC Bandbox.asr
 ASRFastKeys	2	\OPXX\ASR\Karachi SMR.asr
 ASRFastKeys	3	\OPXX\ASR\Nawabshah SMR.asr
-ASRFastKeys	5	\OPXX\ASR\Turbat SMR.asr
 ASRFastKeys	4	\OPXX\ASR\Hyderabad SMR.asr
+ASRFastKeys	5	\OPXX\ASR\Turbat SMR.asr
 Plugins	Plugin0	\OPXX\Plugins\MAESTRO\MAESTRO.dll
 Plugins	Plugin0Display0	Standard ES radar screen
 Plugins	Plugin0Display1	SMR radar display
@@ -57,9 +57,6 @@ Sounds	Sound6	\OPXX\Sounds\broadcast_message.wav
 Sounds	Sound7	\OPXX\Sounds\landline_request.wav
 Sounds	Sound8	\OPXX\Sounds\supervisor_message.wav
 Sounds	Sound9	\OPXX\Sounds\connected.wav
-RecentFiles	Recent1	\OPXX\ASR\Karachi ACC Bandbox.asr
-RecentFiles	Recent5	\OPXX\ASR\Hyderabad SMR.asr
-RecentFiles	Recent4	\OPXX\ASR\Nawabshah SMR.asr
 Plugins	Plugin0Display2	DelHel
 Plugins	Plugin1Display1	SMR radar display
 Plugins	Plugin1Display2	DelHel
@@ -86,7 +83,6 @@ Plugins	Plugin9Display0	Ground Radar display
 Plugins	Plugin9Display1	Standard ES radar screen
 Plugins	Plugin8Display0	Ground Radar display
 Plugins	Plugin8Display1	Standard ES radar screen
-RecentFiles	Recent6	\OPXX\ASR\Hyderabad SMR.asr
 RecentFiles	Recent2	\OPXX\ASR\Karachi SMR.asr
 RecentFiles	Recent3	\OPXX\ASR\Hyderabad SMR.asr
 Plugins	Plugin10	\OPXX\Plugins\RDF-1.2.2\Release\RDFPlugin.dll
