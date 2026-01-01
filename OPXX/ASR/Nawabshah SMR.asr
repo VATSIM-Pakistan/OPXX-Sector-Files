@@ -1,8 +1,8 @@
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-SECTORFILE:G:\Pakistan Sector Files\OPXX-DEV_20251223201738-251201-0013.sct
-SECTORTITLE:OPXX-DEV_20251223201738-251201-0013.sct
+SECTORFILE:
+SECTORTITLE:
 Airports:OPNH:name
 Airports:OPNH:symbol
 Free Text:OPNH Ground Freetext\1:freetext
@@ -39,7 +39,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:70.00000
 TAGFAMILY:Matias (built in)
-WINDOWAREA:26.209363:68.367112:26.229359:68.410225
+WINDOWAREA:26.209454:68.367112:26.229268:68.410225
 PLUGIN:Ground Radar plugin:AirportElevation:95
 PLUGIN:Ground Radar plugin:AirportRadius:1.7
 PLUGIN:Ground Radar plugin:GroundMode:OPNH

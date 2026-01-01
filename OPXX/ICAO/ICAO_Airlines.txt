@@ -24,7 +24,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2512/1  ++  File-Publisher: vACC Pakistan - OPXX                                                                 ;
+;  AIRAC 2513/1  ++  File-Publisher: vACC Pakistan - OPXX                                                                 ;
 ;=========================================================================================================================;
 AAB	ABELAG AVIATION	ABG	BELGIUM
 AAC	ARMY AIR CORPS	ARMYAIR	UNITED KINGDOM
@@ -3742,6 +3742,7 @@ MCX	CARGO EXPRESS	MAURICARGO	MAURITANIA
 MCY	AMBULANCE AIR AFRICA	MERCY	SOUTH AFRICA
 MDA	MANDARIN AIRLINES	MANDARIN	CHINA
 MDB	VERTICAL AVIATION, LLC	MARIANAS	UNITED STATES
+MDC	AIR MEDIC	AIRMEDIC	CANADA
 MDE	MAURITANIENNE DE TRANSPORT AERIEN	MAURI-TRANS	MAURITANIA
 MDF	SWIFTAIR HELLAS S.A.	MED-FREIGHT	GREECE
 MDG	AIR MADAGASCAR, SOCIETE NATIONALE MALGACHE DE TRANSPORTS AERIENS	AIR MADAGASCAR	MADAGASCAR

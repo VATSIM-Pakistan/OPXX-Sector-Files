@@ -53,6 +53,7 @@ Sounds	Sound6	\OPXX\Sounds\broadcast_message.wav
 Sounds	Sound7	\OPXX\Sounds\landline_request.wav
 Sounds	Sound8	\OPXX\Sounds\supervisor_message.wav
 Sounds	Sound9	\OPXX\Sounds\connected.wav
+RecentFiles	Recent1	\OPXX\ASR\Islamabad SMR.asr
 Plugins	Plugin1Display1	Standard ES radar screen
 Plugins	Plugin2Display0	SMR radar display
 Plugins	Plugin2Display1	Standard ES radar screen
@@ -72,3 +73,4 @@ Plugins	Plugin8Display1	Standard ES radar screen
 Plugins	Plugin9	\OPXX\Plugins\Ground Radar Plugin\GRplugin.dll
 Plugins	Plugin9Display0	Ground Radar display
 Plugins	Plugin9Display1	Standard ES radar screen
+Settings	sector	\OPXX-DEV_20251231235222-251301-0003.sct

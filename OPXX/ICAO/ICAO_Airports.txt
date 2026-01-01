@@ -24,7 +24,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2512/1  ++  File-Publisher: vACC Pakistan - OPXX                                                                 ;
+;  AIRAC 2513/1  ++  File-Publisher: vACC Pakistan - OPXX                                                                 ;
 ;=========================================================================================================================;
 00AN	KATMAI LODGE	Alaska
 00AR	ARLAND	United States
@@ -44,6 +44,7 @@
 00XA	WEESKI RANCH	United States
 01A	PURKEYPILE	Alaska
 01AN	MC HONE HEIGHTS	Alaska
+01CL	SWANSBORO COUNTRY	United States
 01CN	COLEMAN HOMESTEAD	Alaska
 01G	PERRY-WARSAW	United States
 01GE	THE FARM	United States
@@ -56,14 +57,17 @@
 01U	DUCKWATER	United States
 01WI	KILO KILO AERODROME	United States
 02A	CHILTON CO	United States
+02AL	BASS	United States
 02AN	EMERALD RIDGE	Alaska
 02C	CAPITOL DRIVE	United States
+02FA	OSBORN	United States
 02FD	TRIPLE R RANCH	United States
 02G	COLUMBIANA CO	United States
 02MN	GREGORY	United States
 02MO	TROY	United States
 02NM	FFR ANIMAS LANDING STRIP	United States
 02T	WISE RIVER	United States
+02WA	CAWLEYS SOUTH PRAIRIE	United States
 03B	MANSFIELD MUN	United States
 03CO	BLUE WATER	United States
 03D	MEMPHIS MEML	United States
@@ -81,12 +85,14 @@
 04G	LANSDOWNE	United States
 04KS	KRAEMER AIRFIELD	United States
 04M	CALHOUN CO	United States
+04TN	HENSLEY	United States
 04TT	BRUSHY CREEK RANCH	United States
 04V	SAGUACHE MUN	United States
 04W	FIELD OF DREAMS	United States
 04Y	HAWLEY MUN	United States
 05AK	WASILLA CREEK AIRPARK	Alaska
 05AN	WELTONS AERODROME	Alaska
+05AR	OZARK SKIES	United States
 05C	GRIFFITH-MERRILLVILLE	United States
 05D	NEW TOWN MUN	United States
 05IA	SPOTTS	United States
@@ -104,6 +110,7 @@
 06A	MOTON MUN	United States
 06AA	TWISTED SISTERS	Alaska
 06AN	NIESEN AIRSTRIP	Alaska
+06C	SCHAUMBURG REGL	United States
 06D	ROLLA MUN/LEONARD KRECH	United States
 06FA	WILLIAM P GWINN	United States
 06IA	RICH FLD	United States
@@ -115,6 +122,7 @@
 06TT	6 MILE AIRPARK	United States
 06U	JACKPOT/HAYDEN	United States
 06WN	WESTERN	United States
+06Y	HERMAN MUN	United States
 07A	FRANKLIN	United States
 07AN	BRO MAJORS AIRFIELD	Alaska
 07F	GLADEWATER MUN	United States
@@ -125,6 +133,7 @@
 07K	CENTRAL CITY MUN/LARRY REINEKE	United States
 07MD	BAUGHER S ORCHARD	United States
 07MT	GLASGOW INDUSTRIAL	United States
+07N	BERMUDIAN VALLEY	United States
 07PA	DREAM AIR	United States
 07R	BISHOP-WINDHAM	United States
 07S	BEAUMONT HOTEL	United States
@@ -154,6 +163,7 @@
 09A	BUTLER/CHOCTAW CO	United States
 09AN	KACHEMAK LANDING	Alaska
 09CL	ALTA SIERRA	United States
+09FA	PLACID LAKES	United States
 09GE	ELLIOTT	United States
 09J	JEKYLL ISLAND	United States
 09K	SARGENT MUN	United States
@@ -161,11 +171,14 @@
 09MN	SALISBURY	United States
 09MT	PAINT CREEK RANCH	United States
 09N	AIRHAVEN	United States
+09R	TYLER CO	United States
 09S	SULLIVAN LAKE STATE	United States
 09T	LAZY G BAR RANCH	United States
 09TS	PITCOCK ROSILLOS MOUNTAIN RANC	United States
 09UT	RUSTLER CANYON AIRSTRIP	United States
 0A3	SMITHVILLE MUN	United States
+0A4	JOHNSON CITY	United States
+0A7	HENDERSONVILLE	United States
 0A8	BIBB CO	United States
 0A9	ELIZABETHTON MUN	United States
 0AA1	YAKATAGA	Alaska
@@ -182,6 +195,7 @@
 0B8	ELIZABETH	United States
 0C0	DACY	United States
 0C1	TRIPLE R	United States
+0C2	HINCKLEY	United States
 0C4	PENDER MUN	United States
 0C5	CANADIAN LAKES	United States
 0C8	CUSHING	United States
@@ -190,6 +204,7 @@
 0CL3	NICHOLS	United States
 0CN1	FIORINI RANCH	United States
 0CN2	SUTTER BUTTE DUSTERS	United States
+0CO2	CRESTED BUTTE	United States
 0D7	ADA	United States
 0D8	GETTYSBURG MUN	United States
 0E0	MORIARTY MUN	United States
@@ -246,6 +261,7 @@
 0N0	ROOSTERVILLE	United States
 0N4	CHANDELLE	United States
 0NE9	FLYING V	United States
+0NM7	NEGRITO	United States
 0O2	BAKER	United States
 0O4	CORNING MUN	United States
 0O9	WARD	United States
@@ -271,6 +287,7 @@
 0S5	NEZPERCE MUN	United States
 0S7	DOROTHY SCOTT INTL	United States
 0S9	JEFFERSON CO INTL	United States
+0TA8	B FLYING RANCH	United States
 0TE4	HILLTOP LAKES	United States
 0TE5	SANTA MARIA RANCH	United States
 0TE7	LBJ RANCH	United States
@@ -280,6 +297,7 @@
 0U0	LANDMARK USFS	United States
 0U2	COPPER BASIN	United States
 0U3	MAHONEY CREEK USFS	United States
+0U7	HOLLOW TOP	United States
 0U8	MAY	United States
 0U9	WILLIAMS MEML	United States
 0V3	PIONEER VILLAGE	United States
@@ -294,8 +312,10 @@
 0XS2	JOHN FIELDS RANCH	United States
 0XS7	ANACACHO RANCH	United States
 0Y6	LAKE MILLS MUN	United States
+10AR	HICKORY RIDGE	United States
 10C	GALT	United States
 10CO	MACK MESA	United States
+10D	WINSTED MUN	United States
 10G	HOLMES CO	United States
 10IN	FENCE FLD	United States
 10KY	GILLS  LANDING FLD	United States
@@ -317,8 +337,10 @@
 11S	SEKIU	United States
 11TN	DENNEY	United States
 11TT	ROCKING L	United States
+11WY	THOMPSON CREEK OILFIELD	United States
 11Y	FLYING FEATHERS	United States
 12A	ARKAVALLEY	United States
+12CL	NEWTON FIELD	United States
 12CN	RICHTER AVIATION	United States
 12D	TOWER MUN	United States
 12G	SHELBY COMMUNITY	United States
@@ -326,21 +348,26 @@
 12K	SUPERIOR MUN	United States
 12N	AEROFLEX/ANDOVER	United States
 12ND	PIETSCHTREE AIRSTRIP	United States
+12NK	WESTPORT	United States
 12S	MONUMENT MUN	United States
 12TA	BALENTINE WOODBINE	United States
 12TT	D AN P FARM	United States
 12UT	RED ANNIE RANCH	United States
 12V	ONA	United States
+12VA	HOP-ALONG	United States
 12WV	CRAZY HORSE	United States
 12Y	LE SUEUR MUN	United States
 13C	LAKEVIEW/GRIFFITH	United States
 13K	LT MILLIKEN	United States
 13KS	DANIEL S LANDING	United States
 13ME	SOCATEAN BAY	United States
+13NM	BEAVERHEAD	United States
 13PA	RIGRTONA	United States
 13Q	JEWETT MESA	United States
 13TT	SUNSET RANCH	United States
 13W	CAMANO I	United States
+13WI	NOWATZSKI	United States
+13Y	LITTLEFORK MUN/HANOVER	United States
 14A	LAKE NORMAN	United States
 14G	FREMONT	United States
 14IA	EAST RIVER	United States
@@ -350,6 +377,7 @@
 14MA	KEVINS SEAPORT	United States
 14ME	LARRY S COVE	United States
 14MO	ARROW AIRPARK	United States
+14MS	ROSE	United States
 14MT	SANDY ROCK	United States
 14N	BELTZVILLE	United States
 14OI	PLEASANT HOME GLIDING CLUB	United States
@@ -357,6 +385,7 @@
 14TA	WINDY HILL	United States
 14TS	O S WYATT	United States
 14TT	MATHERS FLD	United States
+14VT	CROSSROAD	United States
 14Y	TODD	United States
 15A	REYNOLDS/NORTH MOBILE CO	United States
 15F	HASKELL MUN	United States
@@ -368,6 +397,7 @@
 15ME	EAGLE FLD	United States
 15MO	MONTE CARLO	United States
 15N	JENKINS	United States
+15NC	DRAGONFLY	United States
 15TT	AEROPLEX AIRFIELD	United States
 15WA	OOMRANG AIR	United States
 15XA	HAUPTRIEF AERO	United States
@@ -386,6 +416,7 @@
 16W	LITTLE GOOSE LOCK AND DAM	United States
 16X	PROPWASH	United States
 17A	TRIGGER GAP	United States
+17AR	BREDLOW FARM	United States
 17FD	MORNINGWOOD	United States
 17FL	JUMBOLAIR	United States
 17G	PORT BUCYRUS/CRAWFORD CO	United States
@@ -394,7 +425,9 @@
 17LS	YANKEE FLD	United States
 17M	MAGEE MUN	United States
 17N	CROSS KEYS	United States
+17NK	RE-DUN	United States
 17Q	HIEBERT	United States
+17S	CHEHALEM	United States
 17V	HAXTUN MUN	United States
 17WT	LATHROP FLD	United States
 17XA	MANDYLAND	United States
@@ -402,6 +435,7 @@
 18A	FRANKLIN-HART	United States
 18AA	18 MEADOWS AERODROME	Alaska
 18AZ	SKY RANCH AT CAREFREE	United States
+18FD	SKYPARK ESTATES OWNERS ASSOC	United States
 18GE	LEFTY S LANDING	United States
 18I	MC CREARY CO	United States
 18IN	HERITAGE FARM FLD	United States
@@ -417,6 +451,8 @@
 18T	TATUM	United States
 18TE	ALERT FLD	United States
 18V	PLATTE VALLEY	United States
+18Y	MILACA MUN	United States
+19AZ	MONTEZUMA	United States
 19M	MOORE	United States
 19ME	ESTCOURT	United States
 19MN	GRESETH	United States
@@ -437,8 +473,10 @@
 1A8	GOLDFIELD	United States
 1A9	PRATTVILLE/GROUBY	United States
 1AA0	DALLAS BAY	United States
+1AR5	CHEROKEE STRIP	United States
 1B0	DEXTER REGL	United States
 1B1	COLUMBIA CO	United States
+1B2	KATAMA	United States
 1B5	FRANCONIA	United States
 1B6	HOPEDALE INDUSTRIAL PARK	United States
 1B8	CHAPIN	United States
@@ -449,6 +487,7 @@
 1C5	BOLINGBROOK S CLOW INTL	United States
 1C8	COTTONWOOD	United States
 1C9	FRAZIER LAKE	United States
+1CO5	MELON	United States
 1D1	MILBANK MUN	United States
 1D2	CANTON-PLYMOUTH-METTETAL	United States
 1D3	PLATTE MUN	United States
@@ -456,6 +495,7 @@
 1D6	HECTOR MUN	United States
 1D7	THE SIGURD ANDERSON	United States
 1D8	REDFIELD MUN	United States
+1DS	DRY SWAMP	United States
 1E2	TERLINGUA RANCH	United States
 1E4	PALO DURO	United States
 1E7	BUFFALO	United States
@@ -479,11 +519,14 @@
 1H2	EFFINGHAM CO REGL	United States
 1H3	STATE TECHNICAL COLLEGE OF MIS	United States
 1H4	GREENVILLE-RAINBOW	United States
+1H5	WILLOW SPRINGS MEML	United States
 1H6	HARVEY YOUNG	United States
 1H8	CASEY MUN	United States
 1H9	NEST OF EAGLES	United States
+1I1	MARCY	United States
 1I3	SHAWNEE	United States
 1I5	FREEHOLD	United States
+1I8	CONVERSE	United States
 1I9	DELPHI MUN	United States
 1IL4	FLIGHT PARK INC	United States
 1J9	FT WALTON BEACH	United States
@@ -521,6 +564,8 @@
 1N3	ALBERT	United States
 1N5	BENNETT	United States
 1N7	BLAIRSTOWN	United States
+1NK7	BOONVILLE	United States
+1NM0	ME-OWN	United States
 1NR7	BOYD FLD	United States
 1NY3	RICHLAND AIRPARK	United States
 1O1	GRANDFIELD MUN	United States
@@ -562,7 +607,11 @@
 1TN8	INTO THE WIND	United States
 1TX0	YANCEY CREEK RANCH	United States
 1TX4	NEW GULF	United States
+1U0	BEAR TRAP	United States
 1U2	MUD LAKE/WEST JEFFERSON CO	United States
+1U3	MURPHY	United States
+1U4	NEW MEADOWS	United States
+1U6	OAKLEY MUN	United States
 1U7	BEAR LAKE CO	United States
 1U9	PINE	United States
 1UT	FREMONT ISLAND LOWER	United States
@@ -570,12 +619,14 @@
 1V0	NAVAJO LAKE	United States
 1V2	GRANT CO	United States
 1V6	FREMONT CO	United States
+1V8	LEACH	United States
 1VA1	MICRO	United States
 1W1	GROVE	United States
 1W3	MEXICO FARMS	United States
 1WF	WACO	United States
 1X1	HIGGINS/LIPSCOMB CO	United States
 1XA4	MIKESKA	United States
+1XA7	GLOSTER	United States
 1XS0	ITLL DO AIRFIELD	United States
 1XS1	DUNHAM FLD	United States
 1XS4	RED SANDS RANCH	United States
@@ -592,6 +643,7 @@
 20M	MACON MUN	United States
 20N	KINGSTON-ULSTER	United States
 20OH	MOSQUITO STRIP	United States
+20T	ARESTI	United States
 20TT	GONE WITH THE WIND	United States
 20U	BEACH	United States
 20V	MC ELROY	United States
@@ -608,6 +660,7 @@
 21W	RANGER CREEK	United States
 22D	BANDEL	United States
 22F	KENT CO	United States
+22FA	HIDDEN RIVER	United States
 22I	VINTON CO	United States
 22IN	SPANGLER FARM	United States
 22M	PONTOTOC CO	United States
@@ -649,8 +702,10 @@
 25J	LOWER CHATTAHOOCHEE REGL	United States
 25M	RIPLEY	United States
 25NV	PARKER CARSON	United States
+25TS	MILLER	United States
 25TX	CHENNAULT AIRFIELD	United States
 25U	MEMALOOSE USFS	United States
+25XA	HEADWATERS	United States
 26A	ASHLAND-LINEVILLE	United States
 26AS	MARVELL WEST	United States
 26CL	RANCHITA 2608	United States
@@ -683,6 +738,7 @@
 27W	LAKE WENATCHEE STATE	United States
 27WI	FOX RIVER	United States
 27XS	SPORT FLYERS	United States
+28A	GOOSE CREEK	United States
 28AL	FOSHEE	United States
 28DE	ALBANNA AVIATION	United States
 28ID	D BAR C	United States
@@ -702,8 +758,10 @@
 29IL	JUDD FARMS	United States
 29KS	MCMASTER	United States
 29KY	SOCKS FLYERS	United States
+29M	WAITE	United States
 29N	KROELINGER	United States
 29OR	SUNRISE VALLEY RANCH LODGE	United States
+29S	GARDINER	United States
 2A0	ANTON	United States
 2A1	JAMESTOWN MUN	United States
 2A2	HOLLEY MOUNTAIN	United States
@@ -714,19 +772,24 @@
 2AK7	HELIO	Alaska
 2AN	TISCHNER AIR	Alaska
 2AR4	MCCRORY/MORTON	United States
+2B1	CAPE COD	United States
 2B2	PLUM ISLAND	United States
 2B3	PARLIN	United States
+2B6	HOLLISTER	United States
 2B7	PITTSFIELD MUN	United States
 2B9	POST MILLS	United States
 2C5	ALMENA	United States
 2C6	TRI COUNTY	United States
 2C8	CAVALIER MUN	United States
+2CA4	BLACKINTON	United States
+2CB	CAMP BLANDING AAF	United States
 2CL1	BROWNSVILLE	United States
 2CO5	GUNNISON RIVER FARMS	United States
 2D1	LEE	United States
 2D5	OAKES MUN	United States
 2D7	BEACH CITY	United States
 2E2	SHARPE S STRIP	United States
+2E5	DELL CITY MUN	United States
 2E6	GROTON MUN	United States
 2E7	MC LEAN-GRAY CO	United States
 2E8	CACKLEBERRY	United States
@@ -745,6 +808,7 @@
 2GA0	KENNEDY INTRANATIONAL	United States
 2GA2	SWAIDS FLD	United States
 2GA7	AUBREY S AIRPARK	United States
+2GC	GRAYS CREEK	United States
 2H0	SHELBY CO	United States
 2H2	SUMNERS AURORA MUN	United States
 2H5	HOUSTON FORT BEND	United States
@@ -786,18 +850,23 @@
 2M7	HOFFMAN S BLACK MOUNTAIN	United States
 2M8	BAKER	United States
 2MI3	SOMERS LANE	United States
+2MI5	SOMERVILLE	United States
 2MN4	CORNFIELD CANYON	United States
 2MO	MT VERNON MUN	United States
 2MO8	BOB WHITE	United States
 2MS3	SHOCKLEY FLD	United States
 2MU9	MONROE FLD	United States
 2MY5	SEVCIK FARMS	United States
+2N2	NEWFOUND VALLEY	United States
 2N4	OWASCO	United States
 2N5	KAMPEL	United States
 2N6	REDWING	United States
+2NC0	MOUNTAIN AIR	United States
 2ND8	FIEBIGER	United States
+2NE0	JOHNSON LAKE	United States
 2NE8	WALVOORD FLD	United States
 2NK5	EAGLES EYE	United States
+2NR2	ELKINS FIELD	United States
 2O1	GANSNER	United States
 2O3	ANGWIN-PARRETT	United States
 2O6	CHOWCHILLA	United States
@@ -809,6 +878,7 @@
 2OK2	TWIN LAKES	United States
 2P2	WASHINGTON I	United States
 2P7	ALDERMAN	United States
+2Q9	DYER	United States
 2R0	WAYNESBORO MUN	United States
 2R1	LE MAIRE MEML	United States
 2R2	HENDRICKS CO-GRAHAM	United States
@@ -832,9 +902,12 @@
 2T1	MULESHOE MUN	United States
 2TA0	SHALE VALLEY RANCH	United States
 2TA8	EL COYOTE RANCH	United States
+2TA9	MAFRIGE RANCH INC	United States
 2TE2	FLYING OAKS	United States
 2TX	SALADO	United States
+2U0	SMITH PRAIRIE	United States
 2U4	ROCKFORD MUN	United States
+2U5	SHEARER USFS	United States
 2U7	STANLEY	United States
 2U8	THOMAS CREEK	United States
 2UT	FREMONT I UPPER	United States
@@ -850,6 +923,7 @@
 2W3	SWANSON	United States
 2W5	MARYLAND	United States
 2W6	ST MARY S CO REGL	United States
+2WA1	DIAMOND POINT	United States
 2WA2	RED ROCK	United States
 2WI7	HECKLERS STRIP	United States
 2WN2	SILVER LAKE	United States
@@ -909,6 +983,7 @@
 34PA	LYKENS VALLEY FLYING ASSOC	United States
 34R	HALLETTSVILLE MUN	United States
 34SC	TOMS CREEK	United States
+34TS	CANYON LAKE	United States
 34XS	FLYING HARE FLD	United States
 35A	UNION CO-SHELTON	United States
 35AR	SWEET SPRINGS	United States
@@ -932,6 +1007,8 @@
 36ME	EAGLE LANDING	United States
 36MS	EDWARDS 1	United States
 36NC	FLY SKY	United States
+36S	HAPPY CAMP	United States
+37AR	PONCA INT	United States
 37CN	CECIL RANCH	United States
 37F	MUNDAY MUN	United States
 37IA	NEMO FLD	United States
@@ -950,6 +1027,7 @@
 38I	COOK	United States
 38IA	GARYS	United States
 38IL	HAMER RLA	United States
+38K	LUCAS	United States
 38MN	ROOT BEERS FLOAT	United States
 38MS	YELLOW DOG	United States
 38N	SMYRNA	United States
@@ -980,11 +1058,14 @@
 3A7	EUTAW MUN	United States
 3A9	ARLINGTON MUN	United States
 3AK9	SKYLAND AIRPARK	Alaska
+3AR7	TAYLOR	United States
 3AU	AUGUSTA MUN	United States
 3B0	SOUTHBRIDGE MUN	United States
 3B1	GREENVILLE MUN	United States
 3B3	STERLING	United States
 3B4	SEACOAST	United States
+3B8	SHADY ACRES	United States
+3C1	MISHAWAKA PILOTS CLUB	United States
 3CK	LAKE IN THE HILLS	United States
 3CM	CLEMENTS MUN	United States
 3CN7	ALTA MESA AIRPARK	United States
@@ -994,6 +1075,7 @@
 3D8	BORDNER	United States
 3DA	DALTON	United States
 3DW	DOWNTOWN	United States
+3E0	MIAMI-ROBERTS CO	United States
 3EV	SKYLANE	United States
 3EX	EXCELSIOR SPRINGS MEML	United States
 3F2	CISCO MUN	United States
@@ -1012,6 +1094,7 @@
 3G4	ASHLAND CO	United States
 3G6	TRI-CITY	United States
 3G8	GEN-AIRPARK	United States
+3G9	BUTLER FARM SHOW	United States
 3GA7	THOMAS RIDGE	United States
 3GM	GRAND HAVEN MEML	United States
 3GV	EAST KANSAS CITY	United States
@@ -1033,6 +1116,7 @@
 3K7	HOARD MEML	United States
 3K8	COMANCHE CO	United States
 3KK	KANKAKEE	United States
+3KS	H F STRIP	United States
 3KS1	HUNNINGHAKE AERIAL	United States
 3KS2	MUNSON FLD	United States
 3KS3	ROGERS	United States
@@ -1040,6 +1124,7 @@
 3KS7	BAIR-LANGER	United States
 3KS8	REED-WILSONTON	United States
 3KS9	TRI ROTOR	United States
+3KY9	MILES	United States
 3L2	SKY RANCH	United States
 3LA4	LITTLE PECAN ISLAND	United States
 3LA8	OPEN A-1 RANCH	United States
@@ -1049,10 +1134,12 @@
 3M7	LAFAYETTE MUN	United States
 3M8	NORTH PICKENS	United States
 3M9	WARREN MUN/JOHN B FRAZER JR	United States
+3MI2	SOUTH FOX I	United States
 3MN1	SILVER CREEK MEADOW	United States
 3MO5	NIMSICK	United States
 3MO7	KELLY FLD	United States
 3MS1	THOMAS FLD	United States
+3MS9	UNION MUN	United States
 3MT4	MADDOX RANCH CO	United States
 3MT9	WILLOW	United States
 3MY	MT HAWLEY AUX	United States
@@ -1061,18 +1148,23 @@
 3NC6	MC CACHREN FLD	United States
 3ND6	DJR	United States
 3NE5	MT AIRFIELD	United States
+3NJ1	PEMBERTON	United States
 3NJ6	INDUCTOTHERM	United States
 3NJ9	ALLEN AIRSTRIP	United States
 3NP	NAPOLEON	United States
+3NR3	TRANSYLVANIA COMMUNITY	United States
 3NY8	CALVERTON EXECUTIVE	United States
 3O1	GUSTINE	United States
 3O3	PURCELL MUN-SHEPHARD	United States
 3O4	SAYRE MUN	United States
 3O5	WALTERS MUN	United States
 3O8	HARRIS RANCH	United States
+3O9	GRAND LAKE REGL	United States
+3OH0	BARNHART MEML	United States
 3OH6	YOUNGPETER	United States
 3OK	BIGGS	United States
 3P3	MOTT MUN	United States
+3PA9	MOYER	United States
 3PS2	LYNN FLD	United States
 3Q0	MINA	United States
 3R2	LE GROS MEML	United States
@@ -1102,7 +1194,9 @@
 3TA1	CHANDLER RANCH	United States
 3TE	MEYERS	United States
 3TN2	STINER COVE	United States
+3TN4	DUNLAP AIRPARK	United States
 3TR	TYLER MEML	United States
+3TS1	WHITE WINGS	United States
 3TX	AKROVILLE	United States
 3U0	MURPHY HOT SPRINGS	United States
 3U1	WARREN USFS	United States
@@ -1130,6 +1224,7 @@
 3Y2	SCOTT MUN	United States
 3Y3	WINTERSET-MUN	United States
 3Y7	ISABEL MUN	United States
+3Z1	FEATHER RIVER	Alaska
 40AK	STERLING AIR PARK	Alaska
 40C	WATERVLIET MUN	United States
 40D	THREE LAKES MUN	United States
@@ -1146,6 +1241,7 @@
 41ME	EAGLE RIDGE AIRFIELD	United States
 41MO	SAWYER CREEK	United States
 41MS	DIXIE DUSTERS	United States
+41N	BRACEVILLE	United States
 41ND	HILL	United States
 41NR	MONARCH FLD	United States
 41OH	HUBER FLD	United States
@@ -1154,6 +1250,7 @@
 41XS	MACHO GRANDE	United States
 42A	MELBOURNE MUN/JOHN E MILLER	United States
 42AK	BEAR TOOTH	Alaska
+42B	GOODSPEED	United States
 42C	WHITE CLOUD	United States
 42I	PARR	United States
 42IA	LAKEPORT FARMS	United States
@@ -1177,6 +1274,7 @@
 43D	ODESSA MUN	United States
 43FL	TARVAIR	United States
 43G	BELLEVILLE	United States
+43IA	GIGGITY ACRES	United States
 43ID	HARRIS RIDGE	United States
 43K	MARION MUN	United States
 43MI	WEST GLADSTONE	United States
@@ -1188,6 +1286,7 @@
 43TS	AERO SAYLEE	United States
 43XA	GULF COAST AVIATION	United States
 43Y	NORTHOME MUN	United States
+44A	ROLLE	United States
 44AR	HILLER	United States
 44B	CHASE JR MEML	United States
 44C	BELOIT	United States
@@ -1208,6 +1307,7 @@
 45KS	KOAFM	United States
 45MS	BOX FLD	United States
 45R	HAWTHORNE	United States
+45S	SILVER LAKE F S STRIP	United States
 46D	CARRINGTON MUN	United States
 46KS	HIDDEN VALLEY	United States
 46NE	JANTZEN	United States
@@ -1223,6 +1323,7 @@
 47V	CURTIS MUN	United States
 47Y	PELICAN RAPIDS MUN-LYON S	United States
 48A	COCHRAN	United States
+48AZ	RIMROCK	United States
 48D	CLARE MUN	United States
 48FA	SILVER LAKE	United States
 48I	BRAXTON CO	United States
@@ -1231,6 +1332,7 @@
 48LA	COUNTRYSIDE	United States
 48MY	BOSCH FARM	United States
 48NR	BLACKBRIAR	United States
+48NY	TURNBULL	United States
 48PS	BLUE HAVEN	United States
 48S	HARLEM	United States
 48TE	4M RANCH	United States
@@ -1239,6 +1341,7 @@
 48X	MANATEE	United States
 49A	GILMER CO	United States
 49B	STURGIS MUN	United States
+49C	CAMP LAKE	United States
 49F	RANKIN	United States
 49G	WEND VALLEY	United States
 49ID	R7 AERO	United States
@@ -1264,10 +1367,12 @@
 4B0	SOUTH ALBANY	United States
 4B1	DUANESBURG	United States
 4B6	TICONDEROGA MUN	United States
+4B7	SCHROON LAKE	United States
 4B8	ROBERTSON	United States
 4B9	SIMSBURY	United States
 4C2	WALKER-WATERLOO	United States
 4C4	GIFFORD	United States
+4C7	ACKLEY MUN	United States
 4C8	ALBIA MUN	United States
 4D0	ABRAMS MUN	United States
 4D2	HOODOO MEADOWS	United States
@@ -1283,7 +1388,9 @@
 4FA1	ROCKIN G RANCH	United States
 4FA2	CROOM A CHOBEE	United States
 4FA7	LAKE PANASOFFKEE	United States
+4FL5	RIDGE LANDING	United States
 4G1	GREENVILLE MUN	United States
+4G2	HAMBURG	United States
 4G3	MILLER	United States
 4G4	YOUNGSTOWN ELSER METRO	United States
 4G5	MONROE CO	United States
@@ -1295,6 +1402,7 @@
 4J1	BRANTLEY CO	United States
 4J2	BERRIEN CO	United States
 4J5	QUITMAN-BROOKS CO	United States
+4J8	TREUTLEN CO	United States
 4K0	PEDRO BAY	Alaska
 4K5	OUZINKIE	Alaska
 4K6	BLOOMFIELD MUN	United States
@@ -1321,9 +1429,11 @@
 4MN7	ADAMS	United States
 4MO1	MONTGOMERY-WEHRMAN	United States
 4MO5	JJ GYRO PARK	United States
+4N0	NEWMANS	United States
 4N1	GREENWOOD LAKE	United States
 4N2	MIDDLESEX VALLEY	United States
 4N4	LIDGERWOOD MUN	United States
+4N7	GREENE	United States
 4NC2	NOLES FLD	United States
 4NC4	BEAR CREEK	United States
 4NE0	REGIER BROTHERS	United States
@@ -1339,6 +1449,7 @@
 4R1	BASS MEML	United States
 4R3	JACKSON MUN	United States
 4R5	MAJOR GILBERT FIELD	United States
+4R6	MILNOR MUN	United States
 4R7	EUNICE	United States
 4R9	DENTON	United States
 4S1	GOLD BEACH MUN	United States
@@ -1350,6 +1461,7 @@
 4T2	KENNETH COPELAND	United States
 4TA4	PEA PATCH	United States
 4TN9	ISLAND BEND FARMS	United States
+4TS5	GOEBEL	United States
 4U6	CIRCLE TOWN CO	United States
 4U7	WEST FORK LODGE	United States
 4U9	DELL	United States
@@ -1363,6 +1475,7 @@
 4VG3	KING FISHER FLD	United States
 4VG8	ROBBIE CAMPBELL MEML AIRFIELD	United States
 4W0	BANDERA STATE	United States
+4WI9	CORNELL MUN	United States
 4WN4	GEIS FLD	United States
 4X4	WESSINGTON SPRINGS	United States
 4XA2	CARD AIRFIELD	United States
@@ -1370,6 +1483,7 @@
 4Y4	LAKES OF THE NORTH	United States
 4Y8	PARA	United States
 4Y9	EAGLES LANDING	United States
+4Z9	JAKOLOF BAY	Alaska
 50D	IRON CO	United States
 50F	BOURLAND	United States
 50G	NIXON MEML	United States
@@ -1381,6 +1495,7 @@
 50S	PARMA	United States
 51A	HAWKINSVILLE-PULASKI CO	United States
 51AL	ARDMORE	United States
+51AR	BYRDS BACKCOUNTRY	United States
 51AS	BURKS	United States
 51D	EDGELEY MUN	United States
 51G	ALKAY	United States
@@ -1394,8 +1509,10 @@
 51R	MADISONVILLE MUN	United States
 51TE	BARSTOOL RANCH	United States
 51TT	HOES RANCH	United States
+51WA	EVERGREEN SKY RANCH	United States
 51Z	MINTO AL WRIGHT	Alaska
 52A	MADISON MUN	United States
+52F	AERO VALLEY	United States
 52I	GROSS	United States
 52J	LEE COUNTY/BUTTERS FIELD	United States
 52K	GRUTZMACHER MUN	United States
@@ -1408,6 +1525,7 @@
 52S	ST IGNATIUS	United States
 52TN	DISNEY FARM STOL	United States
 52U	WEATHERBY USFS	United States
+52Y	REMER MUN	United States
 53A	SAVAGE	United States
 53AZ	OMS UAS TEST RANGE	United States
 53GA	DAWSON FLD	United States
@@ -1421,6 +1539,8 @@
 53U	FERNDALE	United States
 53W	WOODRUFF LAKE	United States
 53XA	MCINTYRE FLYING	United States
+54AR	WINFIELD	United States
+54AZ	SOMERTON	United States
 54CL	LAKE RIVERSIDE ESTATES	United States
 54J	DEFUNIAK SPRINGS	United States
 54KS	MICHAEL	United States
@@ -1433,8 +1553,11 @@
 54W	ALBANY	United States
 54XA	FLAHERTY	United States
 54XS	BAR C RANCH	United States
+55AR	SILVER WINGS	United States
 55D	BURGESS	United States
+55FL	PARTS AND SPARKS	United States
 55G	ARNOLD	United States
+55H	ATLANTA	United States
 55I	SLATE RUN	United States
 55K	OXFORD MUN	United States
 55KS	RINGNECK RANCH	United States
@@ -1446,6 +1569,7 @@
 55S	PACKWOOD	United States
 55T	EAGLES	United States
 55TT	FLYIN ARMADILLO	United States
+55UT	SHIPLEY FLD	United States
 55XS	FRONTIER	United States
 55Y	RUSHFORD MUN/ROBERT W BUNKE	United States
 56AL	BEECHWOOD AIRPARK	United States
@@ -1468,6 +1592,7 @@
 57MO	WODOHODSKY RANCH LLC	United States
 57MT	FLYING K FLD	United States
 57PN	VICTOR CURTIS	United States
+57S	TROY	United States
 57TS	RAVEN S NEST	United States
 57TX	FRANK TOOLE MEML FLD	United States
 57XA	AUSMUS	United States
@@ -1480,6 +1605,7 @@
 58MT	GALT RANCH	United States
 58MU	ARKMO	United States
 58N	REIGLE	United States
+58PA	PAX-TERRA CAELUM	United States
 58T	HERITAGE CREEK AIRSTRIP	United States
 58TE	HARRISON FLD	United States
 58TN	STOL-IT FARM	United States
@@ -1518,6 +1644,7 @@
 5D5	WOOLSEY MEML	United States
 5D6	PARSONS	United States
 5D9	BANDIT	United States
+5E9	PACKER	United States
 5F0	ARCADIA-BIENVILLE PARISH	United States
 5F1	POST-GARZA CO MUN	United States
 5F4	HOMER MUN	United States
@@ -1531,6 +1658,7 @@
 5GA9	RAYWORTH LANDING	United States
 5H4	HARVEY MUN	United States
 5HO	HOPE	Alaska
+5I2	FLORA MUN	United States
 5I4	SHERIDAN	United States
 5I6	GALVESTON	United States
 5IG9	KRAMER AIRFIELD	United States
@@ -1553,12 +1681,14 @@
 5KY6	HP FLD	United States
 5KY7	COLBY	United States
 5L0	LAKOTA MUN	United States
+5LL8	HUGH VAN VOORST	United States
 5LS9	AMMONS	United States
 5M0	HARTSELLE/MORGAN CO REGL	United States
 5M1	DEWITT MUN/WHITCOMB	United States
 5M4	FORDYCE MUNI	United States
 5M5	CRYSTAL LAKE	United States
 5M6	SUGAR SPRINGS AIRPARK	United States
+5M8	GURDON LOWE	United States
 5MD4	OAK GROVE FARM	United States
 5ME2	FROGG ISLAND	United States
 5MI2	HARRISVILLE	United States
@@ -1570,9 +1700,11 @@
 5MU9	SKY RANCH II	United States
 5N2	PRENTICE MUN	United States
 5N4	SKY HAVEN	United States
+5N7	HAT	United States
 5N8	CASSELTON ROBERT MILLER REGL	United States
 5NA0	SEMCHENKO	United States
 5NC2	SUGAR VALLEY	United States
+5NC5	THE DUCHY	United States
 5NE3	DIAMOND BAR JONES	United States
 5NK	NAKNEK	Alaska
 5NK6	NAUTICAL MILE	United States
@@ -1596,15 +1728,19 @@
 5T9	MAVERICK COUNTY MEMORIAL INTL	United States
 5TE0	COMANCHE RANCH	United States
 5TN2	WINDMILL HILL	United States
+5TX0	HIDDEN VALLEY	United States
+5TX1	BAR TRIANGLE	United States
 5U0	DENTON	United States
 5U1	DUTTON	United States
 5U5	FAIRFIELD	United States
 5U6	FAIRVIEW	United States
+5U7	FT SMITH	United States
 5U8	GERALDINE	United States
 5V4	CALHAN	United States
 5V5	SHIPROCK	United States
 5V8	KADOKA MUN	United States
 5VA4	MATTS	United States
+5W1	WILSON CREEK	United States
 5W4	P K AIRPARK	United States
 5W5	SOUTHERN WAKE REGL	United States
 5WA2	BUTLER FLD	United States
@@ -1613,6 +1749,7 @@
 5Y1	LINDBERG	United States
 5Y2	HOUGHTON LAKE STATE	United States
 5Y3	GUTZMER S TWIN OAKS	United States
+5Y7	HANLEY	United States
 5Z5	KANTISHNA	Alaska
 60AR	SOUTHERN VIEW AVIATION	United States
 60AS	JUNIOR SMITH	United States
@@ -1631,6 +1768,7 @@
 60WN	LETTIES LANDING	United States
 60XA	SKYLINE RANCH	United States
 61A	CAMDEN MUN	United States
+61AR	THE VALLEY	United States
 61C	FT ATKINSON MUN	United States
 61D	VIRGIL L WILLIAMS PLAINWELL MU	United States
 61K	SEDAN CITY	United States
@@ -1638,6 +1776,8 @@
 61R	NEWTON MUN	United States
 61S	COTTAGE GROVE STATE	United States
 61VA	HIGH VIEW FARM	United States
+62AL	SKYWEST AIRPARK	United States
+62AR	BANKS RANCH	United States
 62C	CINDY GUNTLY MEML	United States
 62D	WARREN	United States
 62K	SENECA MUN	United States
@@ -1651,6 +1791,7 @@
 63B	LIMINGTON-HARMON	United States
 63C	ADAMS CO LEGION	United States
 63F	STANTON MUN	United States
+63IN	LITTLE YORK	United States
 63K	HILLSIDE	United States
 63KS	HEINEN	United States
 63M	HERMANN MUN	United States
@@ -1659,6 +1800,7 @@
 63NY	WINDSHEAR	United States
 63S	COLVILLE MUN	United States
 63TN	PROVIDENCE LANDING	United States
+63XA	JCJ FARM	United States
 63Y	TYLER MUN	United States
 64AR	SMITH FLD	United States
 64G	PAGE REGL	United States
@@ -1670,13 +1812,16 @@
 64OG	ANTONE RANCH	United States
 64S	PROSPECT STATE	United States
 64TN	HALLELUJAH FARM	United States
+64V	WALLACE MUN	United States
 65AK	FAIRVIEW LANDING	Alaska
 65AR	PLEASANT HILL	United States
 65B	LUBEC MUN	United States
 65G	MAPLE GROVE	United States
+65J	WRENS MEML	United States
 65MD	WILLOW BEE FARM AIRFIELD	United States
 65MO	MALONE	United States
 65MS	MAVERICK HILL	United States
+65NK	APEX	United States
 65S	BOUNDARY CO	United States
 65TS	MARTIN RANCH	United States
 65WI	STOL	United States
@@ -1709,12 +1854,14 @@
 67T	OLD HOPPE PLACE	United States
 67TT	FLECK	United States
 67XA	J-L RANCH	United States
+68AR	LUGINBUEL HEE HAW	United States
 68C	CENTRAL CO	United States
 68D	REDS HORSE RANCH USFS	United States
 68F	TEAGUE MUN	United States
 68IS	CASA DE AERO PARK	United States
 68KS	WILLYS LAKE	United States
 68LS	MYRTLE GROVE	United States
+68MI	SALINE	United States
 68MN	STANTON HILL AERODROME	United States
 68PN	NARRIGAN GRASS STRIP	United States
 68R	HAMP	United States
@@ -1738,6 +1885,7 @@
 6AL3	LAY LANDING	United States
 6AL5	BIG SKY FARMS	United States
 6AR5	TIDWELL FLYING SERVICE	United States
+6AR9	PINE MOUNTAIN	United States
 6B0	MIDDLEBURY STATE	United States
 6B4	FRANKFORT-HIGHLAND	United States
 6B6	MINUTE MAN	United States
@@ -1749,11 +1897,13 @@
 6D7	DESHLER MUN	United States
 6D9	IOSCO CO	United States
 6E5	WILDER	United States
+6F1	TALIHINA MUN	United States
 6F7	MANNING	United States
 6FL8	AMES	United States
 6G1	TITUSVILLE	United States
 6G4	WYNKOOP	United States
 6G5	BARNESVILLE/BRADFIELD	United States
+6G6	COVE VALLEY	United States
 6G8	BROOKLYN	United States
 6H4	VAN WAGNEN	United States
 6H8	HAZELTON MUN	United States
@@ -1773,6 +1923,7 @@
 6K4	FAIRVIEW MUN	United States
 6K5	SISTERS EAGLE AIR	United States
 6K7	GRUNDY CENTER MUN	United States
+6K9	KEOSAUQUA MUN	United States
 6KS4	BUSSEN	United States
 6KS6	FOXTROT FLD	United States
 6KS7	BUG FLD	United States
@@ -1785,11 +1936,14 @@
 6M6	LEWIS CO REGL	United States
 6M7	MARIANNA/ LEE CO- STEVE EDWARD	United States
 6M8	MARKED TREE MUN	United States
+6MN7	SODBUSTER	United States
 6MS6	KAEHR	United States
 6MT4	BROWN CABIN	United States
 6MU5	CARP FARMS	United States
 6MY8	USFS	United States
 6NA6	MARSH BROTHERS AIRSTRIP	United States
+6NC1	LITTLE MOUNTAIN	United States
+6NC3	EASTOVER AIR RANCH	United States
 6NE3	BEAVER LANDING	United States
 6P3	WAUNAKEE	United States
 6P7	MCVILLE	United States
@@ -1799,6 +1953,7 @@
 6R6	TERRELL CO	United States
 6R7	OLD HARBOR	Alaska
 6S0	BIG TIMBER AT HOWARD	United States
+6S1	BRIDGER MUN	United States
 6S2	FLORENCE MUN	United States
 6S3	WOLTERMANN MEML	United States
 6S4	DAVIS	United States
@@ -1808,6 +1963,7 @@
 6SD4	XPOINT	United States
 6TE6	6666 RANCH	United States
 6TS8	RABB AND NOBRA	United States
+6TX0	YANCEY CREEK RANCH NORTH	United States
 6TX2	RANCHO SABINO GRANDE	United States
 6U5	HINSDALE	United States
 6U6	HOGELAND	United States
@@ -1820,6 +1976,7 @@
 6WA3	GREEN ACRES	United States
 6WI0	CUB ACRES	United States
 6X0	TARRANT	United States
+6X8	VULTURES ROW	United States
 6XA4	ZADOW AIR	United States
 6XS2	LUSCOMBE ACRES	United States
 6Y0	MOORESTOWN	United States
@@ -1842,9 +1999,11 @@
 71AR	DIAMOND C	United States
 71J	OZARK/BLACKWELL	United States
 71K	WESTPORT	United States
+71N	SUNBURY	United States
 71TA	CHUMCHAL FARMS	United States
 72AR	CADDO LNDG	United States
 72F	THROCKMORTON MUN	United States
+72IN	RIVER VIEW	United States
 72K	WESTPORT AUX	United States
 72KS	HILLBILLIES	United States
 72MI	NORTHWOODS	United States
@@ -1855,6 +2014,7 @@
 72XA	STIFFS AIRPARK	United States
 72XS	WHITAKER S LANDING	United States
 73C	LANCASTER MUN	United States
+73F	WINGS FOR CHRIST INTL FLT ACAD	United States
 73G	CHERRY	United States
 73MD	SWAN CREEK	United States
 73S	WILLARD	United States
@@ -1873,6 +2033,7 @@
 74TE	FLAT TOP RANCH	United States
 74TN	HOG LOT LANDING	United States
 74V	ROOSEVELT MUN	United States
+74VG	TIDES INN	United States
 75C	OROGRANDE	United States
 75CO	MRW FARMS AIRFIELD	United States
 75FA	BROWNVILLE	United States
@@ -1889,6 +2050,7 @@
 76F	VAN ZANDT CO REGL	United States
 76G	MARINE CITY	United States
 76KS	VINTAGE FLD	United States
+76LS	COOL CREEK	United States
 76MY	SECLUSION POINT	United States
 76N	SKYHAVEN	United States
 76T	BISHOP	United States
@@ -1897,6 +2059,7 @@
 77G	MARLETTE TOWNSHIP	United States
 77KS	RIVERBEND RANCH	United States
 77MI	DOREN FLD	United States
+77NV	FLYING EAGLE	United States
 77S	HOBBY	United States
 77TX	CIRCLE W RANCH	United States
 77XA	XL RANCH	United States
@@ -1919,7 +2082,10 @@
 79MI	DAVIS FLD	United States
 79MT	JOHNY CREEK	United States
 79MU	DUNHAM	United States
+79N	RIDGE SOARING	United States
+79NR	WYATT	United States
 79S	FT BENTON	United States
+79VG	PERKEY	United States
 79WA	RNR FARMS	United States
 79WS	MOOSE CREEK FARM	United States
 79XA	HACIENDA RIO LINDO RANCH	United States
@@ -1966,9 +2132,11 @@
 7KS7	KENNEDY	United States
 7KS8	MOORE SHORT FLD LANDING	United States
 7KS9	EAGLE FIELD	United States
+7KY3	SOGGY BOTTOM FARM	United States
 7KY4	SPRING CREEK AIRPARK	United States
 7L2	LINTON MUN	United States
 7L8	POST-AIR	United States
+7LA4	KIBS	United States
 7M1	MC GEHEE MUN	United States
 7M2	MOUNTAIN VIEW WILCOX MEML	United States
 7M3	BEARCE	United States
@@ -1976,22 +2144,30 @@
 7M5	OZARK/FRANKLIN CO	United States
 7M6	PARIS MUN	United States
 7M7	PIGGOTT MUN	United States
+7M8	RECTOR	United States
 7M9	SALEM	United States
+7MD1	MAGENNIS FARM	United States
 7ME	FT KENT MUN	United States
 7MI	FLUGPLATZ	United States
 7MN0	CORMORANT COVE	United States
+7MN4	MILLE LACS LAKE	United States
 7MO1	WOOD ACRES	United States
+7MO5	BUCKHORN	United States
 7MO7	MCGUIRE AIRFIELD	United States
 7MO8	LAUGHLIN	United States
+7MS4	CLOUD 9	United States
 7MY4	BEAVERS LAIR	United States
 7N1	CORNING-PAINTED POST	United States
 7N4	RAYMOND L KUSSMAUL JR MEML	United States
+7N8	BUTTER VALLEY GOLF PORT	United States
 7NC	DONALD S AIR PARK INC	United States
+7NC2	PINE I	United States
 7NE5	LIERLEY FARMS	United States
 7NE8	NE HITCHCOCK	United States
 7NY8	IWAN AIRFIELD	United States
 7OH7	HEATHCLIFF AIRPARK	United States
 7OK7	PANHANDLE	United States
+7OR2	FLYING SQUIRREL RANCH	United States
 7OR4	PINERIDGE RANCH	United States
 7P5	PISO	United States
 7PA4	NULL FARMS	United States
@@ -2000,6 +2176,8 @@
 7R9	BAILES	United States
 7S0	RONAN	United States
 7S1	7 OAKS FLIGHT PARK	United States
+7S3	STARK S TWIN OAKS	United States
+7S4	WISDOM	United States
 7S5	INDEPENDENCE STATE	United States
 7S6	WHITE SULPHUR SPRINGS	United States
 7S7	VALIER	United States
@@ -2017,6 +2195,7 @@
 7V8	JULESBURG MUN	United States
 7V9	CITY OF LAS ANIMAS- BENT CO	United States
 7VA5	LONG ISLAND	United States
+7VA9	HANNAH	United States
 7VG4	COASTAL SEAPLANES	United States
 7W1	PORT OF ILWACO	United States
 7W4	LAKE ANNA	United States
@@ -2065,6 +2244,7 @@
 82TA	HOELSCHER AG	United States
 82V	PINE BLUFFS MUN	United States
 83D	MACKINAC CO	United States
+83FL	NASSAU	United States
 83K	HARRIS	United States
 83KS	STOL CREEK	United States
 83MS	JOLLEY FLD	United States
@@ -2082,10 +2262,15 @@
 84R	SMITHVILLE CRAWFORD MUN	United States
 84TA	FLYING FAJITA	United States
 84TN	ELKINS FLD	United States
+84XS	LANG RANCH	United States
+84Y	BLOOMFIELD MUN	United States
 85KS	SANDERS	United States
+85U	SOLDIER BAR USFS	United States
 86AK	HOPPES	Alaska
 86CL	ERNST FLD	United States
 86F	CARNEGIE MUN	United States
+86IS	MICHAEL PFISTER	United States
+86KS	COBERLY	United States
 86ME	CATHANCE LANDING	United States
 86NE	ORUM AERODROME	United States
 86OA	BORDNER	United States
@@ -2097,6 +2282,7 @@
 87TN	RAINEY	United States
 87WS	VALHALLA	United States
 87Y	BLACKHAWK	United States
+88AZ	GRAPEVINE	United States
 88C	PALMYRA MUN	United States
 88D	HINDE	United States
 88GA	EPIC FLD	United States
@@ -2119,7 +2305,9 @@
 89ME	FOX FLD	United States
 89MO	BISHOP S LANDING	United States
 89ND	POLESCHOOK	United States
+89NE	MCCARDLES	United States
 89NR	GEORGIA RD FIELD	United States
+89NY	MAXSON	United States
 89VA	HIDDEN RIVER	United States
 89XA	HIDDEN RIDGE RANCH	United States
 89Y	MAIDENS	United States
@@ -2133,10 +2321,12 @@
 8C6	TRAER MUN	United States
 8CA8	WALLOM FLD	United States
 8CD4	BASIN FLD	United States
+8CL1	LAKE WOHLFORD RESORT	United States
 8D1	NEW HOLSTEIN MUN	United States
 8D3	SISSETON MUN	United States
 8D4	PAUL C MILLER/SPARTA	United States
 8D7	CLARK CO	United States
+8D8	LAKE ANDES MUN	United States
 8D9	HOWARD MUN	United States
 8F3	CROSBYTON MUN	United States
 8F5	GREATER MORRIS CO	United States
@@ -2149,6 +2339,7 @@
 8G3	GIERMEK EXECUTIVE	United States
 8G6	HARRISON CO	United States
 8G8	KOONS	United States
+8GA9	BROOKBRIDGE	United States
 8GK	GALLATIN CO	United States
 8I1	ROBINSON	United States
 8I3	GLENNDALE	United States
@@ -2168,18 +2359,24 @@
 8M6	MC VILLE MUN	United States
 8M7	TRADEWATER	United States
 8M9	PROVIDENCE-WEBSTER CO	United States
+8MA4	CROW ISLAND	United States
 8MI3	MATTAWAN AIRPARK	United States
 8MN2	ASLESEN	United States
+8MN3	BREEZY POINT	United States
 8MN4	LIGHTFOOT FARMS	United States
 8MO1	LIFE FARM	United States
 8MO3	CURTIS FLD	United States
 8MO4	MANS FLD	United States
 8MS2	GODSPEED AIRPARK	United States
 8MY9	MINGLEWOOD	United States
+8N1	GRIMES	United States
 8N2	SKYDIVE CHICAGO	United States
 8N4	FLYING DOLLAR	United States
 8N8	DANVILLE	United States
+8NC	ADAMS	United States
+8NC8	LAKE RIDGE	United States
 8NE6	FRANKLIN S PLAINVIEW	United States
+8NK4	BETHANY	United States
 8OA6	ZIMMERMAN LANDING	United States
 8OA7	BALD EAGLE FLD	United States
 8OH5	URBAN	United States
@@ -2192,7 +2389,9 @@
 8T8	SAN GERONIMO	United States
 8TA9	STAR DUSTERS	United States
 8TE1	RICHIE RICH	United States
+8TN2	PLEASANT GROVE	United States
 8TX0	HUB FLD	United States
+8TX6	HARKEY RANCH	United States
 8U0	RYEGATE	United States
 8U1	SAND SPRINGS	United States
 8U2	SCHAFER USFS	United States
@@ -2204,6 +2403,7 @@
 8V3	PARKSTON MUN	United States
 8V6	DOVE CREEK	United States
 8V7	SPRINGFIELD MUN	United States
+8VA1	SLATE RIVER	United States
 8VA9	VALLEY VIEW	United States
 8W2	NEW MARKET	United States
 8W3	MANSFIELD	United States
@@ -2223,6 +2423,7 @@
 90F	BROKEN BOW MUN	United States
 90FD	CITRUS HEDGING RANCH	United States
 90MN	BISHMAN	United States
+90NY	HOPEWELL	United States
 90TT	WT AIRPARK	United States
 90XA	TG FARMS	United States
 91AS	CRUMROD	United States
@@ -2237,11 +2438,13 @@
 91WT	RIVERVIEW AIRPARK	United States
 91XS	STARK FLD	United States
 92C	CARTER	United States
+92CA	WESTLAKE FARMS	United States
 92F	CHATTANOOGA SKY HARBOR	United States
 92G	MIDLAKES	United States
 92IN	H R WEISSER	United States
 92KY	PUMPKIN FLD	United States
 92MU	PARKS FLD	United States
+93AZ	INDE MOTORSPORTS RANCH	United States
 93B	STONINGTON MUN	United States
 93C	RICHLAND	United States
 93F	MIGNON LAIRD MUN	United States
@@ -2253,6 +2456,7 @@
 93XA	SCOTT RANCH	United States
 93Y	DAVID CITY MUN	United States
 94C	GILBERT	United States
+94E	WHISKEY CREEK	United States
 94FA	STOCK ISLAND	United States
 94FL	PINE SHADOWS	United States
 94IL	FURFARO RLA	United States
@@ -2276,7 +2480,9 @@
 95XS	SERENITY	United States
 96AK	HACKNEY LANDING	Alaska
 96AL	BENT OAK	United States
+96C	FOX RIVER	United States
 96D	WALHALLA MUN	United States
+96FA	DUETTE TRAINING FACILITY	United States
 96G	COWLEY	United States
 96KS	PALMER FLD	United States
 96NE	RIVERBEND	United States
@@ -2300,23 +2506,28 @@
 99N	BAMBERG CO	United States
 99TA	ECHTLE FLD	United States
 99TT	STAR K RANCH	United States
+99V	CRAWFORD	United States
 9A0	LUMPKIN CO-WIMPY S	United States
 9A4	COURTLAND	United States
 9A5	BARWICK LAFAYETTE	United States
 9A8	UGASHIK	Alaska
 9AK0	SPORTSMENS PARADISE	Alaska
+9AK5	SKY HARBOR	Alaska
 9AK7	CUBDIVISION	Alaska
 9AK9	MOOSE MEADOWS	Alaska
 9AL6	FLYING HOG FARM	United States
 9AR1	CATLETT FARMS	United States
 9AR9	OVER THE TOP AVIATION	United States
+9B8	SALMON RIVER	United States
 9C8	EVART MUN	United States
+9CO3	HUBBARD	United States
 9D0	HIGHMORE MUN	United States
 9D1	GREGORY MUN/FLYNN	United States
 9D2	HARDING CO	United States
 9D4	DECK	United States
 9D7	CANDO MUN	United States
 9D9	HASTINGS	United States
+9F0	DUBLIN MUN	United States
 9F8	HOVEN MUN	United States
 9F9	SYCAMORE	United States
 9G0	BUFFALO	United States
@@ -2325,9 +2536,12 @@
 9G6	PINE HILL	United States
 9G8	EBENSBURG	United States
 9G9	GACKLE MUN	United States
+9I0	HAVANA REGL	United States
 9I3	WEST LIBERTY	United States
 9II4	CRUZAN FLD	United States
+9IS0	CEDAR RIDGE	United States
 9IS2	SCHERTZ	United States
+9K6	PATTY	United States
 9K7	ELLSWORTH MUN	United States
 9K8	KINGMAN/CLYDE CESSNA	United States
 9KS	GREENSBURG MUN	United States
@@ -2337,11 +2551,14 @@
 9KS9	SOUTH FORK AIRPARK	United States
 9KY9	PAINTSVILLE-PRESTONSBURG-COMBS	United States
 9L2	EDWARDS AF AUX NORTH BASE	United States
+9M4	ACKERMAN-CHOCTAW CO	United States
 9M6	KELLY-DUMAS	United States
 9M8	SHERIDAN-GRANT CO REGL	United States
 9MI4	WAITE FLD	United States
 9MY7	MIKES AERODROME	United States
+9N1	VANSANT	United States
 9N3	SEAMANS	United States
+9N7	FARMERS PRIDE	United States
 9ND2	LEWIS FLD	United States
 9NE6	ROTHWELL	United States
 9NM9	SPACEPORT AMERICA	United States
@@ -2350,6 +2567,7 @@
 9R5	HUNT	United States
 9S1	FOUR WINDS	United States
 9S2	SCOBEY	United States
+9S4	MINERAL CO	United States
 9S5	THREE FORKS	United States
 9S7	WINIFRED	United States
 9S9	LEXINGTON	United States
@@ -2357,23 +2575,29 @@
 9TS3	BELLA VISTA RANCH	United States
 9U0	TURNER	United States
 9U1	WILSALL	United States
+9U7	CURRANT RANCH	United States
 9V5	MODISETT	United States
 9V6	MARTIN MUN	United States
 9V7	EADS MUN	United States
 9V9	CHAMBERLAIN MUN	United States
 9VA6	SAUNDERS FLD	United States
+9VG	CAMPBELL FIELD	United States
 9W9	CLIO CROP CARE	United States
+9WN2	VOYAGER VILLAGE	United States
 9WN6	OOSTBURG	United States
 9XA4	CHIMERA AERODROME	United States
 9XS4	MC KEON AVIATION	United States
 9XS9	RANCHO VERDE	United States
 9Y0	BOWSTRING	United States
 9Y1	DUNN CO WEYDAHL	United States
+9Y2	EAST GULL LAKE	United States
 9Y7	BARRON MUN	United States
 9Z8	LEVELOCK	Alaska
 9Z9	LAWING	Alaska
+A05	DIXIE USFS	United States
 A08	VAIDEN	United States
 A09	EAGLE	United States
+A13	BOLD	Alaska
 A20	SUN VALLEY	United States
 A24	CALIFORNIA PINES	United States
 A26	ADIN	United States
@@ -2386,14 +2610,17 @@ A30	SCOTT VALLEY	United States
 A32	BUTTE VALLEY	United States
 A34	DAYTON VALLEY	United States
 A39	AK-CHIN REGL	United States
+A57	ALSEK RIVER	Alaska
 A61	TUNTUTULIAK	Alaska
 A63	TWIN HILLS	Alaska
+A70	DANGEROUS RIVER	Alaska
 A79	CHIGNIK LAKE	Alaska
 AA02	HORSESHOE LAKE	Alaska
 AA05	UGASHIK NARROWS	Alaska
 AA10	EAGLES ROOST	Alaska
 AA11	MISTY LAKE	Alaska
 AA22	DELTA DAVES	Alaska
+AGAR	ARONA	Solomon Islands
 AGAT	ATOIFI	Solomon Islands
 AGGA	AUKI	Solomon Islands
 AGGB	BELLONA	Solomon Islands
@@ -2406,15 +2633,20 @@ AGGL	SANTA CRUZ	Solomon Islands
 AGGM	MUNDA	Solomon Islands
 AGGN	GIZO	Solomon Islands
 AGGO	MONO/STIRLING ISLAND	Solomon Islands
+AGGP	PARASI	Solomon Islands
 AGGR	TINGOA	Solomon Islands
 AGGS	SEGHE	Solomon Islands
 AGGT	SANTA ANNA	Solomon Islands
+AGGV	SUAVANAO	Solomon Islands
 AGGY	YANDINA/RUSSELL ISLANDS	Solomon Islands
+AGKG	KAGHAU	Solomon Islands
+AGOB	MANAOBA	Solomon Islands
 AK0	JAKES BAR	Alaska
 AK06	DENALI	Alaska
 AK07	LONGMERE LAKE AIR STRIP	Alaska
 AK1	BUTTE MUN	Alaska
 AK19	CARL S LANDING	Alaska
+AK20	CD-3	Alaska
 AK43	JACOBSEN LAKE	Alaska
 AK48	HAGGARDS LANDING	Alaska
 AK51	BIG CREEK	Alaska
@@ -2438,15 +2670,20 @@ AN03	ALASKA VIEW	Alaska
 AN04	DORCOL	Alaska
 AN05	STARK AIRSTRIP	Alaska
 AN37	FROG POND	United States
+ANG	ANGAUR	Micronesia
 ANYN	NAURU INTL	Nauru Islands
+APO	APOSTOLES	Argentina
 AQY	GIRDWOOD	Alaska
+AR05	HARRIS	United States
 AR09	GRAVETTE	United States
+AR43	BRICKEY	United States
 AS04	HUBBARDS	United States
 AS11	ROHRSCHEIB	United States
 AS31	CARPENTER FLD	United States
 AS91	GAYLONS	United States
 AT98	WOLFS FANG RUNWAY	Unknown
 AYBK	BUKA	Papua New Guinea
+AYBU	BULOLO	Papua New Guinea
 AYCH	CHIMBU	Papua New Guinea
 AYDU	DARU	Papua New Guinea
 AYGA	GOROKA	Papua New Guinea
@@ -2491,6 +2728,7 @@ B10	BOWMAN	United States
 B16	WHITFORDS	United States
 B19	BIDDEFORD MUN	United States
 B21	SUGARLOAF REGL	United States
+BB0	BLACK BUTTE NORTH	United States
 BGAA	AASIAAT	Greenland
 BGBW	NARSARSUAQ	Greenland
 BGCO	NERLERIT INAAT	Greenland
@@ -2508,32 +2746,54 @@ BGTL	PITUFFIK SPACE BASE (THULE)	Greenland
 BGUK	UPERNAVIK	Greenland
 BGUQ	QAARSUT	Greenland
 BIAR	AKUREYRI	Iceland
+BIBA	BAKKI	Iceland
 BIBD	BILDUDALUR	Iceland
 BIBL	BLONDUOS	Iceland
+BIBR	BUDARDALUR	Iceland
 BIDV	DJUPIVOGUR	Iceland
 BIEG	EGILSSTADIR	Iceland
+BIFL	FLUDIR	Iceland
+BIFM	FAGURHOLSMYRI	Iceland
 BIGJ	GJOGUR	Iceland
 BIGR	GRIMSEY	Iceland
+BIGS	GRIMSSTADIR	Iceland
 BIHK	HOLMAVIK	Iceland
+BIHL	HELLA	Iceland
 BIHN	HORNAFJORDUR	Iceland
 BIHU	HUSAVIK	Iceland
 BIIS	ISAFJORDUR	Iceland
+BIKA	KALDARMELAR	Iceland
 BIKF	KEFLAVIK	Iceland
+BIKL	KIRKJUBAEJARKLAUSTUR	Iceland
+BIKP	KOPASKER	Iceland
 BIKR	SAUDARKROKUR	Iceland
 BIMM	MELGERDISMELAR	Iceland
 BINF	NORDFJORDUR	Iceland
+BIRE	REYKHOLAR	Iceland
 BIRF	RIF	Iceland
+BIRG	RAUFARHOFN	Iceland
 BIRK	REYKJAVIK	Iceland
 BIRL	REYKJAHLID	Iceland
+BIRS	REYKJANES	Iceland
+BISA	SAUDARFLUGVOLLUR	Iceland
 BISF	SELFOSS	Iceland
 BISI	SIGLUFJORDUR	Iceland
+BISK	SKOGASANDUR	Iceland
+BISL	SKAFTAFELL	Iceland
+BISR	STORIKROPPUR	Iceland
+BIST	STYKKISHOLMUR	Iceland
+BISV	SKALAVATN	Iceland
 BITE	THINGEYRI	Iceland
+BITM	THORSMORK	Iceland
 BITN	THORSHOFN	Iceland
+BIVI	VIK	Iceland
 BIVM	VESTMANNAEYJAR	Iceland
 BIVO	VOPNAFJORDUR	Iceland
 BKPR	ADEM JASHARI	Serbia
 BKVR	Vali Ranch	Kosovo
 BP15	Honved	Hungary
+BQ1	GILLIAM-MCCONNELL	United States
+BTA	BELLA VISTA	Argentina
 C00	MERCER CO	United States
 C02	GRAND GENEVA RESORT	United States
 C03	NAPPANEE MUN	United States
@@ -2544,6 +2804,7 @@ C15	PEKIN MUN	United States
 C16	FRASCA	United States
 C17	MARION	United States
 C20	ANDREWS UNIVERSITY	United States
+C24	MINERAL CO MEML	United States
 C25	WAVERLY MUN	United States
 C27	MANCHESTER MUN	United States
 C29	MIDDLETON MUN/MOREY	United States
@@ -2552,6 +2813,7 @@ C37	BRODHEAD	United States
 C40	MILLER	United States
 C44	TOUTANT	United States
 C47	PORTAGE MUN	United States
+C48	WILSON BAR USFS	United States
 C53	LOWER LOON CREEK	United States
 C55	OGLE COUNTY	United States
 C56	BULT FIELD	United States
@@ -2569,54 +2831,86 @@ C80	NEW COALINGA MUN	United States
 C81	CAMPBELL	United States
 C82	BRESSON	United States
 C83	BYRON	United States
+C86	FREEPORT/DORNINK	United States
 C88	TKACZYK	United States
 C89	SYLVANIA	United States
 C91	DOWAGIAC MUN	United States
+C92	MENTONE	United States
 C97	LOWELL	United States
 C98	LAKE VILLAGE	United States
+CA03	FLYING M	United States
 CA11	BODAD	United States
+CA20	EAGLES NEST/DAVID WARDALL	United States
+CA35	SAN RAFAEL	United States
+CA51	THE SEA RANCH	United States
 CA62	MC MILLAN	United States
 CA69	AVENAL	United States
 CA74	SKYDIVE CALIFORNIA	United States
+CA88	SAN ARDO	United States
 CA89	SKYLARK	United States
 CA92	PARADISE SKYPARK	United States
+CAA2	ST-ANDRE-AVELLIN	Canada
 CAA4	ST-APOLLINAIRE (AIRPRO)	Canada
+CAA8	INVERMERE	Canada
 CAD4	TRAIL	Canada
 CAD5	MERRITT	Canada
 CAF2	CAYUGA EAST	Canada
+CAG3	CHILKO LAKE (TSYLOS PARK LODGE	Canada
 CAG4	AGRO 1	Canada
+CAH3	COURTENAY	Canada
 CAH4	VALEMOUNT	Canada
 CAJ2	WILEY	Canada
 CAJ3	CRESTON	Canada
 CAJ4	ANAHIM LAKE	Canada
+CAJ7	A. J. FLYING RANCH	Canada
 CAJ9	FT WARE	Canada
+CAK3	DELTA HERITAGE	Canada
 CAL4	ALBIAN	Canada
 CAM2	MISAW LAKE	Canada
 CAM3	DUNCAN	Canada
+CAM5	HOUSTON	Canada
 CAP2	ALLAN PARK	Canada
 CAP3	SECHELT	Canada
+CAP9	STRATHMORE (APPLETON FIELD)	Canada
 CAQ5	NAKUSP	Canada
 CAS3	KASKATTAMA RIVER	Canada
+CAT1	COGHLIN	Canada
 CAT4	QUALICUM BEACH	Canada
+CAT5	PORT MCNEILL	Canada
 CAU4	VANDERHOOF	Canada
 CAV3	ONE HUNDRED MILE HOUSE	Canada
 CAV4	CHARLIE LEAKE	Canada
+CAV9	OAK HAMMOCK AIR PARK	Canada
+CAY5	EAGLE VALLEY PRIVATE	Canada
 CAZ5	CACHE CREEK	Canada
+CBA8	BEAVERLEY	Canada
 CBA9	OSPIKA	Canada
 CBB2	STOUFFVILLE	Canada
+CBB9	OSOYOOS	Canada
 CBBC	BELLA BELLA (CAMPBELL I)	Canada
 CBC7	VANCOUVER HARBOUR (HELIPORT)	Canada
 CBD6	NAHANNI BUTTE	Canada
 CBD8	FLYING R RANCH	Canada
+CBF9	MABEL LAKE	Canada
+CBG2	GREEN LAKE	Canada
 CBH2	HELMET	Canada
+CBH4	PRAIRIE CREEK	Canada
+CBH7	HILLMAN S FARM	Canada
+CBJ4	ECHO VALLEY	Canada
+CBK7	MILE 422 (ALASKA HIGHWAY)	Canada
+CBL6	RADIUM HOT SPRINGS	Canada
 CBL8	BALA	Canada
 CBM3	KERR	Canada
 CBN9	TSAY KEH	Canada
 CBQ2	FORT LANGLEY	Canada
 CBQ7	KEMESS CREEK	Canada
+CBR2	KASLO	Canada
 CBR9	ANCHOR 9 RANCH	Canada
 CBS2	BLUE SKY	Canada
+CBS7	BRIERCREST SOUTH	Canada
 CBS8	ALBERNI VALLEY REGL	Canada
+CBT3	TSETZI LAKE (PAN PHILLIPS)	Canada
+CBW2	KITIMAT	Canada
 CBW4	BOB QUINN LAKE	Canada
 CBX5	TUNGSTEN (CANTUNG)	Canada
 CBX7	TUMBLER RIDGE	Canada
@@ -2627,29 +2921,47 @@ CCD3	WOODSTOCK	Canada
 CCD4	POSTVILLE	Canada
 CCE3	JUNIPER	Canada
 CCE4	BLACK TICKLE	Canada
+CCF6	MORINVILLE (CURRIE FIELD)	Canada
+CCF9	SCOTTSFIELD AIRPARK	Canada
+CCG3	WEYMAN	Canada
+CCG4	MCEWEN	Canada
 CCG5	CAYUGA (BRUCE FIELD)	Canada
 CCH4	CHARLOTTETOWN	Canada
 CCI9	CORTES ISLAND	Canada
 CCJ3	BOSTON BROOK	Canada
+CCK3	GRAND FALLS	Canada
 CCK4	ST LEWIS (FOX HARBOUR)	Canada
+CCK5	OWEN SOUND (COOK FIELD)	Canada
 CCL3	CHRISTINA LAKE	Canada
 CCL6	CHILKO LAKE (WILDERNESS LODGE)	Canada
+CCM3	SEVOGLE	Canada
 CCN2	GRAND MANAN	Canada
 CCP2	EXPLOITS VALLEY (BOTWOOD)	Canada
 CCP4	PORT HOPE SIMPSON	Canada
 CCQ3	DEBERT	Canada
 CCR3	FLORENCEVILLE	Canada
+CCR4	ROGERSVILLE	Canada
 CCR9	CREEMORE	Canada
 CCS3	ST STEPHEN	Canada
 CCS4	CHIPMAN	Canada
+CCS5	HAVELOCK	Canada
+CCS6	COURTENAY (SMIT FIELD)	Canada
+CCT2	COOKSTOWN	Canada
 CCV4	BELL ISLAND	Canada
+CCW4	STANLEY	Canada
+CCY3	SUSSEX	Canada
+CCY4	EAST GORE ECO	Canada
 CCZ2	RIGOLET	Canada
 CCZ3	CLARENVILLE	Canada
 CD05	SHKYVIEW	United States
+CD69	MORNING SHADOWS RANCH	United States
 CDA4	POKEMOUCHE	Canada
 CDA5	ST ANDREWS (CODROY VALLEY)	Canada
+CDC5	DOUGALL CAMPBELL	Canada
+CDF3	ENGLEHART (DAVE S FIELD)	Canada
 CDF5	ELORA	Canada
 CDF6	ARTHUR (DAMASCUS)	Canada
+CDG3	DUNGANNON	Canada
 CDH6	DELHI	Canada
 CDJ4	CLEARWATER	Canada
 CDJ5	STRATHMORE (D.J. MURRAY)	Canada
@@ -2659,6 +2971,7 @@ CDM2	MINTY	Canada
 CDM3	DIMKOVSKI AIRPARK	Canada
 CDP2	EAR FALLS	Canada
 CDP3	DENNIS G PUNCHES	Canada
+CDS	CANADON SECO	Argentina
 CDS2	DISLEY	Canada
 CDT5	BOUCTOUCHE	Canada
 CDT9	DETOUR LAKE	Canada
@@ -2667,10 +2980,12 @@ CDU6	DOAKTOWN	Canada
 CDV2	DOWNS GULCH	Canada
 CDW2	BADDECK (GUNEDEN)	Canada
 CDY3	FOGO	Canada
+CDY6	DAYSPRING	Canada
 CEA3	OLDS-DIDSBURY	Canada
 CEA5	HARDISTY	Canada
 CEB4	EARLY BIRD AIR	Canada
 CEB5	FAIRVIEW	Canada
+CEB8	BILLING AIRSTRIP	Canada
 CEC3	FOX LAKE	Canada
 CEC4	JASPER-HINTON	Canada
 CED3	OYEN MUN	Canada
@@ -2678,30 +2993,41 @@ CED4	FOX CREEK	Canada
 CED5	TABER	Canada
 CEE4	Hinton/Entrance	Canada
 CEE5	WABASCA	Canada
+CEE6	TWIN ISLAND	Canada
+CEE8	VIKING	Canada
+CEF3	BOW ISLAND	Canada
 CEF4	AIRDRIE	Canada
 CEG3	LACOMBE	Canada
 CEG4	DRUMHELLER MUN	Canada
 CEG8	NORTH SEAL RIVER	Canada
+CEH2	CU NIM	Canada
 CEH3	PONOKA (LABRIE FIELD)	Canada
 CEH5	RED EARTH CREEK	Canada
 CEH6	PROVOST	Canada
 CEJ3	STETTLER	Canada
+CEJ4	CLARESHOLM INDUSTRIAL	Canada
 CEJ6	ELK POINT	Canada
 CEK2	Braeburn	Canada
 CEK6	FLAGSTAFF REGL	Canada
+CEL3	EAST LINTON (KERR FIELD)	Canada
 CEL4	HANNA	Canada
 CEL5	VALLEYVIEW	Canada
+CEL6	TWO HILLS	Canada
 CEL8	ELEONORE	Canada
 CEM3	WHATI	Canada
 CEM4	BIG BEND	Canada
 CEM5	SWAN HILLS	Canada
+CEN2	BASSANO	Canada
 CEN3	THREE HILLS	Canada
 CEN4	FOOTHILLS REGL	Canada
 CEN5	COLD LAKE REGL	Canada
 CEP3	BARRHEAD	Canada
+CEP6	WARNER	Canada
 CEQ3	CAMROSE	Canada
 CEQ4	WHETSTONE	Canada
+CER2	CASTOR	Canada
 CER3	DRAYTON VALLEY INDUSTRIAL	Canada
+CES2	ST-ESPRIT	Canada
 CES4	WESTLOCK	Canada
 CES5	CENTRALIA (ESSERY FIELD)	Canada
 CET2	LEISMER	Canada
@@ -2711,24 +3037,31 @@ CEU2	BEAVERLODGE	Canada
 CEU9	SAMBAA K E	Canada
 CEV3	VEGREVILLE	Canada
 CEV5	MAYERTHORPE	Canada
+CEV7	TOFIELD	Canada
 CEW3	ST PAUL	Canada
 CEX3	WETASKIWIN	Canada
 CEX4	CARMACKS	Canada
+CEY3	FT MACLEOD	Canada
 CEZ2	CHAPMAN	Canada
 CEZ3	COOKING LAKE	Canada
 CEZ4	FT VERMILION (WOP MAY MEMORIAL	Canada
 CFA4	Carcross	Canada
 CFA7	TALTHEILEI NARROWS	Canada
+CFB3	HESPERO	Canada
+CFB4	TROUT LAKE	Canada
 CFB6	JOSEPHBURG	Canada
 CFC4	MACMILLAN PASS	Canada
 CFC8	FLAMBORO CENTRE	Canada
+CFD4	FOREMOST	Canada
 CFF4	GREAT BEAR LAKE	Canada
 CFG3	CONSORT	Canada
+CFG4	DEBOLT	Canada
 CFH4	FOX HARBOUR	Canada
 CFK6	OLDS (NETOOK)	Canada
 CFL4	SMITHORRS	Canada
 CFM4	DONNELLY	Canada
 CFM7	BOYLE	Canada
+CFM8	FT MACLEOD (ALCOCK FARM)	Canada
 CFN5	JAKE FEHR MEML	Canada
 CFN6	PRIMROSE	Canada
 CFN7	SUNDRE	Canada
@@ -2738,26 +3071,39 @@ CFP5	Glendon	Canada
 CFP6	LA BICHE RIVER	Canada
 CFQ4	Cheadle	Canada
 CFQ6	PELLY CROSSING	Canada
+CFQ7	GARTNER	Canada
 CFR2	Bawlf/Blackwells	Canada
 CFR5	ALBAN	Canada
 CFR7	RED DEER FORESTRY	Canada
 CFS3	FORT SELKIRK	Canada
 CFS4	OGILVIE	Canada
 CFS5	SPIRIT RIVER	Canada
+CFS6	LOON RIVER	Canada
 CFS7	TWIN CREEKS	Canada
+CFS8	CLEARWATER RIVER	Canada
+CFT3	FINLAYSON LAKE	Canada
 CFT5	HYLAND	Canada
 CFT8	PELICAN	Canada
 CFU3	Chipman	Canada
+CFU4	GARDEN RIVER	Canada
 CFU8	Irma	Canada
+CFV2	BEISEKER	Canada
+CFW2	GORDON LAKE	Canada
+CFW5	TALTSON RIVER	Canada
+CFX2	OKOTOKS AIR RANCH	Canada
 CFX4	MANNING	Canada
 CFX5	RENARD	Canada
+CFX6	VULCAN	Canada
 CFX8	Chestermere/Kirby Field	Canada
 CFY4	Indus/Winters Aire Park	Canada
 CFZ3	SCHLENKER	Canada
+CGB2	BISHELL S	Canada
 CGB3	GREENBUSH	Canada
 CGF5	GOODWOOD	Canada
 CGF6	GILFORD	Canada
 CGK2	GAHCHO KUE	Canada
+CGL2	HARROW	Canada
+CGL4	EAGLESHAM SOUTH	Canada
 CGR3	GEORGE LAKE	Canada
 CGS2	GOOSE LAKE	Canada
 CGV7	SPRINGVALE	Canada
@@ -2765,79 +3111,147 @@ CGW2	GLENWOOD	Canada
 CHB3	HOPE BAY	Canada
 CHC5	HAYES CAMP	Canada
 CHF3	WESTLOCK	Canada
+CHF4	HAWKEFIELD	Canada
+CHG2	HARBOUR GRACE	Canada
+CHL2	KINGS	Canada
 CHP	CIRCLE HOT SPRINGS	Alaska
 CHS3	HILLSPRING	Canada
 CJA2	SELKIRK	Canada
 CJA3	MORDEN REGIONAL	Canada
+CJA4	BOISSEVAIN	Canada
+CJA5	NESTOR FALLS	Canada
 CJA6	MINAKI	Canada
+CJA7	ARCOLA	Canada
 CJB3	STEINBACH	Canada
 CJB5	MARSHALL MCLEOD	Canada
+CJB6	GODS LAKE	Canada
+CJB8	KYLE	Canada
+CJC2	CRAIK	Canada
+CJC3	DAVIDSON MUNI	Canada
 CJC5	SHAUNAVON	Canada
 CJC6	HAFFORD	Canada
+CJC8	LAURIE RIVER	Canada
+CJD2	CUDWORTH MUN	Canada
+CJD3	BIRCH HILLS	Canada
+CJD5	LEADER	Canada
 CJE3	WEYBURN	Canada
+CJE4	SNOW LAKE	Canada
 CJE7	ASHERN	Canada
 CJF3	ILE-A-LA-CROSSE	Canada
 CJF4	BUFFALO (JAQUES FARMS)	Canada
+CJF8	BIGGAR	Canada
 CJG2	EATONIA (ELVIE SMITH) MUN	Canada
+CJH2	GILBERT PLAINS	Canada
 CJH3	MAIDSTONE	Canada
+CJH8	LEASK	Canada
+CJJ3	LOCHE MIST FARMS	Canada
 CJJ4	DELORAINE	Canada
+CJJ8	MACKLIN	Canada
+CJK2	GUNISAO LAKE	Canada
 CJK3	BEAUVAL	Canada
+CJK4	ESTERHAZY	Canada
+CJK5	GULL LAKE	Canada
 CJL2	HATCHET LAKE	Canada
 CJL4	LA LOCHE	Canada
+CJL5	LYNCREST	Canada
 CJL8	KASBA LAKE	Canada
+CJM2	ITUNA	Canada
+CJM4	GRAVELBOURG	Canada
 CJM5	FRONTIER	Canada
+CJN4	ASSINIBOIA	Canada
+CJN7	DUNLOP S FLY-IN LODGE	Canada
 CJO2	JOLIETTE (ST-THOMAS)	Canada
+CJP2	KERROBERT	Canada
+CJP6	CAMSELL PORTAGE	Canada
+CJP7	BIRD RIVER (LAC DU BONNET)	Canada
 CJP9	CHARLOT RIVER	Canada
+CJQ2	LAMPMAN	Canada
 CJQ3	CARLYLE	Canada
 CJQ4	MAPLE CREEK	Canada
 CJQ8	MARYFIELD	Canada
 CJR2	LUSELAND	Canada
 CJR3	GRACE LAKE	Canada
+CJR4	ESTON	Canada
+CJR5	GLADSTONE	Canada
 CJR8	MCCREARY	Canada
+CJS2	MALCOLM I	Canada
 CJS4	MOOSE JAW MUN	Canada
+CJS5	KILLARNEY MUN	Canada
 CJS7	CARMAN SOUTH	Canada
 CJT4	CUMBERLAND HOUSE	Canada
+CJT5	MELITA	Canada
+CJU3	MACDONALD	Canada
 CJU4	HUMBOLDT	Canada
 CJV5	NEEPAWA	Canada
 CJV7	SUMMER BEAVER	Canada
 CJV8	GRAND RAPIDS	Canada
+CJW2	OXBOW	Canada
 CJW4	PELICAN NARROWS	Canada
 CJW5	RUSSELL	Canada
 CJW7	CIGAR LAKE	Canada
 CJX4	ROSETOWN	Canada
 CJY3	TISDALE	Canada
 CJY4	SANDY BAY	Canada
+CJY5	STRATHCLAIR	Canada
 CJZ2	PORTAGE LA PRAIRIE NORTH	Canada
 CJZ3	MELFORT (MILLER FIELD)	Canada
+CJZ4	SHELLBROOK	Canada
+CKA4	ZHODA	Canada
+CKA8	ST FRANCOIS XAVIER	Canada
 CKA9	HANS ULRICKSEN	Canada
 CKB2	PATUANAK	Canada
 CKB6	WAPEKEKA	Canada
+CKB7	ROBLIN	Canada
 CKC9	PANGMAN	Canada
+CKD2	PORCUPINE PLAIN	Canada
 CKD5	KIPLING	Canada
 CKD8	BALSAM LAKE	Canada
 CKD9	SLATE FALLS	Canada
+CKE2	QUILL LAKE	Canada
 CKE8	UNITY	Canada
+CKF2	RADVILLE	Canada
 CKF4	Goodsoil	Canada
 CKF6	MAC GREGOR	Canada
+CKG8	KAKABEKA FALLS	Canada
+CKH3	DEBDEN	Canada
+CKH8	LUMSDEN (COLHOUN)	Canada
+CKJ7	STARBUCK	Canada
 CKJ9	LEMBERG	Canada
 CKK7	STEINBACH (SOUTH)	Canada
 CKL3	WUNNUMIN LAKE	Canada
 CKL5	SHOAL LAKE	Canada
+CKL6	LITTLE BEAR LAKE	Canada
+CKL9	REGINA BEACH	Canada
 CKM6	EASTERVILLE	Canada
 CKM8	OPAPIMISKAN LAKE	Canada
+CKP2	SPRING VALLEY NORTH	Canada
 CKQ3	NORTH SPIRIT LAKE	Canada
+CKQ5	LUCKY LAKE	Canada
+CKQ6	ERICKSON MUNI	Canada
+CKQ7	VERMILLION BAY	Canada
 CKQ8	MCARTHUR RIVER	Canada
+CKR3	STE. ROSE DU LAC	Canada
+CKR4	LUNDAR	Canada
+CKR7	GABRIELLE FARM	Canada
+CKS7	WADENA	Canada
 CKU	CORDOVA MUN	Alaska
+CKU6	GRENFELL	Canada
+CKU7	WATROUS	Canada
 CKV4	NORTH OF SIXTY	Canada
 CKX	CHICKEN	Alaska
+CKX8	BIG RIVER	Canada
+CKY2	WHITEWOOD	Canada
 CKY8	ARKAYLA SPRINGS	Canada
 CKZ3	ELK ISLAND	Canada
 CKZ7	WINKLER	Canada
 CL04	SKYWAY ESTATES	United States
+CL33	PAUMA VALLEY	United States
 CL35	WARNER SPRINGS	United States
 CL44	LATIERRA	United States
 CL46	QUAIL LAKE SKY PARK	United States
 CL56	RANCHAERO	United States
+CLA4	HOLLAND LANDING AIRPARK	Canada
+CLC4	LOON CREEK	Canada
 CLE4	LOWER EAST PUBNICO (LA FIELD)	Canada
 CLG7	LEGEND	Canada
 CLH3	LONG HARBOUR	Canada
@@ -2848,6 +3262,7 @@ CLS3	SOUTH LIEGE	Canada
 CLV2	STAYNER (CLEARVIEW)	Canada
 CLW2	ULLSWATER	Canada
 CLW4	WATSON	Canada
+CMA2	MATTAWA	Canada
 CMB2	MEADOWBANK	Canada
 CMB5	BELLSHILL	Canada
 CMB7	BOURDON FARM	Canada
@@ -2859,7 +3274,9 @@ CML5	THUNDER BAY (MARTIN S LANDING)	Canada
 CML7	MINTO LANDING	Canada
 CMN4	MINTO	Canada
 CMN5	MANIC-5	Canada
+CMN6	MORINVILLE (MIKE S FIELD)	Canada
 CMR2	MARY RIVER	Canada
+CMX2	MAXVILLE	Canada
 CMY2	M Y	Canada
 CN13	BORGES-CLARKSBURG	United States
 CN22	MERCEY HOT SPRINGS	United States
@@ -2871,28 +3288,53 @@ CN86	RIVER HIGHLANDS RANCH	United States
 CN95	HERITAGE FLD	United States
 CN99	DEL MAR FARMS	United States
 CNA3	BARRIE AIRPARK	Canada
+CNA4	EMSDALE	Canada
+CNA9	TOMVALE	Canada
 CNC3	BRAMPTON-CALEDON	Canada
 CNC4	GUELPH	Canada
+CND4	STANHOPE MUN	Canada
+CNE2	ORILLIA (MARA)	Canada
 CNE3	BEARSKIN LAKE	Canada
 CNE4	IROQUOIS FALLS	Canada
+CNF3	PENDLETON	Canada
 CNF4	KAWARTHA LAKES MUN	Canada
 CNF8	DWIGHT	Canada
 CNH2	NATUASHISH	Canada
+CNJ4	ORILLIA RAMA REGL	Canada
 CNK4	PARRY SOUND AREA MUN	Canada
+CNL2	NORTH LIEGE	Canada
 CNL3	BROCKVILLE REGL TACKABERRY	Canada
 CNL9	NUELTIN LAKE	Canada
+CNM2	MELBOURNE	Canada
 CNM5	KINGFISHER LAKE	Canada
+CNN3	FISHER	Canada
+CNN8	GANANOQUE	Canada
 CNP3	ARNPRIOR	Canada
+CNP7	IROQUOIS	Canada
+CNP8	GREENBANK	Canada
 CNQ3	NIAGARA CENTRAL DOROTHY RUNGEL	Canada
 CNR2	INNERKIP	Canada
+CNR4	TOBERMORY	Canada
 CNR5	TROTTER	Canada
+CNR6	CARLETON PLACE	Canada
+CNS4	ALEXANDRIA	Canada
+CNS8	MORRISBURG	Canada
 CNT6	ELMIRA	Canada
 CNT9	STEEVES	Canada
+CNU4	BELLEVILLE (MARKER)	Canada
+CNU8	MARKHAM	Canada
 CNV8	EDENVALE	Canada
+CNV9	NEUVILLE	Canada
+CNW3	BANCROFT	Canada
+CNX3	CAREY LAKE	Canada
 CNY3	COLLINGWOOD	Canada
+CNY4	ALLISTON	Canada
+CNZ4	MADAWASKA VALLEY	Canada
 CNZ8	GRIMSBY REGL	Canada
 CO04	DENNING	United States
+CO15	KELLY	United States
 CO28	CLEAR SKY AG	United States
+CO32	LAS MESITAS	United States
 CO4	COLORADO SPRINGS EAST	United States
 CO49	GREENHORN STRIP	United States
 CO61	AK SU	United States
@@ -2903,79 +3345,140 @@ CO90	USAF ACADEMY BULLSEYE AUX AIRF	United States
 CO92	TRINCHERA RANCH	United States
 CO94	SPRING CANYON	United States
 CO99	TRIPLE P RANCH	United States
+COK3	OAKWOOD	Canada
 COP5	COOPER FALLS	Canada
 COR3	ORONO	Canada
+COS2	IONA STATION (BOBIER STRIP)	Canada
+CPA4	SIMCOE (DENNISON FIELD)	Canada
 CPB9	BALDWIN	Canada
 CPC2	PORT CARLING	Canada
+CPC3	ARTHUR (WALTER S FIELD)	Canada
+CPC6	TEESWATER (THOMPSON FIELD)	Canada
 CPD2	ETHEL	Canada
+CPD4	BRUSSELS (ARMSTRONG)	Canada
+CPE4	REID S	Canada
+CPE6	SOUTH RIVER	Canada
 CPF2	BAR RIVER	Canada
+CPF3	PARTI	Canada
 CPF4	BRUCE MCPHAIL MEML	Canada
+CPF7	SOUTHAMPTON	Canada
 CPG4	ELMIRA (EAST)	Canada
 CPG7	FERGUS (JUERGENSEN FIELD)	Canada
+CPH2	ROLPH	Canada
+CPH9	FORDWICH	Canada
+CPJ6	ST-PIERRE-JOLYS (CARL S)	Canada
+CPL3	RIDEAU VALLEY	Canada
+CPL4	GRAND BEND	Canada
 CPM3	POURVOIRIE MIRAGE	Canada
 CPM5	VOLK	Canada
 CPM7	BRADFORD	Canada
 CPN2	PINDER	Canada
 CPN8	LONDON (PIONEER AIRPARK)	Canada
+CPP6	GRAND RIVER EXECUTIVE	Canada
+CPR5	WOODSTOCK (NORM BECKHAM/BOB HE	Canada
 CPR7	RICHARD W LEVAN	Canada
 CPS2	KEENE/ELMHIRST'S RESORT	Canada
+CPS4	LUCAN	Canada
+CPT2	KILLARNEY	Canada
+CPT3	ROCKTON	Canada
+CPT9	PINTENDRE	Canada
+CPU6	TYENDINAGA (MOHAWK)	Canada
+CPV2	CASTLEWOOD	Canada
+CPV4	MANSFIELD	Canada
 CPV7	POPLAR HILL	Canada
 CPV8	KEEWAYWIN	Canada
 CPZ3	MOUNTAIN VIEW	Canada
+CRB2	COTTAM	Canada
+CRB4	RIVIERE BONNARD	Canada
 CRB5	RIVIERE BELL	Canada
 CRC3	ROSS CREEK	Canada
 CRD2	COALDALE (REDNEK AIR)	Canada
+CRD6	TRUANT SOUTH	Canada
+CRF5	RICHTER	Canada
+CRG3	CARIGNAN (BOUTHILLIER)	Canada
 CRL2	RIDEAU LAKES	Canada
 CRL4	KIRBY LAKE	Canada
 CRL7	REINDEER LAKE	Canada
 CRM2	RIDING MOUNTAIN	Canada
 CRM4	CORMIER	Canada
 CRM5	WHEATLEY (ROBINSON MOTORCYCLES	Canada
+CRML	LE CUNFF	Canada
 CRS4	ROSSEAU	Canada
 CRW4	ARCTIC WATCH LODGE	Canada
 CSB2	SABLE ISLAND	Canada
 CSB3	ST-MATHIEU-DE-BELOEIL (GILLES	Canada
+CSB5	SHEDIAC BRIDGE	Canada
 CSC3	DRUMMONDVILLE	Canada
+CSC5	LAC ETCHEMIN	Canada
+CSC9	CONISTON	Canada
+CSD3	SALABERRY-DE-VALLEYFIELD	Canada
 CSD4	MONT-LAURIER	Canada
 CSD7	SUNDERLAND	Canada
 CSE3	LOURDES-DE-JOLIETTE	Canada
 CSE4	LACHUTE	Canada
 CSE5	MONTMAGNY	Canada
 CSF3	POSTE MONTAGNAIS (MILE 134)	Canada
+CSF4	SHELBURNE (SCHAEFER FIELD)	Canada
+CSF7	CASSELMAN (SHEA)	Canada
 CSF8	SPITFIRE	Canada
 CSG3	JOLIETTE	Canada
+CSG5	ST-JEAN CHRYSOSTOME	Canada
 CSH2	ISLE-AUX-GRUES	Canada
 CSH4	LEBEL-SUR-QUEVILLON	Canada
 CSH5	ST-FERDINAND	Canada
+CSJ2	KANAWATA AEROPARC	Canada
+CSJ4	LOUISEVILLE	Canada
+CSJ5	ST-LOUIS-DE-FRANCE	Canada
+CSK5	PAQUET	Canada
+CSL3	LAC-A-LA-TORTUE	Canada
+CSL5	ST-VICTOR-DE-BEAUCE	Canada
 CSM3	THETFORD MINES	Canada
+CSM5	ST-MICHEL-DES-SAINTS	Canada
+CSN7	FARNHAM	Canada
 CSP3	LICHTNER FARMS	Canada
+CSP5	ST-MATHIAS	Canada
+CSP6	AEROPARC ILE PERROT	Canada
+CSQ3	VALCOURT	Canada
 CSQ4	CASEY (CAMP DE BASE)	Canada
 CSR2	PVA1	Canada
 CSR3	VICTORIAVILLE (ANDRE-FORTIN)	Canada
 CSR8	LA SARRE	Canada
+CSS4	ST-DOMINIQUE	Canada
+CST3	ST LAZARE	Canada
+CST7	ST-LAMBERT-DE-LAUZON	Canada
 CSU2	CHISASIBI	Canada
 CSU3	ST-HYACINTHE	Canada
+CSU5	WEYMONTACHIE	Canada
 CSW4	BRACEBRIDGE (STONE WALL FARM)	Canada
 CSW5	MONTRÉAL (BELL)	Canada
+CSX5	GRANT	Canada
+CSX7	EXETER	Canada
+CSY3	SOREL	Canada
+CSZ3	ST-JOVITE	Canada
 CSZ4	ST FREDERIC	Canada
 CSZ6	ST-JÉRÔME (HEDRO-QUÉBEC)	Canada
 CT21	SUNNYVALE FLD	United States
 CT29	VALLEY FARM	United States
 CT52	FLYING RIDGE AIRSTRIP	United States
+CTA3	ILE AUX COUDRES	Canada
 CTA4	ST BRUNO DE GUIGUES	Canada
 CTA6	BRACEBRIDGE (TINKHAM)	Canada
 CTB6	TETE-A-LA-BALEINE	Canada
+CTF3	CAUSAPSCAL	Canada
 CTF4	DUNDALK	Canada
 CTF5	TURCHYN	Canada
 CTF6	LETHBRIDGE (TAYLOR FIELD)	Canada
 CTG2	MONTRÉAL/ST-HUBERT HELI-INTER	Canada
 CTG3	DU ROCHER-PERCE (PABOK)	Canada
+CTH3	LES BERGERONNES	Canada
 CTH7	RIVIERE AUX SAUMONS	Canada
 CTH8	COOKSTOWN/TALLY-HO	Canada
 CTM7	TUNDRA MINE/SALMITA MINE	Canada
 CTN6	TREHERNE (SOUTH NORFOLK AIRPAR	Canada
 CTP9	DONALDSON	Canada
+CTR6	MARCOTTE	Canada
 CTR8	TRIBBLE RANCH	Canada
+CTS4	ST-SIMON-DE-BAGOT	Canada
 CTT5	LA ROMAINE	Canada
 CTU2	FONTANGES	Canada
 CTU5	LA TABATIERE	Canada
@@ -3011,6 +3514,7 @@ CYAZ	LONG BEACH	Canada
 CYBA	Banff	Canada
 CYBB	KUGAARUK	Canada
 CYBC	BAIE-COMEAU	Canada
+CYBD	BELLA COOLA	Canada
 CYBE	URANIUM CITY	Canada
 CYBF	BONNYVILLE	Canada
 CYBG	BAGOTVILLE	Canada
@@ -3040,6 +3544,7 @@ CYCP	BLUE RIVER	Canada
 CYCQ	CHETWYND	Canada
 CYCR	SINCLAIR MEML	Canada
 CYCS	CHESTERFIELD INLET	Canada
+CYCT	CORONATION	Canada
 CYCW	CHILLIWACK	Canada
 CYCY	CLYDE RIVER	Canada
 CYCZ	FAIRMONT HOT SPRINGS	Canada
@@ -3081,6 +3586,7 @@ CYFR	FT RESOLUTION	Canada
 CYFS	FT SIMPSON	Canada
 CYFT	MAKKOVIK	Canada
 CYG2	PARKHILL (YELLOW GOLD)	Canada
+CYGB	GILLIES BAY	Canada
 CYGD	GODERICH	Canada
 CYGE	GOLDEN	Canada
 CYGH	FT GOOD HOPE	Canada
@@ -3099,6 +3605,7 @@ CYGZ	GRISE FIORD	Canada
 CYHA	QUAQTAQ	Canada
 CYHB	HUDSON BAY	Canada
 CYHD	DRYDEN REGL	Canada
+CYHE	HOPE	Canada
 CYHF	HEARST MUN	Canada
 CYHH	NEMISCAU	Canada
 CYHI	ULUKHAKTOK	Canada
@@ -3143,6 +3650,7 @@ CYLB	LAC LA BICHE	Canada
 CYLC	KIMMIRUT	Canada
 CYLD	CHAPLEAU	Canada
 CYLH	LANSDOWNE HOUSE	Canada
+CYLI	LILLOOET	Canada
 CYLJ	MEADOW LAKE	Canada
 CYLK	LUTSELK E	Canada
 CYLL	LLOYDMINSTER	Canada
@@ -3168,6 +3676,7 @@ CYNA	NATASHQUAN	Canada
 CYNC	WEMINDJI	Canada
 CYND	GATINEAU	Canada
 CYNE	NORWAY HOUSE	Canada
+CYNH	HUDSON S HOPE	Canada
 CYNJ	LANGLEY REGL	Canada
 CYNL	POINTS NORTH LANDING	Canada
 CYNM	MATAGAMI	Canada
@@ -3240,6 +3749,7 @@ CYRV	REVELSTOKE	Canada
 CYSA	STRATFORD MUN	Canada
 CYSB	SUDBURY	Canada
 CYSC	SHERBROOKE	Canada
+CYSE	SQUAMISH MUN (DON PATRICK)	Canada
 CYSF	STONY RAPIDS	Canada
 CYSG	ST GEORGES	Canada
 CYSH	MONTAGUE	Canada
@@ -3372,6 +3882,7 @@ CZMN	PIKWITONEI	Canada
 CZMT	MASSET	Canada
 CZN	CHISANA	Alaska
 CZNG	POPLAR RIVER	Canada
+CZNL	NELSON	Canada
 CZO	CHISTOCHINA	Alaska
 CZPB	SACHIGO LAKE	Canada
 CZPC	PINCHER CREEK	Canada
@@ -3379,8 +3890,10 @@ CZPO	PINEHOUSE LAKE	Canada
 CZRJ	ROUND LAKE (WEAGAMOW LAKE)	Canada
 CZSJ	SANDY LAKE	Canada
 CZSN	SOUTH INDIAN LAKE	Canada
+CZST	STEWART	Canada
 CZTA	BLOODVEIN RIVER	Canada
 CZTM	SHAMATTAWA	Canada
+CZUC	IGNACE MUN	Canada
 CZUM	CHURCHILL FALLS	Canada
 CZVL	VILLENEUVE	Canada
 CZWH	LAC BROCHET	Canada
@@ -3394,8 +3907,10 @@ D07	FAITH MUN	United States
 D09	BOTTINEAU MUN	United States
 D11	OJIBWA	United States
 D14	FERTILE MUN	United States
+D15	LAKE ISABELLA/CAL BREWER MEML	United States
 D17	WESTWINDS	United States
 D20	YALE	United States
+D23	ARCADE TRI-COUNTY	United States
 D24	FESSENDEN-STREIBEL MUN	United States
 D25	MANITOWISH WATERS	United States
 D29	DRAYTON MUN	United States
@@ -3403,6 +3918,7 @@ D31	LEEDS MUN	United States
 D32	STARBUCK MUN	United States
 D37	WARREN MUN	United States
 D39	SAUK CENTRE MUN	United States
+D41	STEPHEN MUN	United States
 D42	SPRINGFIELD MUN	United States
 D47	COUGAR RANCH	United States
 D49	COLUMBUS MUN	United States
@@ -3469,6 +3985,7 @@ DBBP	PARAKOU	Benin
 DE25	EAGLE CREST-HUDSON	United States
 DFEF	FADA N GOURMA	Burkina Faso
 DFFD	OUAGADOUGOU	Burkina Faso
+DFOD	DEDOUGOU	Burkina Faso
 DFOG	AMILCAR CABRAL DE GAOUA	Burkina Faso
 DFOO	BOBO-DIOULASSO	Burkina Faso
 DGAA	KOTOKA INTL	Ghana
@@ -3530,6 +4047,7 @@ DNYO	YOLA	Nigeria
 DNZA	ZARIA	Nigeria
 DRRA	TESSAOUA	Niger
 DRRC	DOGONDOUTCHI	Niger
+DRRG	GAYA	Niger
 DRRM	MARADI	Niger
 DRRN	DIORI HAMANI	Niger
 DRRP	LA TAPOA	Niger
@@ -3569,10 +4087,13 @@ E30	BRUCE	United States
 E34	SMILEY JOHNSON MUN/BASS	United States
 E35	FABENS	United States
 E36	GEORGETOWN	United States
+E37	FLYING J RANCH	United States
 E38	ALPINE-CASPARIS MUN	United States
+E40	WILSON S	United States
 E41	REAGAN CO	United States
 E42	MAJOR CORNELIUS	United States
 E45	PINE MOUNTAIN LAKE	United States
+E48	UPTON CO	United States
 E51	BAGDAD	United States
 E52	OLDHAM CO	United States
 E53	ENGLER	United States
@@ -3586,8 +4107,10 @@ E70	HUBER AIRPARK CIVIC CLUB LLC	United States
 E77	SAN MANUEL	United States
 E78	SELLS	United States
 E79	SIERRA SKY PARK	United States
+E85	DENIO JUNCTION	United States
 E89	CONCHAS LAKE	United States
 E91	CHINLE MUN	United States
+E92	ESTANCIA MUN	United States
 E94	GLENWOOD	United States
 E95	BENSON MUN/PAUL KERCHUM	United States
 E98	MID VALLEY	United States
@@ -3862,6 +4385,7 @@ EDMT	TANNHEIM	Germany
 EDMU	GUNDELFINGEN	Germany
 EDMV	VILSHOFEN	Germany
 EDMW	DEGGENDORF	Germany
+EDMX	OBERSCHLEISSHEIM HEL	Germany
 EDMY	MUEHLDORF	Germany
 EDMZ	REUTE	Germany
 EDNA	AMPFING	Germany
@@ -3925,7 +4449,7 @@ EDPK	SCHOENBERG	Germany
 EDPM	DONZDORF	Germany
 EDPO	NEUMARKT/OPF.	Germany
 EDPQ	SCHMIDGADEN	Germany
-EDPR	Donauwoerth	Germany
+EDPR	DONAUWOERTH HEL	Germany
 EDPS	SONNEN	Germany
 EDPT	GERSTETTEN	Germany
 EDPU	AMALIENHOF	Germany
@@ -4160,6 +4684,7 @@ EFET	ENONTEKIO	Finland
 EFEU	EURA	Finland
 EFFH	KELLONIEMI	Finland
 EFFO	FORSSA	Finland
+EFGE	GENBOLE	Finland
 EFHA	HALLI	Finland
 EFHK	VANTAA	Finland
 EFHL	HAILUOTO	Finland
@@ -4466,7 +4991,6 @@ EHAM	SCHIPHOL	Netherlands
 EHBD	BUDEL	Netherlands
 EHBK	MAASTRICHT-AACHEN	Netherlands
 EHDL	DEELEN	Netherlands
-EHDP	DE PEEL	Netherlands
 EHDR	DRACHTEN	Netherlands
 EHEH	EINDHOVEN	Netherlands
 EHGG	EELDE	Netherlands
@@ -5037,6 +5561,7 @@ ESPE	VIDSEL	Sweden
 ESQO	ARBOGA	Sweden
 ESSA	ARLANDA	Sweden
 ESSB	BROMMA	Sweden
+ESSC	EKEBY	Sweden
 ESSD	BORLANGE	Sweden
 ESSE	SKA-EDEBY	Sweden
 ESSF	HULTSFRED-VIMMERBY	Sweden
@@ -5085,6 +5610,7 @@ ESVS	SILJANSNAS	Sweden
 ETAD	SPANGDAHLEM AB	Germany
 ETAR	RAMSTEIN AB	Germany
 ETEB	ANSBACH AAF	Germany
+ETEK	BAUMHOLDER AAF	Germany
 ETHA	ALTENSTADT	Germany
 ETHB	BUECKEBURG	Germany
 ETHC	CELLE	Germany
@@ -5105,6 +5631,7 @@ ETNN	NOERVENICH	Germany
 ETNS	SCHLESWIG	Germany
 ETNT	WITTMUNDHAFEN	Germany
 ETNW	WUNSTORF	Germany
+ETOI	VILSECK AAF	Germany
 ETOU	WIESBADEN AAF	Germany
 ETSB	BUECHEL	Germany
 ETSH	HOLZDORF	Germany
@@ -5167,7 +5694,6 @@ F21	MEMPHIS MUN	United States
 F22	PERRY MUN	United States
 F23	RANGER MUN	United States
 F30	SULPHUR MUN	United States
-F31	LAKE TEXOMA STATE PARK	United States
 F32	HEALDTON MUN	United States
 F34	FIREBAUGH	United States
 F35	POSSUM KINGDOM	United States
@@ -5185,8 +5711,11 @@ F53	FRANKLIN CO	United States
 F56	ARLEDGE	United States
 F62	HAYFORK	United States
 F68	ANADARKO MUN	United States
+F69	AIRPARK-DALLAS	United States
 F70	FRENCH VALLEY	United States
 F72	FRANKLIN	United States
+F75	HARRISON	United States
+F78	HORSESHOE BEND	United States
 F81	OKEMAH MUN	United States
 F82	LUBBOCK EXEC	United States
 F85	COCHRAN	United States
@@ -5201,6 +5730,9 @@ F99	HOLDENVILLE MUN	United States
 FA30	REDTAIL AIRSTRIP	United States
 FA36	WHITE FARMS	United States
 FA37	WING SOUTH	United States
+FA38	WOODS AND LAKES	United States
+FA40	HIDDEN LAKE	United States
+FA49	SHADY INTL	United States
 FA54	CORAL CREEK	United States
 FA60	VINCE S CONDOMINIUM ASSOCIATIO	United States
 FA63	FOXRAVEN FLD	United States
@@ -5330,6 +5862,7 @@ FAVM	VENETIA	South Africa
 FAVR	VREDENDAL	South Africa
 FAWA	WARMBATHS	South Africa
 FAWB	WONDERBOOM	South Africa
+FAWC	WORCESTER	South Africa
 FAWI	WITBANK	South Africa
 FAWK	WATERKLOOF AFB	South Africa
 FAWL	WILLISTON	South Africa
@@ -5346,6 +5879,7 @@ FBOR	ORAPA	Botswana
 FBPM	P G MATANTE INTL	Botswana
 FBSK	SIR SERETSE KHAMA INTL	Botswana
 FBSP	SELEBI-PHIKWE	Botswana
+FBTS	TSHABONG	Botswana
 FCBB	MAYA-MAYA	Congo
 FCBS	SIBITI	Congo
 FCBY	YOKANGASSI	Congo
@@ -5357,8 +5891,11 @@ FCOO	OWANDO	Congo
 FCOU	OUESSO	Congo
 FCPP	ANTONIO AGOSTINHO NETO	Congo
 FD03	FIVE OAKS ESTATE	United States
+FD15	TAILWINDS	United States
 FD23	RUTLAND RUNWAY	United States
 FD38	WELLINGTON AERO CLUB	United States
+FD51	SUMMERLAND KEY COVE	United States
+FD88	AERO ACRES	United States
 FD90	LAFAYETTE LANDINGS	United States
 FDBS	SUGAR ESTATE	Swaziland
 FDBT	TAMBUTI	Swaziland
@@ -5372,8 +5909,11 @@ FEFA	ALINDAO	Republic of Central Africa
 FEFB	POSTE	Republic of Central Africa
 FEFF	M POKO	Republic of Central Africa
 FEFG	BANGASSOU	Republic of Central Africa
+FEFI	BIRAO	Republic of Central Africa
 FEFM	BAMBARI	Republic of Central Africa
+FEFO	BOUAR	Republic of Central Africa
 FEFR	BRIA	Republic of Central Africa
+FEFS	BOSSANGOA	Republic of Central Africa
 FEFT	BERBERATI	Republic of Central Africa
 FEFW	OUADDA	Republic of Central Africa
 FEFY	YALINGA	Republic of Central Africa
@@ -5392,12 +5932,16 @@ FJDG	DIEGO GARCIA NAVY	Diego Garcia
 FKKC	TIKO	Cameroon
 FKKD	DOUALA	Cameroon
 FKKF	MAMFE	Cameroon
+FKKI	BATOURI	Cameroon
 FKKL	MAROUA-SALAK	Cameroon
+FKKN	NGAOUNDERE	Cameroon
 FKKO	BERTOUA	Cameroon
 FKKR	GAROUA	Cameroon
 FKKU	BAMOUGOUM	Cameroon
+FKKV	BAMENDA	Cameroon
 FKYS	NSIMALEN	Cameroon
 FL03	NR3 FARMS	United States
+FL10	LITTLE RIVER	United States
 FL34	EGLIN AUX FLD 6	United States
 FL36	LYKES SILVER LAKE	United States
 FL37	TREASURE COAST	United States
@@ -5424,24 +5968,36 @@ FMCZ	PAMANDZI	Madagascar
 FMEE	ROLAND GARROS	Madagascar
 FMEP	PIERREFONDS	Madagascar
 FMME	ANTSIRABE	Madagascar
+FMMH	MAHANORO	Madagascar
 FMMI	IVATO	Madagascar
+FMMK	ANKAVANDRA	Madagascar
+FMMO	MAINTIRANO	Madagascar
 FMMS	SAINTE-MARIE	Madagascar
 FMMT	TOAMASINA	Madagascar
 FMMV	MORONDAVA	Madagascar
 FMMZ	AMBATONDRAZAKA	Madagascar
 FMNA	ARRACHART	Madagascar
+FMNC	AVARATRA	Madagascar
+FMND	ANDAPA	Madagascar
+FMNL	ANALALAVA	Madagascar
 FMNM	PHILIBERT TSIRANANA	Madagascar
 FMNN	FASCENE	Madagascar
 FMNQ	BESALAMPY	Madagascar
 FMNR	MAROANTSETRA	Madagascar
 FMNS	SAMBAVA SOUTH	Madagascar
 FMNW	AMBALABE	Madagascar
+FMSA	AMBALAVAO	Madagascar
+FMSB	ANTSOA	Madagascar
 FMSD	MARILLAC	Madagascar
 FMSF	FIANARANTSOA	Madagascar
 FMSG	FARAFANGANA	Madagascar
+FMSI	IHOSY	Madagascar
+FMSJ	MANJA	Madagascar
 FMSK	MANAKARA	Madagascar
 FMSM	MANANJARY	Madagascar
+FMSR	MOROMBE	Madagascar
 FMST	TOLIARY	Madagascar
+FMSY	AMPANIHY	Madagascar
 FNBG	17 DE SETEMBRO	Angola
 FNBJ	DR. ANTONIO AGOSTINHO NETO INT	Angola
 FNCA	CABINDA	Angola
@@ -5462,6 +6018,7 @@ FNUE	LUENA	Angola
 FNUG	UIGE	Angola
 FOGM	RAPHAEL BOUBALA	Gabon
 FOGO	OYEM	Gabon
+FOGQ	OKONDJA	Gabon
 FOGR	LAMBARENE	Gabon
 FOOG	JOSEPH RENDJAMBE ISSANI	Gabon
 FOOK	MAKOKOU	Gabon
@@ -5474,8 +6031,10 @@ FQAG	ANGOCHE	Mozambique
 FQBR	BEIRA	Mozambique
 FQCH	CHIMOIO	Mozambique
 FQFN	FELIPE NYUSI	Mozambique
+FQIA	INHACA	Mozambique
 FQIN	INHAMBANE	Mozambique
 FQLC	LICHINGA	Mozambique
+FQLU	LUMBO	Mozambique
 FQMA	MAPUTO INTL	Mozambique
 FQNC	NACALA	Mozambique
 FQNP	NAMPULA	Mozambique
@@ -5486,16 +6045,24 @@ FQTT	CHINGODZI	Mozambique
 FQUG	ULONGWE	Mozambique
 FQVL	VILANKULO	Mozambique
 FQXX	AFUNGI	Mozambique
+FRS	FRIAS	Argentina
 FSIA	SEYCHELLES INTL	Seychelles
 FSPP	PRASLIN	Seychelles
 FTTA	SARH	Chad
 FTTC	ABECHE	Chad
 FTTD	MOUNDOU	Chad
+FTTF	FADA	Chad
+FTTG	GOZ-BEIDA	Chad
 FTTI	ATI	Chad
 FTTJ	HASSAN DJAMOUS	Chad
+FTTK	BOKORO	Chad
+FTTM	MONGO	Chad
+FTTN	AM-TIMAN	Chad
 FTTP	PALA	Chad
 FTTR	ZOUAR	Chad
+FTTS	BOUSSO	Chad
 FTTU	MAO	Chad
+FTTY	FAYA-LARGEAU	Chad
 FVCP	CHARLES PRINCE	Zimbabwe
 FVCZ	BUFFALO RANGE	Zimbabwe
 FVFA	VICTORIA FALLS	Zimbabwe
@@ -5505,6 +6072,8 @@ FVMV	MASVINGO INTL	Zimbabwe
 FVRG	ROBERT GABRIEL MUGABE INTL	Zimbabwe
 FVWN	HWANGE NATIONAL PARK	Zimbabwe
 FWCL	BAKILI MULUZI INTL	Malawi
+FWCM	CLUB MAKOKOLA	Malawi
+FWDW	DWANGWA	Malawi
 FWKA	KARONGA	Malawi
 FWKG	KASUNGU	Malawi
 FWKI	KAMUZU INTL	Malawi
@@ -5542,9 +6111,14 @@ FXSS	SESHOTE	Lesotho
 FXTA	THABA TSEKA	Lesotho
 FXTB	TEBELLONG	Lesotho
 FXTK	TLOKOENG	Lesotho
+FYAR	ARANDIS	Namibia
+FYGB	GOBABIS	Namibia
+FYGF	GROOTFONTEIN	Namibia
 FYKM	KATIMA MULILO	Namibia
 FYKT	KEETMANSHOOP	Namibia
 FYLZ	LUDERITZ	Namibia
+FYML	MARIENTAL	Namibia
+FYMO	MOKUTI LODGE	Namibia
 FYOA	ONDANGWA	Namibia
 FYOG	ORANJEMUND INTL	Namibia
 FYRU	RUNDU	Namibia
@@ -5555,6 +6129,7 @@ FYWE	EROS	Namibia
 FYWH	HOSEA KUTAKO INTL	Namibia
 FZAA	N DJILI INTL	Democratic Republic of Congo
 FZAB	N DOLO	Democratic Republic of Congo
+FZAG	MUANDA	Democratic Republic of Congo
 FZAM	MATADI-TSHIMPI	Democratic Republic of Congo
 FZEA	MBANDAKA	Democratic Republic of Congo
 FZFD	GBADOLITE	Democratic Republic of Congo
@@ -5563,6 +6138,7 @@ FZIA	SIMISIMI	Democratic Republic of Congo
 FZIC	BANGOKA	Democratic Republic of Congo
 FZJH	ISIRO-MATARI	Democratic Republic of Congo
 FZKA	BUNIA	Democratic Republic of Congo
+FZKJ	BUTA-ZEGA	Democratic Republic of Congo
 FZMA	KAVUMA	Democratic Republic of Congo
 FZNA	GOMA INTL	Democratic Republic of Congo
 FZOA	KINDU	Democratic Republic of Congo
@@ -5573,18 +6149,24 @@ FZSA	KAMINA AB	Democratic Republic of Congo
 FZUA	KANANGA	Democratic Republic of Congo
 FZWA	MBUJI-MAYI	Democratic Republic of Congo
 G05	FINLEYVILLE	United States
+GA04	MALLARDS LANDING	United States
 GA19	HEATH GREEN SKYRANCH	United States
 GA36	READDICK FLD	United States
 GA46	HIGH POINT	United States
 GA49	HAMILTON STRIP	United States
 GA65	HOME FLD	United States
+GA75	MEADOWLARK	United States
+GA80	WHISPERING PINES	United States
+GABD	BANDIAGARA	Mali
 GABS	PRESIDENT MODIBO KEITA-SENOU I	Mali
 GAGM	GOUNDAM	Mali
 GAGO	KOROGOUSSOU	Mali
+GAKA	KENIEBA	Mali
 GAKD	DAG DAG	Mali
 GAKL	KIDAL	Mali
 GAMB	AMBODEDJO	Mali
 GANF	NIAFUNKE	Mali
+GANK	KEIBANE	Mali
 GANR	NIORO	Mali
 GASO	DIGNANGAN	Mali
 GATB	TOMBOUCTOU	Mali
@@ -5619,8 +6201,11 @@ GECE	CEUTA	Melilla
 GECT	HEL CEUTA	Melilla
 GEHM	HEL MELILLA	Melilla
 GEML	MELILLA	Melilla
+GFBN	BONTHE	Sierra leone
 GFLL	FREETOWN INTL	Sierra leone
 GGOV	OSVALDO VIEIRA	Guinea Bissau
+GLMR	SPRIGGS PAYNE	Liberia
+GLNA	LAMCO	Liberia
 GLRB	ROBERTS INTL	Liberia
 GMAD	AL MASSIRA INTL	Morocco
 GMAG	GUELMIME	Morocco
@@ -5655,18 +6240,31 @@ GOBD	BLAISE DIAGNE INTL	Senegal
 GOGG	ZIGUINCHOR	Senegal
 GOGK	SARE BIDJI	Senegal
 GOGS	CAP SKIRRING INTL	Senegal
+GOOK	KAOLACK	Senegal
 GOOY	LEOPOLD SEDAR SENGHOR	Senegal
+GOSM	OURO SOGUI	Senegal
+GOSP	PODOR	Senegal
+GOSR	RICHARD TOLL	Senegal
 GOSS	OUSMANE MASSECK NDIAYE	Senegal
+GOTT	TAMBACOUNDA	Senegal
 GQNE	BOGHE	Mauritania
+GQNF	KIFFA	Mauritania
 GQNK	KAEDI	Mauritania
 GQNO	OUMTOUNSY	Mauritania
 GQPA	ATAR	Mauritania
 GQPP	NOUADHIBOU	Mauritania
-GQPZ	ZOUERATT	Mauritania
+GQPZ	TAZADIT	Mauritania
 GUBE	BEYLA	Guinea
 GUCY	AHMED SEKOU TOURE INTL	Guinea
+GUFH	BADALA	Guinea
+GUKR	KAWASS	Guinea
+GULB	TATA	Guinea
+GUMA	MACENTA	Guinea
 GUNZ	KONIA	Guinea
 GUOK	BARALANDE	Guinea
+GUSA	SANGAREDI	Guinea
+GUSB	SAMBAILO	Guinea
+GUXD	DIANKANA	Guinea
 GVAC	AMILCAR CABRAL	Cape Verde
 GVBA	ARISTIDES PEREIRA INTL	Cape Verde
 GVMA	MAIO	Cape Verde
@@ -5676,6 +6274,7 @@ GVSN	SAO NICOLAU ISLAND	Cape Verde
 GVSV	CESARIA EVORA INTL	Cape Verde
 H04	VINITA MUN	United States
 H05	WILBURTON MUN	United States
+H07	HIGHLAND-WINET	United States
 H17	BUFFALO MUN	United States
 H19	BOWLING GREEN MUN	United States
 H34	HUNTSVILLE MUN	United States
@@ -5684,9 +6283,12 @@ H37	HERLONG	United States
 H47	HYAMPOM	United States
 H57	BISMARCK MEML	United States
 H58	OWEN	United States
+H66	NOWATA MUN	United States
 H68	HEFNER- EASLEY	United States
 H70	STRATFORD	United States
 H71	MID-AMERICA INDUSTRIAL	United States
+H75	HERNANDO VILLAGE	United States
+H76	PAWHUSKA MUN	United States
 H79	ELDON MODEL	United States
 H80	FIELD OF DREAMS	United States
 H81	RIVER FALLS	United States
@@ -5700,6 +6302,7 @@ HAAX	AXUM	Ethiopia
 HABD	BAHIR DAR INTL	Ethiopia
 HADC	COMBOLCHA	Ethiopia
 HADR	DIRE DAWA INTL	Ethiopia
+HAGB	ROBE	Ethiopia
 HAGM	GAMBELLA	Ethiopia
 HAGN	ATSE TEWODROS	Ethiopia
 HAGO	GODE	Ethiopia
@@ -5707,12 +6310,15 @@ HAHU	HUMERA	Ethiopia
 HAJJ	GARAD WILWAL	Ethiopia
 HAJK	JINKA	Ethiopia
 HAJM	ABA JIFAR	Ethiopia
+HAKD	KEBRI DEHAR	Ethiopia
 HALA	HAWASSA	Ethiopia
 HALL	LALIBELLA	Ethiopia
 HAMK	ALULA ABA NEGA	Ethiopia
+HASM	SEMERA	Ethiopia
 HASO	HIDASE	Ethiopia
 HASR	MAJOR GENERAL HAELOM	Ethiopia
 HBBA	MELCHIOR NDADAYE INTL	Burundi
+HBBO	KIRUNDO	Burundi
 HC01	BALEDOGLE	Somalia
 HCGR	GAROWE	Somalia
 HCMF	BOSASO INTL	Somalia
@@ -5750,49 +6356,71 @@ HETR	EL TOR	Egypt
 HEY0	Nouzha (old Alexandria)	Egypt
 HHAS	ASMARA INTL	Eritrea
 HHMS	MASSAWA INTL	Eritrea
+HHSB	ASSAB INTL	Eritrea
 HJJJ	JUBA	Sudan
 HJMK	MALAKAL	Sudan
 HJWW	WAU	Sudan
+HKAM	AMBOSELI	Kenya
+HKED	ELDORET	Kenya
 HKEL	ELDORET INTL	Kenya
 HKEM	EMBU	Kenya
+HKFG	FERGUSON S GULF	Kenya
+HKGA	GARISSA	Kenya
 HKHB	HOMA BAY	Kenya
 HKIS	ISIOLO	Kenya
 HKJK	JOMO KENYATTA INTL	Kenya
 HKKE	KEEKOROK	Kenya
 HKKG	KAKAMEGA	Kenya
 HKKI	KISUMU	Kenya
+HKKL	KILAGUNI	Kenya
 HKKT	KITALE	Kenya
 HKLK	LOKICHOGIO	Kenya
 HKLO	LODWAR	Kenya
 HKLU	MANDA	Kenya
 HKM1	MANDA BAY	Kenya
 HKMA	MANDERA	Kenya
+HKMG	MAGADI	Kenya
+HKMI	KISIMA	Kenya
 HKML	MALINDI	Kenya
 HKMO	MOI INTL	Kenya
 HKMP	MANDA POINT	Kenya
+HKMU	MAKINDU	Kenya
+HKNI	NYERI	Kenya
 HKNL	NANYUKI	Kenya
 HKNO	NAROK	Kenya
 HKNW	WILSON	Kenya
 HKOK	OLKIOMBO	Kenya
 HKRE	EASTLEIGH	Kenya
+HKSB	BUFFALO SPRING	Kenya
 HKWJ	WAJIR	Kenya
 HLBK	KAMBUT	Libya
+HLFL	BU-ATTIFEL-A100	Libya
 HLGS	GULF INTL	Libya
 HLGT	GHAT	Libya
+HLHM	HAMADA-NC5	Libya
 HLKF	KUFRA	Libya
 HLLB	BENINA INTL	Libya
 HLLM	MITIGA INTL	Libya
 HLLQ	LABRAQ	Libya
 HLLS	SEBHA	Libya
 HLLT	TRIPOLI INTL	Libya
+HLMB	MARSA-BREGA S21	Libya
 HLMS	MISRATA INTL	Libya
+HLNF	RAS LANUF-V40	Libya
+HLRA	DAHRA-WH32	Libya
+HLSA	SARIR-C4/5ALZ	Libya
 HLTD	GHADAMES	Libya
 HLTQ	TOBRUK	Libya
 HLUB	UBARI	Libya
+HLZA	ZELLA-Z74	Libya
+HLZG	OXY-103A	Libya
 HLZN	ZINTAN	Libya
+HLZU	ZUEITINA.OXY	Libya
 HLZW	ZWARA	Libya
 HRYG	GISENYI	Rwanda
+HRYN	NEMBA	Rwanda
 HRYR	KIGALI INTL	Rwanda
+HRYU	RUHENGERI	Rwanda
 HRZA	KAMEMBE	Rwanda
 HSAT	ATBARA	Sudan
 HSDN	DONGOLA	Sudan
@@ -5820,10 +6448,12 @@ HTLD	LOLIONDO	Tanzania
 HTLM	MANYARA	Tanzania
 HTMA	MAFIA	Tanzania
 HTMG	MOROGORO	Tanzania
+HTMI	MASASI	Tanzania
 HTMP	MPANDA	Tanzania
 HTMT	MTWARA	Tanzania
 HTMU	MUSOMA	Tanzania
 HTMW	MWANZA	Tanzania
+HTNR	NGARA	Tanzania
 HTPE	CHAKE CHAKE	Tanzania
 HTSN	SERONERA	Tanzania
 HTSO	SONGEA	Tanzania
@@ -5834,10 +6464,12 @@ HTTG	TANGA	Tanzania
 HTZA	ABEID AMANI KARUME INTL	Tanzania
 HUAR	ARUA	Uganda
 HUEN	ENTEBBE INTL	Uganda
+HUG	HUANGUELEN	Argentina
 HUGU	GULU	Uganda
 HUJI	JINJA	Uganda
 HUKD	KIDEPO	Uganda
 HUKJ	KAJJANSI	Uganda
+HUKK	KAKIRA	Uganda
 HUKS	KASESE	Uganda
 HULI	LIRA	Uganda
 HUMA	MBARARA	Uganda
@@ -5853,14 +6485,17 @@ I18	JACKSON CO	United States
 I20	ED-AIR	United States
 I22	RANDOLPH CO	United States
 I23	FAYETTE CO	United States
+I27	ELKADER	United States
 I34	GREENSBURG MUN	United States
 I35	TUCKER-GUTHRIE MEML	United States
 I40	DOWNING	United States
+I41	NEWLON	United States
 I42	PAOLI MUN	United States
 I44	DAHIO TROTWOOD	United States
 I45	WAPSHILLA	United States
 I50	STANTON	United States
 I54	MAD RIVER	United States
+I61	HAGERSTOWN	United States
 I63	MT STERLING MUN	United States
 I64	ORTNER	United States
 I66	CLINTON	United States
@@ -5934,9 +6569,11 @@ IL45	PALMER FLYING SERVICE INC.	United States
 IL47	FREEPORT/DORNINK	United States
 IL48	ST LOUIS METRO-EAST/SHAFER	United States
 IL54	BURNS FLD	United States
+IL71	DURY ESTATES	United States
 IL78	BENOIT	United States
 IL91	SACKMAN	United States
 IN01	KEPHART FLD	United States
+IN02	GREEN ACRES	United States
 IN07	TWIN LAKES	United States
 IN09	SCHLETER FLD	United States
 IN12	DUNGAN	United States
@@ -5949,6 +6586,7 @@ IN30	HULL	United States
 IN34	COUNTRYVIEW	United States
 IN37	CREEKBEND	United States
 IN41	FLYING U RANCH	United States
+IN47	POWELL	United States
 IN50	BEECHWOOD FLYING FLD	United States
 IN51	WINDY KNOLL	United States
 IN55	SONGER	United States
@@ -5965,12 +6603,16 @@ K08	HOLLY	United States
 K09	PISECO	United States
 K11	SAM RIGGS	United States
 K15	GRAND GLAIZE-OSAGE BEACH	United States
+K16	BECK S GROVE	United States
 K17	MONTEZUMA MUN	United States
 K19	ALBANY MUN	United States
 K22	MILLS	United States
+K23	COOPERSTOWN-WESTVILLE	United States
 K24	RUSSELL CO	United States
 K26	CARROLLTON MEML	United States
 K29	COUNCIL	Alaska
+K30	HEBER AIRPARK	United States
+K31	SHARON	United States
 K33	SALEM MEML	United States
 K34	GARDNER MUN	United States
 K38	WASHINGTON CO VETERAN S MEML	United States
@@ -5981,15 +6623,18 @@ K50	COOK	United States
 K51	MEDICINE LODGE	United States
 K52	CAPT BEN SMITH/MONROE CITY	United States
 K57	PETERSON MUN	United States
+K58	KRIER	United States
 K59	EARHART	United States
 K61	MORITZ MEML	United States
 K62	SNYDER	United States
 K63	COUNCIL GROVE MUN	United States
+K64	VINLAND VALLEY	United States
 K65	DIGHTON	United States
 K67	OSWEGO MUN	United States
 K68	GARNETT MUN	United States
 K74	ODEGAARD	United States
 K75	OSBORNE MUN	United States
+K77	FREEDOM MUN	United States
 K78	ABILENE MUN	United States
 K79	JETMORE MUN	United States
 K81	MIAMI CO	United States
@@ -6481,6 +7126,7 @@ KCYS	CHEYENNE REGL/OLSON	United States
 KCYW	CLAY CENTER MUN	United States
 KCZD	COZAD MUN	United States
 KCZG	TRI-CITIES	United States
+KCZK	CASCADE LOCKS STATE	United States
 KCZL	DAVID	United States
 KCZT	DIMMIT CO	United States
 KDAA	DAVISON AAF	United States
@@ -7459,6 +8105,7 @@ KMTP	MONTAUK	United States
 KMTV	BLUE RIDGE	United States
 KMTW	MANITOWOC CO	United States
 KMUI	MUIR AHP	United States
+KMUL	SPENCE	United States
 KMUO	MOUNTAIN HOME AFB	United States
 KMUT	MUSCATINE MUN	United States
 KMVC	MONROE CO	United States
@@ -7498,6 +8145,7 @@ KNEW	LAKEFRONT	United States
 KNFD	SUMMERDALE NOLF	United States
 KNFE	FENTRESS NALF	United States
 KNFG	CAMP PENDLETON MCAS	United States
+KNFJ	CHOCTAW NOLF	United States
 KNFL	FALLON NAS	United States
 KNFW	FT WORTH NAS JRB	United States
 KNGP	CORPUS CHRISTI NAS/TRUAX	United States
@@ -7521,6 +8169,7 @@ KNPA	PENSACOLA NAS/SHERMAN	United States
 KNQA	MILLINGTON/MEMPHIS	United States
 KNQI	KINGSVILLE NAS	United States
 KNQX	KEY WEST NAS	United States
+KNRA	COUPEVILLE NOLF	United States
 KNRB	MAYPORT NS-ADMIRAL DAVID L. MC	United States
 KNRN	NORTON MUN	United States
 KNRS	IMPERIAL BEACH NOLF	United States
@@ -7544,7 +8193,7 @@ KOAR	MARINA MUN	United States
 KOBE	OKEECHOBEE CO	United States
 KOBI	WOODBINE MUN	United States
 KOCF	OCALA INTL-TAYLOR	United States
-KOCH	MANGHAM REGL	United States
+KOCH	NACOGDOCHES A L MANGHAM JR REG	United States
 KOCQ	OCONTO/BAKE MUN	United States
 KOCW	WASHINGTON-WARREN	United States
 KODO	ODESSA-SCHLEMEYER	United States
@@ -7811,6 +8460,7 @@ KRDU	RALEIGH-DURHAM INTL	United States
 KRED	RED LODGE	United States
 KREG	LOUISIANA REGL	United States
 KREI	REDLANDS MUN	United States
+KREO	ROME STATE	United States
 KRFD	CHICAGO/ROCKFORD INTL	United States
 KRFG	ROOKE	United States
 KRFI	RUSK CO	United States
@@ -8091,6 +8741,7 @@ KTIW	TACOMA NARROWS	United States
 KTIX	SPACE COAST REGL	United States
 KTKC	TRACY MUN	United States
 KTKI	MCKINNEY NATL	United States
+KTKO	MANKATO	United States
 KTKV	TOMAHAWK REGL	United States
 KTKX	KENNETT MEML	United States
 KTLH	TALLAHASSEE INTL	United States
@@ -8296,7 +8947,10 @@ L37	GRAND CANYON CAVERNS	United States
 L39	LEESVILLE	United States
 L41	MARBLE CANYON	United States
 L45	BAKERSFIELD MUN	United States
+L51	HELLER FARM	United States
 L52	OCEANO CO	United States
+L61	SHOSHONE	United States
+L62	ELK HILLS-BUTTONWILLOW	United States
 L65	PERRIS VALLEY	United States
 L66	POLLOCK MUN	United States
 L70	AGUA DULCE	United States
@@ -8313,6 +8967,7 @@ L92	ALAMO LANDING	United States
 LA03	PROP STOP	United States
 LA04	BAILEY AIR	United States
 LA11	THACKERS	United States
+LA3	FELICIANA	United States
 LA35	SUMMERVILLE	United States
 LA41	DUPUIS	United States
 LA46	OMNI	United States
@@ -8329,17 +8984,23 @@ LBBM	BELOZEM	Bulgaria
 LBDB	DOLNA BANYA	Bulgaria
 LBGI	GORSKI IZVOR	Bulgaria
 LBGO	GORNA ORYAHOVITSA	Bulgaria
+LBKJ	KAINARDJA	Bulgaria
+LBKL	KAZANLAK	Bulgaria
+LBLS	LESNOVO	Bulgaria
 LBMA	MARITSA	Bulgaria
 LBMO	MONTANA	Bulgaria
 LBPD	PLOVDIV	Bulgaria
+LBPR	PRIMORSKO	Bulgaria
 LBRS	RUSE	Bulgaria
 LBSF	VASIL LEVSKI - SOFIA	Bulgaria
 LBTS	TSALAPITSA	Bulgaria
 LBWB	BALCHIK	Bulgaria
 LBWN	VARNA	Bulgaria
+LC0	LEFT COULEE	United States
 LCEN	ERCAN	Cyprus
 LCGK	GECITKALE/GAZIMAGOSA INTL	Cyprus
 LCLK	LARNACA INTL	Cyprus
+LCP	LONCOPUE	Argentina
 LCPH	PAFOS INTL	Cyprus
 LCRA	AKROTIRI	Cyprus
 LDDU	RUDJER BOSKOVIC	Croatia
@@ -9169,7 +9830,7 @@ LGTP	TRIPOLIS	Greece
 LGTS	MAKEDONIA	Greece
 LGTT	TATOI	Greece
 LGZA	DIONISIOS SOLOMOS	Greece
-LHAK	GYONGYOSHALASZ	Hungary
+LHAK	ATKAR-GYONGYOSHALASZ	Hungary
 LHBA	PLANGI	Hungary
 LHBB	BUDAORS AIR RESCUE BASE	Hungary
 LHBC	BEKESCSABA	Hungary
@@ -9190,6 +9851,7 @@ LHER	EGER	Hungary
 LHFC	FELCSUT	Hungary
 LHFH	FARKASHEGY	Hungary
 LHFM	FERTOSZENTMIKLOS	Hungary
+LHGD	GODOLLO	Hungary
 LHGR	GYURO	Hungary
 LHGU	GYORUJBARAT	Hungary
 LHHH	HARMASHATARHEGY	Hungary
@@ -9220,8 +9882,10 @@ LHSI	ALMASY	Hungary
 LHSK	SIOFOK-KILITI	Hungary
 LHSM	HEVIZ-BALATON	Hungary
 LHSN	SZOLNOK	Hungary
+LHSS	SZOLNOK-SZANDASZOLOS	Hungary
 LHST	SZATYMAZ	Hungary
 LHSZ	SZENTES	Hungary
+LHTL	TOKOL	Hungary
 LHTM	TAPIOSZENTMARTON	Hungary
 LHUD	SZEGED	Hungary
 LHUH	URHIDA	Hungary
@@ -9840,9 +10504,12 @@ LRTM	TRANSILVANIA-TARGU MURES	Romania
 LRTR	TRAIAN VUIA	Romania
 LRTZ	TUZLA	Romania
 LS08	MARMANDE	United States
+LS14	LYON	United States
+LS40	ST CHARLES	United States
 LS46	WC FLD	United States
 LS59	DANECO LANDING STRIP	United States
 LS70	LAKE AIR SERVICE-PINE ISLAND	United States
+LS83	DELTA DUSTERS, LLC	United States
 LS84	MATIDORA	United States
 LS87	TRIUMPH AIR STRIP	United States
 LS88	KRESWELL	United States
@@ -9911,6 +10578,7 @@ LSTA	RARON	Switzerland
 LSTB	BELLECHASSE	Switzerland
 LSTO	MOTIERS	Switzerland
 LSTR	MONTRICHER	Switzerland
+LSTS	ST. STEPHAN	Switzerland
 LSTZ	ZWEISIMMEN	Switzerland
 LSXA	Tavanasa	Switzerland
 LSXB	Balzers	Switzerland
@@ -9980,6 +10648,7 @@ LTBG	BANDIRMA	Turkey
 LTBH	CANAKKALE	Turkey
 LTBI	ESKISEHIR	Turkey
 LTBJ	ADNAN MENDERES INTL	Turkey
+LTBK	GAZIEMIR	Turkey
 LTBL	CIGLI	Turkey
 LTBN	KUTAHYA	Turkey
 LTBO	USAK	Turkey
@@ -9989,6 +10658,7 @@ LTBR	YENISEHIR	Turkey
 LTBS	DALAMAN INTL	Turkey
 LTBT	AKHISAR	Turkey
 LTBU	CORLU ATATURK INTL	Turkey
+LTBV	IMSIK	Turkey
 LTBW	HEZARFEN	Turkey
 LTBX	SAMANDIRA	Turkey
 LTBY	HASAN POLATKAN	Turkey
@@ -10085,6 +10755,7 @@ LZDV	DUBOVA	Slovakia
 LZHL	HOLIC	Slovakia
 LZIB	M.R. STEFANIK	Slovakia
 LZJS	JASNA	Slovakia
+LZKA	KOMOCA	Slovakia
 LZKC	KAMENICA NAD CIROCHOU	Slovakia
 LZKV	KVETOSLAVOV	Slovakia
 LZKZ	KOSICE	Slovakia
@@ -10114,6 +10785,7 @@ M02	DICKSON MUN	United States
 M04	COVINGTON MUN	United States
 M05	CARUTHERSVILLE MEML	United States
 M08	WHITEHURST	United States
+M10	MOUNTAINAIR MUN	United States
 M11	COPIAH CO	United States
 M12	STEELE MUN	United States
 M13	POPLARVILLE/PEARL RIVER CO	United States
@@ -10155,6 +10827,7 @@ M70	POCAHONTAS MUN	United States
 M71	GREENSFIELD	United States
 M72	NEW ALBANY/UNION CO	United States
 M73	ALMYRA MUN	United States
+M74	BALD KNOB MUN	United States
 M75	MALTA	United States
 M77	HOWARD CO	United States
 M78	MALVERN MUN	United States
@@ -10165,9 +10838,11 @@ M85	GIDEON MEML	United States
 M86	WALLE FIELD	United States
 M90	WILLIAM ROBERT JOHNSTON MUN	United States
 M91	SPRINGFIELD ROBERTSON CO	United States
+M93	HOUSTON CO	United States
 M94	DESERT AIRE REGL	United States
 M95	ARTHUR	United States
 M99	SHADY LANE	United States
+MA44	TRADE WIND	United States
 MA87	CAPE AIR SEAPLANES ON BOSTON H	United States
 MBAC	AMBERGRIS CAY INTL - BIG AMBER	Turks and Caicos islands
 MBGT	JAGS MCCARTNEY INTL	Turks and Caicos islands
@@ -10176,37 +10851,61 @@ MBPI	PINE CAY	Turks and Caicos islands
 MBPV	PROVIDENCIALES INTL	Turks and Caicos islands
 MBSC	SOUTH CAICOS INTL	Turks and Caicos islands
 MBSY	SALT CAY	Turks and Caicos islands
+MD05	FINAGIN	United States
 MD1	MASSEY	United States
 MD31	FOREST HILL	United States
+MD45	HAMPTON	United States
+MD47	BARNES	United States
+MD50	CHESAPEAKE RANCH	United States
 MD84	NYCE	United States
 MDAB	ARROYO BARRIL	Dominican Republic
+MDAN	ANGELINA	Dominican Republic
 MDBH	MARIA MONTEZ INTL	Dominican Republic
 MDCY	EL CATEY INTL (JUAN BOSCH)	Dominican Republic
 MDJB	EL HIGUERO INTL (DR JOAQUIN BA	Dominican Republic
 MDLR	CASA DE CAMPO INTL	Dominican Republic
+MDMC	MONTE CRISTI	Dominican Republic
 MDPC	PUNTA CANA INTL	Dominican Republic
 MDPP	GREGORIO LUPERON INTL	Dominican Republic
 MDSD	LAS AMERICAS INTL (JOSE F PENA	Dominican Republic
 MDSI	SAN ISIDRO AB	Dominican Republic
+MDSP	LA ROMANA	Dominican Republic
 MDST	CIBAO INTL	Dominican Republic
 ME16	LORING INTL	United States
 ME2	CUTLER REGL	United States
 ME5	BANKS	United States
 ME55	VINALHAVEN	United States
+ME6	WALES	United States
+ME64	SKYDIVE NEW ENGLAND	United States
 ME84	PERRYS LANDING	United States
+MGCB	COBAN	Guatemala
 MGGT	LA AURORA INTL	Guatemala
+MGI	ISLA MARTIN GARCIA	Argentina
 MGMM	MUNDO MAYA INTL	Guatemala
 MGPB	PUERTO BARRIOS	Guatemala
+MGQZ	QUETZALTENANGO	Guatemala
+MGRT	RETALHULEU	Guatemala
 MGSJ	SAN JOSE	Guatemala
+MHAZ	ASERRADERO AZACUALPA	Honduras
+MHEC	EL CUBO	Honduras
+MHGE	EL AGUACATE	Honduras
 MHLC	GOLOSON INTL	Honduras
 MHLM	RAMON VILLEDA MORALES INTL	Honduras
+MHPL	PUERTO LEMPIRA	Honduras
 MHPR	PALMEROLA INTL	Honduras
+MHPV	EL PORVENIR	Honduras
 MHRO	JUAN MANUEL GALVEZ INTL	Honduras
+MHSL	SAN LORENZO	Honduras
+MHTE	TELA	Honduras
 MHTG	TONCONTIN INTL	Honduras
+MHUT	UTILA	Honduras
+MI03	GENTNER STRIP	United States
 MI1	DENTON FARMS	United States
 MI10	HOERNERS CORNERS	United States
 MI17	JOYCE BINNS MEML	United States
+MI23	SCOTT/SAGINAW VALLEY FLD	United States
 MI31	NARTRON	United States
+MI34	FANCY FLD	United States
 MI37	MCGUFFINS LANDING	United States
 MI39	MITCH VEENSTRA	United States
 MI45	LOST CREEK	United States
@@ -10224,11 +10923,13 @@ MKKJ	KEN JONES	Jamaica
 MKNG	NEGRIL	Jamaica
 MKTP	TINSON PEN	Jamaica
 MMAA	GEN JUAN N ALVAREZ INTL	Mexico
+MMAG	PABLO L SIDAR	Mexico
 MMAL	AGUALEGUAS	Mexico
 MMAN	DEL NORTE INTL	Mexico
 MMAS	JESUS TERAN INTL	Mexico
 MMBT	BAHIAS DE HUATULCO INTL	Mexico
 MMCB	GEN MARIANO MATAMOROS	Mexico
+MMCC	CIUDAD ACUNA INTL	Mexico
 MMCE	CIUDAD DEL CARMEN INTL	Mexico
 MMCL	CULIACAN INTL	Mexico
 MMCM	CHETUMAL INTL	Mexico
@@ -10239,7 +10940,9 @@ MMCS	ABRAHAM GONZALEZ INTL	Mexico
 MMCT	CHICHEN-ITZA INTL	Mexico
 MMCU	GEN DIV P A ROBERTO FIERRO VIL	Mexico
 MMCV	GEN PEDRO JOSE MENDEZ INTL	Mexico
+MMCY	CELAYA	Mexico
 MMCZ	COZUMEL INTL	Mexico
+MMDA	CIUDAD CONSTITUCION	Mexico
 MMDO	DURANGO INTL	Mexico
 MMEP	TEPIC INTL	Mexico
 MMES	GEN DIV P A A L SALINAS CARRAN	Mexico
@@ -10247,8 +10950,10 @@ MMGA	BARRANCAS DEL COBRE	Mexico
 MMGL	MIGUEL HIDALGO Y COSTILLA INTL	Mexico
 MMGM	GEN JOSE MA YANEZ INTL	Mexico
 MMGR	GUERRERO NEGRO	Mexico
+MMHC	TEHUACAN	Mexico
 MMHO	GEN IGNACIO PESQUEIRA GARCIA I	Mexico
 MMIA	COLIMA	Mexico
+MMIM	ISLA MUJERES	Mexico
 MMIO	PLAN DE GUADALUPE INTL	Mexico
 MMIT	GEN ANTONIO CARDENAS RODRIGUEZ	Mexico
 MMJA	LENCERO	Mexico
@@ -10266,12 +10971,15 @@ MMMV	VENUSTIANO CARRANZA INTL	Mexico
 MMMX	BENITO JUAREZ INTL	Mexico
 MMMY	GEN MARIANO ESCOBEDO INTL	Mexico
 MMMZ	GEN RAFAEL BUELNA INTL	Mexico
+MMNG	NOGALES INTL	Mexico
 MMNL	QUETZALCOATL INTL	Mexico
 MMOX	XOXOCOTLAN INTL	Mexico
 MMPA	TAJIN	Mexico
 MMPB	HERMANOS SERDAN INTL	Mexico
+MMPC	ING JUAN GUILLERMO VILLASANA	Mexico
 MMPE	MAR DE CORTES INTL	Mexico
 MMPG	PIEDRAS NEGRAS INTL	Mexico
+MMPL	PUNTA COLORADA	Mexico
 MMPN	LIC AND GEN IGNACIO LOPEZ RAYO	Mexico
 MMPQ	PALENQUE	Mexico
 MMPR	LIC GUSTAVO DIAZ ORDAZ INTL	Mexico
@@ -10297,24 +11005,34 @@ MMVA	C P A CARLOS ROVIROSA INTL	Mexico
 MMVR	GEN HERIBERTO JARA INTL	Mexico
 MMZC	GEN LEOBARDO C RUIZ INTL	Mexico
 MMZH	IXTAPA-ZIHUATANEJO INTL	Mexico
+MMZM	ZAMORA	Mexico
 MMZO	COSTALEGRE INTL	Mexico
 MN21	PIETENPOL FIELD	United States
 MN24	SURFSIDE	United States
 MN26	NORTH LAKE LANDING	United States
+MN32	NIETZ	United States
 MN44	ANGEN FLD	United States
 MN46	MICHELS FARMS	United States
+MN67	SKY PARK	United States
 MN71	BAKKO AVIATION	United States
 MN73	TURTLE BAY	United States
 MN98	DONNER	United States
+MNBR	LOS BRASILES	Nicaragua
 MNCE	COSTA ESMERALDA	Nicaragua
+MNCH	CHINANDEGA	Nicaragua
+MNCI	CORN ISLAND	Nicaragua
+MNLN	LEON	Nicaragua
 MNMG	AUGUSTO CESAR SANDINO INTL	Nicaragua
 MNMR	MONTELIMAR	Nicaragua
 MNOM	OMETEPE	Nicaragua
+MNRT	ROSITA	Nicaragua
+MNSI	SIUNA	Nicaragua
 MNSN	SAN JUAN DE NICARAGUA	Nicaragua
 MO00	TURKEY MOUNTAIN	United States
 MO01	CUINCHE	United States
 MO04	BEL-VOIR ACRES	United States
 MO06	DISCOVERY BAY AT NORWALK LANDI	United States
+MO09	SHARPE FARMS	United States
 MO1	RICHLAND MUN	United States
 MO11	BARRON	United States
 MO15	C2K	United States
@@ -10354,6 +11072,7 @@ MPFE	FERNANDO ELETA	Panama
 MPGU	AUGUSTO VERGARA	Panama
 MPJE	JAQUE	Panama
 MPMG	MARCOS A GELABERT INTL	Panama
+MPOA	PUERTO OBALDIA	Panama
 MPPA	PANAMA PACIFICO INTL	Panama
 MPPD	CAP. JUSTINIANO MONTANEGRO	Panama
 MPPN	GUILLERMO PALM	Panama
@@ -10362,16 +11081,37 @@ MPRP	RESERVA PUNTA PATINO	Panama
 MPSA	RUBEN CANTU	Panama
 MPSM	CAP SCARLETT R MARTINEZ L INTL	Panama
 MPTO	TOCUMEN INTL	Panama
+MRAJ	ARANJUEZ	Costa Rica
+MRAN	LA FORTUNA	Costa Rica
+MRBA	BUENOS AIRES	Costa Rica
+MRBN	BATAAN	Costa Rica
+MRBP	BARRA DE PARISMINA	Costa Rica
+MRCC	COTO 47	Costa Rica
+MRCH	CHACARITA	Costa Rica
+MRCJ	CAJUELA	Costa Rica
+MRGP	GUAPILES	Costa Rica
 MRLB	DANIEL ODUBER QUIROS INTL	Costa Rica
+MRLE	LAUREL	Costa Rica
 MRLM	LIMON INTL	Costa Rica
+MRNC	MIGUEL ANGEL CASTILLO ZUMBADO	Costa Rica
+MRNS	NOSARA	Costa Rica
 MROC	JUAN SANTAMARIA INTL	Costa Rica
+MRPJ	PUERTO JIMENEZ	Costa Rica
 MRPV	TOBIAS BOLANOS PALMA INTL	Costa Rica
+MRRF	RIO FRIO	Costa Rica
+MRSN	SIRENA	Costa Rica
+MRST	SAN AGUSTIN	Costa Rica
+MRSV	SAN VITO DE JAVA	Costa Rica
+MRSX	SIXAOLA	Costa Rica
 MRTM	TAMARINDO	Costa Rica
+MRTR	TAMBOR	Costa Rica
+MRUP	UPALA	Costa Rica
 MS20	MACH 1 JET PORT	United States
 MS44	FIGHTING BAYOU	United States
 MS48	GEORGE FORD	United States
 MS51	MEMORY LANDING	United States
 MS62	FRISBEE LNDG	United States
+MS82	SHADE TREE	United States
 MS88	ORECK	United States
 MS9	EAGLES RIDGE	United States
 MS92	PAUL S FLYING SVC	United States
@@ -10384,6 +11124,7 @@ MT24	CLOVER CREST AIRPARK	United States
 MT26	DANFORD FLD	United States
 MT34	PONDEROSA	United States
 MT36	OTTERTAIL LAKE	United States
+MT38	SWANK	United States
 MT46	M4 STRIP	United States
 MT49	HORNER FLD	United States
 MT56	FLYING DOG AIRPARK	United States
@@ -10403,7 +11144,9 @@ MT92	GAROUTTE RANCH	United States
 MT96	RAM RANCH RUNWAY	United States
 MTCH	CAP HAITIEN INTL	Haiti
 MTJA	JACMEL	Haiti
+MTJE	JEREMIE	Haiti
 MTPP	TOUSSAINT LOUVERTURE INTL	Haiti
+MTPX	PORT DE PAIX	Haiti
 MU06	SHORTEN AIRFIELD	United States
 MU13	WRAY AIRFIELD	United States
 MU14	PEPPER FLD	United States
@@ -10453,6 +11196,7 @@ MYAM	LEONARD M THOMPSON INTL	Bahamas
 MYAN	SAN ANDROS	Bahamas
 MYAP	SPRING POINT	Bahamas
 MYAT	TREASURE CAY	Bahamas
+MYBC	CHUB CAY	Bahamas
 MYBG	GREAT HARBOUR CAY	Bahamas
 MYBS	SOUTH BIMINI	Bahamas
 MYCB	NEW BIGHT	Bahamas
@@ -10463,6 +11207,7 @@ MYEH	NORTH ELEUTHERA	Bahamas
 MYEM	GOVERNORS HARBOUR	Bahamas
 MYEN	NORMAN S CAY	Bahamas
 MYER	ROCK SOUND	Bahamas
+MYES	STANIEL CAY	Bahamas
 MYGF	GRAND BAHAMA INTL	Bahamas
 MYGW	WEST END	Bahamas
 MYIG	INAGUA	Bahamas
@@ -10473,18 +11218,24 @@ MYNN	LYNDEN PINDLING INTL	Bahamas
 MYRP	NEW PORT NELSON	Bahamas
 MYSM	SAN SALVADOR INTL	Bahamas
 MYTC	TORCH CAY	Bahamas
+MZ10	JOHN GREIF II	Belize
+MZBE	SIR BARRY BOWEN MUN	Belize
 MZBZ	PHILIP S W GOLDSON INTL	Belize
 MZCK	CAYE CAULKER	Belize
 N03	CORTLAND CO/CHASE	United States
+N05	HACKETTSTOWN	United States
 N06	LAUREL	United States
 N07	LINCOLN PARK	United States
+N08	FLANAGAN	United States
 N12	LAKEWOOD	United States
 N13	BLOOMSBURG MUN	United States
 N14	FLYING W	United States
 N15	KINGSTON AIRPORT	United States
+N16	CENTRE	United States
 N17	VAUGHN MUNI	United States
 N19	AZTEC MUN	United States
 N21	HOLLY RIDGE/TOPSAIL I	United States
+N22	SKY MANOR	United States
 N23	SIDNEY MUN	United States
 N24	QUESTA MUN NR 2	United States
 N27	BRADFORD CO	United States
@@ -10493,36 +11244,49 @@ N30	CHERRY RIDGE	United States
 N35	PUNXSUTAWNEY MUN	United States
 N38	GRAND CANYON REGL	United States
 N40	SKY MANOR	United States
+N41	MT TOBE	United States
 N43	BRADEN	United States
+N45	KOBELT	United States
 N47	POTTSTOWN MUN	United States
 N49	ROSE QUARTZ RANCH	United States
 N51	SOLBERG/HUNTERDON	United States
 N52	JAARS-TOWNSEND	United States
+N55	JALUIT	Marshall Islands
 N56	GREAT VALLEY	United States
 N57	NEW GARDEN	United States
 N58	SAMSARG	United States
+N59	ROSASCHI	United States
+N61	HINSHAW	United States
 N63	MEADOW BROOK	United States
 N66	NADER REGL	United States
 N68	FRANKLIN CO REGL	United States
 N71	DONEGAL SPRINGS	United States
+N72	WARWICK MUN	United States
 N74	PENNS CAVE	United States
 N79	NORTHUMBERLAND CO	United States
 N81	HAMMONTON MUN	United States
 N82	WURTSBORO/SULLIVAN CO	United States
+N83	DS BUTLER FARM AND AIRFIELD	United States
 N85	ALEXANDRIA	United States
 N86	SPANISH SPRINGS	United States
 N87	TRENTON-ROBBINSVILLE	United States
 N89	RESNICK	United States
+N92	LANEYS	United States
 N94	CARLISLE	United States
 N96	BELLEFONTE	United States
+N97	HIATT	United States
 N98	BOYNE CITY MUN	United States
 NA07	KORNKVEN AIRSTRIP	United States
 NA13	LINRUD AIRSTRIP	United States
 NC01	HARVEY POINT DEFENSE TESTING A	United States
+NC06	ELK RIVER	United States
+NC14	BOONE INC	United States
+NC25	GOLD HILL	United States
 NC35	MOUSE AND SNAKE RANCH	United States
 NC44	BARCLAYSVILLE FLD	United States
 NC74	CAUSEY	United States
 NC76	RONDO	United States
+NC99	BAGWELL	United States
 NCAI	AITUTAKI	Cook Islands
 NCAT	ATIU	Cook Islands
 NCMG	MANGAIA	Cook Islands
@@ -10538,13 +11302,16 @@ ND08	GATOR	United States
 ND10	KADRMAS	United States
 ND12	SNYDERS	United States
 ND14	FORDVILLE	United States
+ND15	SIMON FLD	United States
 ND18	JUDY STRIP	United States
 ND19	STOKKA	United States
 ND26	GAJEWSKI FLD	United States
+ND29	FLYING M RANCH	United States
 ND38	BLU SKYZ	United States
 ND40	RAU FLD	United States
 ND43	FLYING S RANCH	United States
 ND54	WHITMAN FLD	United States
+ND56	RUSTAD	United States
 ND58	GUDGEL	United States
 ND64	RUE RANCH AIRFIELD	United States
 ND82	Y-ROCK	United States
@@ -10573,27 +11340,40 @@ NE85	JIMS AGRI-AIR	United States
 NE89	BAR LAZY B	United States
 NE94	FEIK FLD	United States
 NE95	FRENCHMAN	United States
+NFCI	CICIA	Fiji
 NFFN	NADI INTL	Fiji
+NFFO	MALOLO LAILAI	Fiji
+NFKB	KAIBU	Fiji
+NFKD	KADAVU	Fiji
+NFMO	MOALA	Fiji
 NFNA	NAUSORI INTL	Fiji
+NFNB	BURETA	Fiji
 NFNH	LAUCALA	Fiji
+NFNK	LAKEBA	Fiji
 NFNL	LABASA	Fiji
 NFNM	MATEI	Fiji
+NFNO	KORO	Fiji
 NFNR	ROTUMA	Fiji
 NFNS	SAVUSAVU	Fiji
 NFOL	ONO-I-LAU	Fiji
+NFSW	YASAWA	Fiji
 NFTE	EUA	Fiji
 NFTF	FUA AMOTU INTL	Fiji
 NFTL	HA APAI	Fiji
 NFTO	NIUAFO OU	Fiji
 NFTP	NIUATOPUTAPU	Fiji
 NFTV	VAVA U	Fiji
+NFVL	VATULELE ISLAND	Fiji
 NGFU	FUNAFUTI INTL	Kiribati Islands
+NGMA	MAIANA	Kiribati Islands
+NGMK	MARAKEI	Kiribati Islands
 NGNU	NIKUNAU	Kiribati Islands
 NGTA	BONRIKI INTL	Kiribati Islands
 NGTB	ABEMAMA	Kiribati Islands
 NGTE	TABITEUEA NORTH	Kiribati Islands
 NGTR	ARORAE	Kiribati Islands
 NGTU	BUTARITARI	Kiribati Islands
+NH16	BROOKLINE	United States
 NH64	MIRROR LAKE	United States
 NH66	PLEASANT VIEW	United States
 NH69	WINDSOCK VILLAGE	United States
@@ -10601,9 +11381,12 @@ NIUE	NIUE INTL	Niue Islands
 NJ24	WARREN GROVE RANGE	United States
 NK05	TOM N  JERRY	United States
 NK12	CANAAN FLD	United States
+NK16	HENDRICKS	United States
 NK35	MARIWILL	United States
+NK71	MARCELLUS	United States
 NLWF	POINT VELE	Wallis Islands
 NLWW	HIHIFO	Wallis Islands
+NM05	CIELO DORADO ESTATES	United States
 NM10	TEQUESQUITE RANCH	United States
 NM12	THURMOND	United States
 NM16	SACATON	United States
@@ -10613,11 +11396,13 @@ NM20	EPIC PARAMOTOR	United States
 NM32	BELL RANCH WAGGONER	United States
 NM40	FLYING H	United States
 NM61	RUNWAY BAY	United States
+NM90	AMIGOS DEL CIELO	United States
 NR08	ADAMS	United States
 NR13	DAGHITA	United States
 NR21	HARDAWAY FLD	United States
 NR32	HOLLY RIDGE/TOPSAIL ISLAND	United States
 NR33	WARF	United States
+NR40	ALS	United States
 NR70	SOARING Q RANCH	United States
 NR72	BLACKHAWK FLD	United States
 NR76	BARKER FLD	United States
@@ -10683,6 +11468,7 @@ NV39	NEVADA AIRWAYS	United States
 NV47	NEW FARM	United States
 NV65	DESERT ROCK	United States
 NV68	16 MILE ROAD	United States
+NV83	HADLEY	United States
 NV88	MORRIS AG AIR	United States
 NV99	WILLOW CREEK TRADING POST	United States
 NVSA	MOTA LAVA	Vanuatu
@@ -10710,42 +11496,70 @@ NWWV	OULOUP	Noumea
 NWWW	TONTOUTA	Noumea
 NY0	FULTON CO	United States
 NY02	MOUNTAIN TOP	United States
+NY1	KLINE KILL	United States
+NY25	CAMILLUS	United States
+NY35	STANTON	United States
 NY39	HARD BARN CARGAS FARM	United States
 NY41	PINE VIEW	United States
+NY55	GRUND	United States
 NY75	STOL PERFORMANCE	United States
 NY76	NEVERLAND	United States
 NY78	NAKED ACRES	United States
+NY88	HICKORY ACRES	United States
 NY95	CREEKSIDE	United States
 NZAA	AUCKLAND INTL	New Zealand
 NZAP	TAUPO	New Zealand
 NZAR	ARDMORE	New Zealand
+NZAS	ASHBURTON	New Zealand
+NZBA	BALCLUTHA	New Zealand
+NZCB	CENTRE BUSH	New Zealand
 NZCG	CENTENNIAL PARK	New Zealand
 NZCH	CHRISTCHURCH INTL	New Zealand
 NZCI	CHATHAM IS/TUUTA	New Zealand
+NZCL	CLOUDY BAY	New Zealand
+NZCS	CROMWELL RACECOURSE	New Zealand
+NZCW	CROMWELL	New Zealand
 NZCX	COROMANDEL	New Zealand
+NZDA	DARGAVILLE	New Zealand
 NZDN	DUNEDIN	New Zealand
+NZDV	DANNEVIRKE	New Zealand
+NZES	WHAREPAPA SOUTH	New Zealand
 NZFE	FERNSIDE FIELDS	New Zealand
+NZFF	FOREST FIELD	New Zealand
 NZFI	FEILDING	New Zealand
+NZFJ	FRANZ JOSEF	New Zealand
+NZFO	FOX GLACIER	New Zealand
+NZFP	FOXPINE	New Zealand
+NZFT	FLAT POINT	New Zealand
 NZFX	PHOENIX	Unknown
+NZGA	GALATEA	New Zealand
 NZGB	GREAT BARRIER	New Zealand
 NZGC	GORE	New Zealand
 NZGM	GREYMOUTH	New Zealand
 NZGS	GISBORNE	New Zealand
 NZGT	GLENTANNER	New Zealand
+NZGY	GLENORCHY	New Zealand
 NZHA	HAWERA	New Zealand
 NZHK	HOKITIKA	New Zealand
 NZHM	HANMER	New Zealand
 NZHN	HAMILTON	New Zealand
+NZHP	LAKE HAUPIRI	New Zealand
 NZHS	HASTINGS	New Zealand
 NZHT	HAAST	New Zealand
+NZKD	MOTU KAIKOURA ISLAND	New Zealand
 NZKF	KAIPARA FLATS	New Zealand
+NZKI	KAIKOURA	New Zealand
 NZKK	KERIKERI	New Zealand
 NZKM	KARAMEA	New Zealand
 NZKP	KOPUTAROA	New Zealand
 NZKT	KAITAIA	New Zealand
+NZKY	KOWHAI	New Zealand
+NZLA	LOBURN ABBEY	New Zealand
 NZLE	LAKE STATION/NELSON LAKES	New Zealand
 NZLX	ALEXANDRA	New Zealand
 NZMA	MATAMATA	New Zealand
+NZMC	MOUNT COOK	New Zealand
+NZME	MERCER	New Zealand
 NZMF	MILFORD SOUND	New Zealand
 NZMJ	MARTINS BAY	New Zealand
 NZMK	MOTUEKA	New Zealand
@@ -10757,23 +11571,39 @@ NZNP	NEW PLYMOUTH	New Zealand
 NZNR	NAPIER	New Zealand
 NZNS	NELSON	New Zealand
 NZNV	INVERCARGILL	New Zealand
+NZOA	OMARAMA	New Zealand
 NZOF	OMAHA FLATS	New Zealand
 NZOH	OHAKEA (MILITARY)	New Zealand
+NZOM	OMAKA	New Zealand
+NZOP	OPOTIKI	New Zealand
 NZOU	OAMARU	New Zealand
 NZOX	OKIWI STATION	New Zealand
+NZPI	PARAKAI	New Zealand
 NZPM	PALMERSTON NORTH	New Zealand
 NZPN	PICTON	New Zealand
 NZPP	PARAPARAUMU	New Zealand
+NZPW	PAPAWAI	New Zealand
 NZQN	QUEENSTOWN	New Zealand
+NZRA	RAGLAN	New Zealand
 NZRC	RYANS CREEK	New Zealand
+NZRI	RAKITATA I	New Zealand
+NZRK	RANGITAIKI	New Zealand
 NZRO	ROTORUA	New Zealand
 NZRR	RUATORIA	New Zealand
+NZRT	RANGIORA	New Zealand
+NZRW	RUAWAI	New Zealand
+NZSD	STRATFORD	New Zealand
+NZSF	SPRINGFIELD	New Zealand
 NZSL	SPRINGHILL	New Zealand
 NZSP	JACK F. PAULUS SKIWAY	Unknown
+NZTE	TE KOWHAI	New Zealand
 NZTG	TAURANGA	New Zealand
+NZTH	THAMES	New Zealand
+NZTI	TAIERI	New Zealand
 NZTJ	TAWHAKI	New Zealand
 NZTK	TAKAKA	New Zealand
 NZTL	TEKAPO	New Zealand
+NZTM	TAUMARUNUI	New Zealand
 NZTN	TURANGI	New Zealand
 NZTO	TOKOROA	New Zealand
 NZTR	TE ARAROA	New Zealand
@@ -10782,10 +11612,13 @@ NZTU	TIMARU	New Zealand
 NZUK	PUKAKI	New Zealand
 NZUN	PAUANUI BEACH	New Zealand
 NZVL	MANDEVILLE	New Zealand
+NZVR	TAIHAPE	New Zealand
 NZWB	WOODBOURNE	New Zealand
 NZWD	WILLIAMS	Unknown
 NZWF	WANAKA	New Zealand
 NZWK	WHAKATANE	New Zealand
+NZWL	WEST MELTON	New Zealand
+NZWM	WAIMATE	New Zealand
 NZWN	WELLINGTON INTL	New Zealand
 NZWO	WAIROA	New Zealand
 NZWP	WHENUAPAI (MILITARY)	New Zealand
@@ -10793,6 +11626,7 @@ NZWR	WHANGAREI	New Zealand
 NZWS	WESTPORT	New Zealand
 NZWT	WHITIANGA	New Zealand
 NZWU	WHANGANUI	New Zealand
+NZWV	WAIHI BEACH	New Zealand
 NZYP	WAIPUKURAU	New Zealand
 O02	NERVINO	United States
 O05	ROGERS	United States
@@ -10811,10 +11645,12 @@ O27	OAKDALE	United States
 O28	ELLS/WILLITS MUN	United States
 O29	PITTSBURGH LANDING	United States
 O32	REEDLEY MUN	United States
+O33	SAMOA	United States
 O35	HOLLIS MUN	United States
 O37	HAIGH	United States
 O39	RAVENDALE	United States
 O41	WATTS-WOODLAND	United States
+O42	WOODLAKE	United States
 O43	YERINGTON MUN	United States
 O45	HOOKER MUN	United States
 O46	WEED	United States
@@ -10835,17 +11671,22 @@ O69	PETALUMA MUN	United States
 O79	SIERRAVILLE DEARWATER	United States
 O81	TULELAKE MUN	United States
 O85	BENTON	United States
+O86	TRINITY CENTER	United States
 O88	RIO VISTA MUN	United States
 O89	FALL RIVER MILLS	United States
+OA12	BUENA VISTA FARM	United States
 OA19	CLOVER FIELDS	United States
 OA86	SILENT P	United States
 OABT	BOST	Afghanistan
 OACC	SHAHID GENERAL MOHAIDEN GHORY	Afghanistan
+OAFR	FARAH	Afghanistan
 OAFZ	FEYZABAD	Afghanistan
 OAHR	KHWAJA ABDULLAH ANSARI INTL	Afghanistan
 OAIX	BAGRAM	Afghanistan
 OAKB	KABUL INTL	Afghanistan
 OAKN	KANDAHAR	Afghanistan
+OAKS	KHOST	Afghanistan
+OAMN	MAIMANA	Afghanistan
 OAMS	MAWLANA JALALUDDIN MUHAMMAD BA	Afghanistan
 OAQA	QALAT	Afghanistan
 OAQN	QALA-I-NAW	Afghanistan
@@ -10853,6 +11694,8 @@ OASA	SHARANA	Afghanistan
 OASD	SHINDAND	Afghanistan
 OASH	CAMP DAHLKE	Afghanistan
 OASL	SALERNO	Afghanistan
+OATN	TARIN KOWT	Afghanistan
+OAUZ	KUNDUZ	Afghanistan
 OAZI	BASTION	Afghanistan
 OBBI	BAHRAIN INTL	Bahrain
 OBBS	ISA AB	Bahrain
@@ -10883,6 +11726,7 @@ OEKA	KHASHM ALAN	Saudi Arabia
 OEKF	KING FAISAL AIR ACADEMY	Saudi Arabia
 OEKM	KING KHALED AB	Saudi Arabia
 OEKN	KHURAIS	Saudi Arabia
+OEL	CHOELE CHOEL	Argentina
 OEMA	PRINCE MOHAMMAD BIN ABDULAZIZ	Saudi Arabia
 OEMD	AL MINDASSAH	Saudi Arabia
 OENG	NEJRAN	Saudi Arabia
@@ -10906,6 +11750,7 @@ OESD	KING SAUD AB	Saudi Arabia
 OESH	SHARURAH	Saudi Arabia
 OESK	AL JOUF	Saudi Arabia
 OESN	KING SALMAN AB	Saudi Arabia
+OESS	SOLTANA AL-GHAT	Saudi Arabia
 OEST	SHABITAH	Saudi Arabia
 OETB	PRINCE SULTAN BIN ABDULAZIZ	Saudi Arabia
 OETF	TAIF INTL	Saudi Arabia
@@ -10929,6 +11774,7 @@ OH40	EYLESAIR	United States
 OH46	SCHANEY S LAIR	United States
 OH51	KATHAMEL	United States
 OH56	WARPED WING	United States
+OH66	OBANNON CREEK	United States
 OH71	TROY	United States
 OH74	SWORD FLIGHT PARK	United States
 OH86	COLVIN	United States
@@ -10945,6 +11791,7 @@ OIAD	DEZFUL	Iran
 OIAG	AGHAJARI	Iran
 OIAH	GACHSARAN	Iran
 OIAI	SHAHID ASYAEE	Iran
+OIAJ	OMIDIYEH AB	Iran
 OIAM	MAHSHAHR	Iran
 OIAW	AHWAZ	Iran
 OIBA	ABUMUSA	Iran
@@ -10971,6 +11818,7 @@ OIFS	SHAHRE KORD	Iran
 OIGG	SARDAR-E-JANGAL	Iran
 OIHH	HAMADAN	Iran
 OIHR	ARAK	Iran
+OIHS	NOGEH	Iran
 OIIA	AZADI	Iran
 OIIC	KUSHKE NOSRAT	Iran
 OIIE	IMAM KHOMAINI INTL	Iran
@@ -11001,6 +11849,7 @@ OINZ	DASHT-E-NAZ	Iran
 OISF	FASA	Iran
 OISJ	JAHROM	Iran
 OISL	LAR	Iran
+OISO	ZARGHAN	Iran
 OISR	LAMERD	Iran
 OISS	SHAHID DASTGHAIB INTL	Iran
 OISY	YASOUJ	Iran
@@ -11022,7 +11871,7 @@ OIZI	IRAN SHAHR	Iran
 OIZJ	JASK	Iran
 OIZS	SARAVAN	Iran
 OJAI	QUEEN ALIA INTL	Jordan
-OJAM	MARKA INTL	Jordan
+OJAM	AMMAN CITY	Jordan
 OJAQ	KING HUSSEIN INTL	Jordan
 OJMS	MUWAFFAQ SALTI AB	Jordan
 OK14	WALKER FAMILY FARM	United States
@@ -11037,6 +11886,7 @@ OK66	COTTONWOOD	United States
 OK69	MALINCHAK PVT	United States
 OK90	ROCKET RANCH	United States
 OK93	AIRMAN ACRES	United States
+OK95	DISNEY	United States
 OKAJ	AHMED AL JABER AB	Kuwait
 OKAS	ALI AL SALEM AB	Kuwait
 OKDI	CAMP UDAIRI	Kuwait
@@ -11069,6 +11919,7 @@ OL68	B&S RANCH	United States
 OL70	SKYROADS	United States
 OL99	LOOKOUT	Alaska
 OLBA	RAFIC HARIRI INTL	Lebanon
+OLKA	RENE MOUAWAD	Lebanon
 OLRA	RAYAK	Lebanon
 OMAA	ZAYED INTL	United Arab Emirates
 OMAD	AL BATEEN EXECUTIVE	United Arab Emirates
@@ -11093,7 +11944,9 @@ OMRK	RAS AL KHAIMAH INTL	United Arab Emirates
 OMSJ	SHARJAH INTL	United Arab Emirates
 OODQ	DUQM	Oman
 OOFD	FAHUD	Oman
+OOIZ	IZKI AB	Oman
 OOJA	JA ALUNI	Oman
+OOKB	KHASAB	Oman
 OOMK	MUKHAIZNA	Oman
 OOMS	MUSCAT INTL	Oman
 OOMX	MARMUL	Oman
@@ -11142,6 +11995,7 @@ OR48	PLACER	United States
 OR56	WESTON RANCH	United States
 OR60	CHAMBERLAIN	United States
 OR62	CACHE CREEK USFS	United States
+OR70	PINE VALLEY	United States
 OR76	CIDER RUN	United States
 OR77	BEGGS AIRSTRIP	United States
 OR79	FALLEN ROCK	United States
@@ -11169,6 +12023,7 @@ OSDI	DAMASCUS INTL	Syria
 OSDZ	DEIR ZZOR	Syria
 OSKL	KAMISHLY	Syria
 OSLK	BASSEL AL-ASSAD INTL	Syria
+OSPR	PALMYRA	Syria
 OTBD	DOHA INTL	Qatar
 OTBH	AL UDEID AB	Qatar
 OTBT	DUKHAN AB	Qatar
@@ -11176,12 +12031,16 @@ OTHH	HAMAD INTL	Qatar
 OYAA	ADEN INTL	Yemen
 OYAT	ATAQ	Yemen
 OYBD	AL-BAYDA	Yemen
+OYBN	BEIHAN	Yemen
+OYBQ	AL-BOUGH	Yemen
+OYBS	ABBS	Yemen
 OYGD	AL-GHAIDAH INTL	Yemen
 OYHD	HODEIDAH INTL	Yemen
 OYKM	KAMARAN	Yemen
 OYMB	MARIB	Yemen
 OYMS	MUKEIRAS	Yemen
 OYRN	MUKALLA INTL	Yemen
+OYSH	SAADAH	Yemen
 OYSN	SANAA INTL	Yemen
 OYSQ	SOCOTRA INTL	Yemen
 OYSY	SAYUN INTL	Yemen
@@ -11207,6 +12066,7 @@ P45	MT PLEASANT-SCOTTDALE	United States
 P52	COTTONWOOD	United States
 P91	FLYING M	United States
 P96	JERSEY SHORE	United States
+PA01	MERRYS PYMATUNING	United States
 PA44	BLACK LANDING FLD	United States
 PA88	NEMACOLIN	United States
 PAAD	POINT THOMSON AIRSTRIP	Alaska
@@ -11232,6 +12092,7 @@ PACK	CHEFORNAK	Alaska
 PACL	CLEAR	Alaska
 PACM	SCAMMON BAY	Alaska
 PACR	CIRCLE CITY	Alaska
+PACS	CAPE SARICHEF	Alaska
 PACV	MERLE K (MUDHOLE) SMITH	Alaska
 PACX	COLDFOOT	Alaska
 PACZ	CAPE ROMANZOF	Alaska
@@ -11415,6 +12276,7 @@ PFTO	TOK JUNCTION	Alaska
 PFWS	SOUTH NAKNEK NR2	Alaska
 PFYU	FT YUKON	Alaska
 PFZK	AKIACHAK	Alaska
+PG1	GRIFFIN	United States
 PGM	PORT GRAHAM	Alaska
 PGRO	MANGLONA INTL	Guam
 PGSN	ADA/SAIPAN INTL	Guam
@@ -11423,6 +12285,7 @@ PGUM	GUAM INTL	Guam
 PGWT	FRANCISCO MANGLONA BORJA/TINIA	Guam
 PHBK	BARKING SANDS PACIFIC MISSILE	Hawaii
 PHDH	DILLINGHAM	Hawaii
+PHHF	FRENCH FRIGATE SHOALS	Hawaii
 PHHI	WHEELER AAF	Hawaii
 PHHN	HANA	Hawaii
 PHJH	KAPALUA	Hawaii
@@ -11440,10 +12303,12 @@ PHPA	PORT ALLEN	Hawaii
 PHSF	BRADSHAW AAF	Hawaii
 PHTO	HILO INTL	Hawaii
 PHUP	UPOLU	Hawaii
+PKMA	ENEWETAK AUX AF	Marshall Islands
 PKMJ	AMATA KABUA INTL	Marshall Islands
 PKRO	DYESS AAF	Marshall Islands
 PKWA	BUCHOLZ AAF	Marshall Islands
 PLCH	CASSIDY INTL	Line Islands
+PLPA	PALMYRA	Line Islands
 PMDY	HENDERSON	Midway Islands
 PN39	FOUNDING FATHERS FLD	United States
 PN44	MERCK UPPER GWYNEDD	United States
@@ -11461,6 +12326,8 @@ PTRO	PALAU INTL	Micronesia
 PTSA	KOSRAE	Micronesia
 PTYA	YAP INTL	Micronesia
 PWAK	WAKE I	Wake Islands
+R03	ALKALI LAKE STATE	United States
+R47	RUHES	United States
 R49	FERRY CO	United States
 RCAY	GANGSHAN	Taiwan
 RCBS	KINMEN	Taiwan
@@ -11497,6 +12364,7 @@ RJBD	NANKI-SHIRAHAMA	Japan
 RJBE	KOBE	Japan
 RJBK	KOHNAN	Japan
 RJBT	TAJIMA	Japan
+RJCA	ASAHIKAWA	Japan
 RJCB	OBIHIRO	Japan
 RJCC	NEW CHITOSE	Japan
 RJCH	HAKODATE	Japan
@@ -11505,11 +12373,13 @@ RJCK	KUSHIRO	Japan
 RJCM	MEMANBETSU	Japan
 RJCN	NAKASHIBETSU	Japan
 RJCO	SAPPORO	Japan
+RJCT	TOKACHI	Japan
 RJCW	WAKKANAI	Japan
 RJDA	AMAKUSA	Japan
 RJDB	IKI	Japan
 RJDC	YAMAGUCHI-UBE	Japan
 RJDK	KAMIGOTO	Japan
+RJDM	METABARU	Japan
 RJDO	OJIKA	Japan
 RJDT	TSUSHIMA	Japan
 RJDU	OMURA	Japan
@@ -11550,6 +12420,7 @@ RJNY	SHIZUHAMA	Japan
 RJOA	HIROSHIMA	Japan
 RJOB	OKAYAMA	Japan
 RJOC	IZUMO	Japan
+RJOE	AKENO	Japan
 RJOF	HOFU	Japan
 RJOH	MIHO	Japan
 RJOI	IWAKUNI MCAS	Japan
@@ -11572,9 +12443,11 @@ RJSI	HANAMAKI	Japan
 RJSK	AKITA	Japan
 RJSM	MISAWA AB	Japan
 RJSN	NIIGATA	Japan
+RJSO	OMINATO	Japan
 RJSR	ODATE-NOSHIRO	Japan
 RJSS	SENDAI	Japan
 RJST	MATSUSHIMA	Japan
+RJSU	KASUMINOME	Japan
 RJSY	SHONAI	Japan
 RJTA	ATSUGI	Japan
 RJTC	TACHIKAWA	Japan
@@ -11603,6 +12476,7 @@ RKPD	JEONGSEOK	Korea
 RKPK	GIMHAE INTL	Korea
 RKPS	SACHEON	Korea
 RKPU	ULSAN	Korea
+RKSD	R-222	Korea
 RKSG	A-511 (DESIDERIO AAF)	Korea
 RKSI	INCHEON INTL	Korea
 RKSM	SEOUL / DOMESTIC	Korea
@@ -11631,40 +12505,66 @@ RORY	YORON	Okinawa Islands
 ROTM	FUTENMA MCAS	Okinawa Islands
 ROYN	YONAGUNI	Okinawa Islands
 RPEN	EL Nido	Philippines
+RPLA	PINAMALAYAN COMMUNITY	Philippines
 RPLB	SUBIC BAY PRINCIPAL	Philippines
 RPLC	DIOSDADO MACAPAGAL INTL	Philippines
+RPLG	WASIG COMMUNITY	Philippines
 RPLH	LALLO PRINCIPAL	Philippines
 RPLI	LAOAG INTL	Philippines
+RPLJ	JOMALIG COMMUNITY	Philippines
 RPLK	BICOL PRINCIPAL	Philippines
 RPLL	NINOY AQUINO INTL	Philippines
 RPLN	PALANAN COMMUNITY	Philippines
+RPLO	CUYO	Philippines
 RPLS	SANGLEY PRINCIPAL	Philippines
+RPLU	LUBANG COMMUNITY	Philippines
+RPLV	FORT MAGSAYSAY	Philippines
+RPLY	ALABAT COMMUNITY	Philippines
+RPLZ	BACON COMMUNITY	Philippines
 RPMC	COTABATO	Philippines
 RPMD	FRANCISCO BANGOY INTL	Philippines
 RPME	BUTUAN	Philippines
+RPMF	BISLIG COMMUNITY	Philippines
 RPMG	DIPOLOG PRINCIPAL	Philippines
 RPMH	CAMIGUIN	Philippines
+RPMI	ILIGAN COMMUNITY	Philippines
+RPMJ	JOLO	Philippines
 RPML	CAGAYAN DE ORO	Philippines
+RPMM	MALABANG COMMUNITY	Philippines
 RPMN	SANGA SANGA PRINCIPAL	Philippines
 RPMO	OZAMIS COMMUNITY	Philippines
 RPMP	PAGADIAN	Philippines
+RPMQ	MATI COMMUNITY	Philippines
 RPMR	TAMBLER PRINCIPAL	Philippines
 RPMS	SURIGAO PRINCIPAL	Philippines
+RPMU	CAGAYAN DE SULU COMMUNITY	Philippines
+RPMW	TANDAG PRINCIPAL	Philippines
+RPMX	LILOY COMMUNITY	Philippines
 RPMY	LAGUINDINGAN PRINCIPAL	Philippines
 RPMZ	ZAMBOANGA PRINCIPAL	Philippines
 RPNS	SIARGAO PRINCIPAL	Philippines
 RPSB	BANTAYAN COMMUNITY	Philippines
+RPSM	MAASIN COMMUNITY	Philippines
 RPSP	BOHOL-PANGLAO INTL	Philippines
 RPSV	SAN VICENTE PRINCIPAL	Philippines
 RPUB	BAGUIO PRINCIPAL	Philippines
+RPUD	DAET COMMUNITY	Philippines
 RPUF	BASA AB	Philippines
+RPUG	LINGAYEN COMMUNITY	Philippines
 RPUH	SAN JOSE PRINCIPAL	Philippines
+RPUI	IBA COMMUNITY	Philippines
+RPUK	CALAPAN COMMUNITY	Philippines
+RPUL	FERNANDO AB	Philippines
+RPUM	MAMBURAO COMMUNITY	Philippines
 RPUN	NAGA PRINCIPAL	Philippines
 RPUO	BASCO	Philippines
+RPUQ	VIGAN COMMUNITY	Philippines
+RPUR	BALER COMMUNITY	Philippines
 RPUS	SAN FERNANDO COMMUNITY	Philippines
 RPUT	TUGUEGARAO	Philippines
 RPUV	VIRAC PRINCIPAL	Philippines
 RPUW	MARINDUQUE	Philippines
+RPUX	PLARIDEL COMMUNITY	Philippines
 RPUY	CAUAYAN PRINCIPAL	Philippines
 RPUZ	BAGABAG COMMUNITY	Philippines
 RPVA	DANIEL Z. ROMUALDEZ	Philippines
@@ -11673,6 +12573,7 @@ RPVC	CALBAYOG PRINCIPAL	Philippines
 RPVD	DUMAGUETE	Philippines
 RPVE	GODOFREDO P. RAMOS PRINCIPAL	Philippines
 RPVF	CATARMAN PRINCIPAL	Philippines
+RPVH	HILONGOS COMMUNITY	Philippines
 RPVI	ILOILO	Philippines
 RPVJ	MASBATE PRINCIPAL	Philippines
 RPVK	KALIBO INTL	Philippines
@@ -11680,21 +12581,28 @@ RPVM	MACTAN-CEBU INTL	Philippines
 RPVO	ORMOC	Philippines
 RPVP	PUERTO PRINCESA INTL	Philippines
 RPVR	ROXAS PRINCIPAL	Philippines
+RPVS	ANTIQUE	Philippines
+RPVU	ROMBLON	Philippines
 RPVV	FRANCISCO B. REYES PRINCIPAL	Philippines
 RPVW	BORONGAN COMMUNITY	Philippines
+RPVY	CATBALOGAN COMMUNITY	Philippines
 RPVZ	SIQUIJOR COMMUNITY	Philippines
 S01	CONRAD	United States
 S03	ASHLAND MUN/SUMNER PARKER	United States
+S04	CONDON USFS	United States
 S05	BANDON STATE	United States
 S10	LAKE CHELAN	United States
 S12	ALBANY MUN	United States
 S16	COPALIS STATE	United States
+S17	TWIN LAKES	United States
+S18	FORKS	United States
 S19	MC CORMICK CO	United States
 S20	GOLDENDALE	United States
 S21	SUNRIVER	United States
 S23	IONE MUN	United States
 S24	SANDUSKY CO REGL	United States
 S25	WATFORD CITY MUN	United States
+S27	KALISPELL CITY	United States
 S28	INTL PEACE GARDEN	United States
 S30	LEBANON STATE	United States
 S31	LOPEZ ISLAND	United States
@@ -11710,7 +12618,9 @@ S42	SPRINGER MUN	United States
 S43	HARVEY	United States
 S44	PLAINS MUN	United States
 S45	SILETZ BAY STATE	United States
+S49	MILLER MEML	United States
 S50	AUBURN MUN	United States
+S51	MC BETH	United States
 S52	METHOW VALLEY STATE	United States
 S59	LIBBY	United States
 S64	STANFORD/BIGGERSTAFF	United States
@@ -11722,80 +12632,132 @@ S71	OBIE	United States
 S72	BUELL	United States
 S73	KAMIAH MUN	United States
 S75	PAYETTE MUN	United States
+S77	MAGEE	United States
 S78	EMMETT MUN	United States
+S81	INDIAN CREEK USFS	United States
 S83	SHOSHONE CO	United States
+S84	COTTONWOOD MUN	United States
 S85	BIG SKY	United States
 S87	WEISER MUN	United States
+S88	SKYKOMISH STATE	United States
 S89	CRAIGMONT MUN	United States
+S90	ELK CITY	United States
+S92	FISH LAKE USFS	United States
 S93	CLE ELUM MUN	United States
 S94	PORT OF WHITMAN BUSINESS AIR C	United States
 S95	MARTIN	United States
 S97	ANDERSON	United States
 SAAC	COMODORO PIERRESTEGUI	Argentina
 SAAG	GUALEGUAYCHU	Argentina
+SAAI	PUNTA INDIO NS	Argentina
+SAAJ	Junin	Argentina
 SAAK	Martin Garcia	Argentina
 SAAN	PERGAMINO	Argentina
 SAAP	GEN URQUIZA	Argentina
 SAAR	ISLAS MALVINAS	Argentina
 SAAV	SAUCE VIEJO	Argentina
 SABE	JORGE NEWBERY AEROPARQUE	Argentina
+SACA	CAPITAN D. OMAR DARIO GELLARDI	Argentina
+SACD	CORONEL OLMEDO	Argentina
+SACE	Escuela Militar	Argentina
 SACO	ING AER A L V TARAVELLA	Argentina
 SACT	CHAMICAL	Argentina
 SADF	SAN FERNANDO INTL	Argentina
 SADJ	MARIANO MORENO	Argentina
+SADL	LA PLATA	Argentina
 SADM	MORON	Argentina
 SADP	EL PALOMAR	Argentina
+SADZ	MATANZA	Argentina
+SAEL	Las Flores	Argentina
 SAEM	MIRAMAR	Argentina
 SAEZ	EZEIZA INTL/MINISTRO PISTARINI	Argentina
+SAFR	Rafaela	Argentina
 SAFS	Sunchales	Argentina
 SAFV	Venado Tuerto	Argentina
 SAHC	CHOS MALAL	Argentina
+SAHR	GENERAL ROCA	Argentina
 SAHZ	ZAPALA	Argentina
+SAMA	GENERAL ALVEAR	Argentina
 SAME	EL PLUMERILLO	Argentina
 SAMM	COM RICARDO SALOMON	Argentina
 SAMR	S A SANTIAGO GERMANO	Argentina
 SANC	CATAMARCA	Argentina
 SANE	VCOM ANGEL D LA PAZ ARAGONEZ	Argentina
+SANI	TINOGASTA	Argentina
 SANL	CAP VICENTE A ALMONACID	Argentina
+SANO	BRIG. JUAN FANCUDO QUIROGA	Argentina
 SANR	TERMAS DE RIO HONDO	Argentina
 SANT	TNTE BENJAMIN MATIENZO	Argentina
 SANU	DOMINGO FAUSTINO SARMIENTO	Argentina
 SAOC	AREA DE MATERIAL	Argentina
+SAOD	VILLA DOLORES	Argentina
+SAOL	LABOULAYE	Argentina
+SAOM	Marcos Juarez	Argentina
 SAOR	VILLA REYNOLDS	Argentina
 SAOS	STA. ROSA DE CONLARA	Argentina
 SAOU	BRIG MAYOR D CESAR RAUL OJEDA	Argentina
+SAOV	Villa Maria	Argentina
 SARC	CORRIENTES	Argentina
 SARE	RESISTENCIA	Argentina
 SARF	FORMOSA	Argentina
 SARI	MAYOR D CARLOS EDUARDO KRAUSE	Argentina
 SARL	PASO DE LOS LIBRES	Argentina
+SARM	Monte Caseros	Argentina
 SARP	LIBERTADOR GEN D JOSE DE SAN M	Argentina
+SARS	PRESIDENCIA ROQUE S. PENA	Argentina
 SASA	GEN DON MARTIN MIGUEL DE GUEME	Argentina
 SASJ	GOBERNADOR HORACIO GUZMAN	Argentina
+SAST	GEN E MOSCONI	Argentina
+SATD	ELDORADO	Argentina
 SATG	GOYA	Argentina
+SATO	OBERA	Argentina
 SATR	RECONQUISTA	Argentina
+SATU	CURUZU CUATIA	Argentina
+SAVB	EL BOLSON	Argentina
 SAVC	GEN ENRIQUE MOSCONI	Argentina
+SAVD	EL MAITEN	Argentina
 SAVE	BRIG GEN ANTONIO PARODI	Argentina
+SAVN	ANTOINE DE SAINT EXUPERY	Argentina
+SAVQ	MAQUINCHAO	Argentina
 SAVT	ALMIRANTE ZAR	Argentina
 SAVV	GOBERNADOR CASTELLO	Argentina
 SAVY	EL TEHUELCHE	Argentina
 SAWB	VICECOMODORO MARAMBIO	Unknown
 SAWC	EL CALAFATE	Argentina
+SAWD	PUERTO DESEADO	Argentina
 SAWE	RIO GRANDE	Argentina
 SAWG	NORBERTO FERNANDEZ	Argentina
 SAWH	MALVINAS ARGENTINAS	Argentina
+SAWJ	CAP. D. JOSE D. VASQUEZ	Argentina
+SAWM	RIO MAYO	Argentina
+SAWP	PERITO MORENO	Argentina
+SAWR	GOBERNADOR GREGORES	Argentina
+SAWS	JOSE DE SAN MARTIN	Argentina
+SAWT	28 DE NOVIEMBRE	Argentina
+SAWU	SANTA CRUZ	Argentina
+SAZA	AZUL	Argentina
 SAZB	COMANDANTE ESPORA	Argentina
 SAZD	Dolores	Argentina
-SAZF	Olavarria	Argentina
+SAZE	PIGUE	Argentina
+SAZF	OLAVARRIA	Argentina
 SAZG	GENERAL PICO	Argentina
+SAZH	TRES ARROYOS	Argentina
+SAZI	BOLIVAR	Argentina
+SAZJ	JUAREZ	Argentina
+SAZL	SANTA TERESITA	Argentina
 SAZM	ASTOR PIAZZOLLA	Argentina
 SAZN	PRESIDENTE PERON	Argentina
+SAZO	NECOCHEA	Argentina
 SAZP	COMODORO P. ZANNI	Argentina
+SAZQ	RIO COLORADO	Argentina
 SAZR	SANTA ROSA	Argentina
 SAZS	S C DE BARILOCHE	Argentina
 SAZT	HEROES DE MALVINAS	Argentina
 SAZV	VILLA GESELL	Argentina
+SAZW	CUTRAL-CO	Argentina
+SAZX	NUEVE DE JULIO	Argentina
 SAZY	AVIADOR C CAMPOS	Argentina
+SBAA	CONCEICAO DO ARAGUAIA	Brazil
 SBAC	CANOA QUEBRADA DRAGAO DO MAR R	Brazil
 SBAE	BAURU-AREALVA	Brazil
 SBAF	CAMPO DELIO JARDIM DE MATTOS	Brazil
@@ -11810,6 +12772,7 @@ SBBE	VAL DE CANS - J C RIBEIRO INTL	Brazil
 SBBG	CMTE GUSTAVO KRAEMER	Brazil
 SBBH	PAMPULHA-CARLOS DRUMMOND DE AN	Brazil
 SBBI	BACACHERI	Brazil
+SBBP	ARTHUR SIQUEIRA	Brazil
 SBBQ	MAJ BRIG DOORGAL BORGES	Brazil
 SBBR	PRES JUSCELINO KUBITSCHEK INTL	Brazil
 SBBU	BAURU	Brazil
@@ -11818,6 +12781,7 @@ SBBW	BARRA DO GARCAS	Brazil
 SBCA	CORONEL ADALBERTO MENDES DA SI	Brazil
 SBCB	CABO FRIO INTL	Brazil
 SBCC	CAMPO DE PROVAS BRIG. VELOSO	Brazil
+SBCD	PREFEITO DR CARLOS ALBERTO DA	Brazil
 SBCF	TANCREDO NEVES INTL	Brazil
 SBCG	CAMPO GRANDE INTL	Brazil
 SBCH	SERAFIN ENOSS BERTASO	Brazil
@@ -11857,6 +12821,7 @@ SBIP	USIMINAS	Brazil
 SBIT	HIDRELETRICA	Brazil
 SBIZ	PREFEITO RENATO MOREIRA	Brazil
 SBJA	REGL SUL	Brazil
+SBJC	BRIGADEIRO PROTASIO DE OLIVEIR	Brazil
 SBJD	CMTE ROLIM ADOLFO AMARO	Brazil
 SBJE	COMANDANTE ARISTON PESSOA	Brazil
 SBJF	FRANCISCO DE ASSIS	Brazil
@@ -11883,14 +12848,18 @@ SBML	FRANK MILOYE MILENKOVICH	Brazil
 SBMN	CAMPO PONTA PELADA	Brazil
 SBMO	ZUMBI DOS PALMARES INTL	Brazil
 SBMQ	ALBERTO ALCOLUMBRE INTL	Brazil
+SBMR	MANOEL RIBAS	Brazil
 SBMS	DIX SEPT ROSADO	Brazil
 SBMT	CAMPO DE MARTE	Brazil
+SBMY	MANICORE	Brazil
 SBNF	MINISTRO VICTOR KONDER INTL	Brazil
 SBNM	SANTO ANGELO	Brazil
 SBNT	AUGUSTO SEVERO	Brazil
 SBOI	OIAPOQUE	Brazil
+SBOR	FAZENDA AGRO TAMAREIRA	Brazil
 SBPA	SALGADO FILHO INTL	Brazil
 SBPB	PREFEITO DR JOAO SILVA FILHO	Brazil
+SBPC	EMBAIXADOR WALTHER MOREIRA SAL	Brazil
 SBPF	LAURO KURTZ	Brazil
 SBPG	CMTE ANTONIO AMILTON BERALDO	Brazil
 SBPJ	BRIGADEIRO LYSIAS RODRIGUES	Brazil
@@ -11947,79 +12916,243 @@ SBZM	PRES ITAMAR FRANCO	Brazil
 SC05	FLYING TAILS	United States
 SC07	ALANS	United States
 SC36	PARADISE LANDING	United States
+SC41	PALMETTO AIR PLANTATION	United States
 SC58	JA FLD	United States
 SC66	FULTON FLD	United States
 SC67	POLECAT AERODROME	United States
+SC72	CHANDELLE	United States
+SC81	ABBEVILLE	United States
 SC84	SAND BURR	United States
 SC86	WILLIAMSPORT AIRPARK	United States
 SC99	WHITEPLAINS	United States
+SCAC	PUPELDE	Chile
+SCAE	EL BUITRE	Chile
 SCAN	SAN RAFAEL	Chile
+SCAP	ALTO PALENA	Chile
 SCAR	CHACALLUTA INTL	Chile
+SCAS	CABO JUAN ROMAN	Chile
 SCAT	DESIERTO DE ATACAMA	Chile
 SCBA	BALMACEDA	Chile
+SCBE	BARRILES	Chile
+SCBI	PAMPA GUANCO	Chile
+SCCA	EL BOLDO	Chile
+SCCB	PEDRO VILLARROEL	Chile
+SCCC	CHILE CHICO	Chile
 SCCF	EL LOA	Chile
 SCCH	GEN BERNARDO O HIGGINS	Chile
 SCCI	CARLOS IBANEZ DEL CAMPO INTL	Chile
+SCCL	CALDERA	Chile
+SCCM	MOLCO	Chile
+SCCR	ENRIQUE MEYER S.	Chile
+SCCV	CURACAVI	Chile
 SCCY	TENIENTE VIDAL	Chile
 SCDA	DIEGO ARACENA INTL	Chile
+SCDI	PICHIDANGUI	Chile
+SCDW	ALMIRANTE SCHROEDERS	Chile
+SCEB	ENTRADA BAKER	Chile
+SCED	LOS CEDROS	Chile
 SCEL	ARTURO MERINO BENITEZ INTL	Chile
+SCEP	EL PRINCIPAL	Chile
+SCER	QUINTERO	Chile
+SCES	RICARDO GARCIA POSADA	Chile
+SCEX	RIO EXPLORADORES	Chile
 SCFA	ANDRES SABELLA	Chile
+SCFL	FUNDO LOMA LARGA	Chile
 SCFM	CAPITAN FUENTES MARTINEZ	Chile
+SCFN	RUSSFIN	Chile
+SCFR	FRUTILLAR	Chile
+SCFT	FUTALEUFU	Chile
+SCGD	CERRO GUIDO	Chile
 SCGE	MARIA DOLORES	Chile
+SCGF	GOLFO AZUL	Chile
+SCGI	SAN GUILLERMO	Chile
+SCGO	ANGOL	Chile
+SCGS	SIBERIA	Chile
+SCGV	PUNTA GAVIOTA	Chile
 SCGZ	GUARDIAMARINA ZANARTU	Chile
+SCHC	CHICUREO	Chile
+SCHR	COCHRANE	Chile
+SCHT	TIC TOC	Chile
+SCHU	GRAN CANON	Chile
+SCHW	HUALAIHUE	Chile
+SCIA	ISLA APIAO	Chile
+SCIB	BUTACHAUQUES	Chile
 SCIC	GEN FREIRE	Chile
 SCIE	CARRIEL SUR INTL	Chile
+SCIH	CALETA ANDRADE	Chile
+SCIM	ISLA MOCHA	Chile
 SCIP	MATAVERI INTL	Chile
+SCIR	ROBINSON CRUSOE	Chile
 SCJO	CANAL BAJO/CARLOS H SIEBERT	Chile
+SCKD	EL CARDAL	Chile
+SCKP	COPOSA	Chile
+SCLB	LOS PEHUENCHES	Chile
+SCLD	LLANADA GRANDE	Chile
+SCLF	CALCURRUPE	Chile
+SCLI	TORCA	Chile
+SCLK	LAGO COLICO	Chile
+SCLL	VALLENAR	Chile
+SCLN	MUN DE LINARES	Chile
+SCLO	LEONES	Chile
 SCLQ	DIEGO PORTALES	Chile
+SCMA	PUERTO MARIN BALMACEDA	Chile
+SCMF	MALLOCO	Chile
+SCMK	MELINKA	Chile
+SCMO	LOS MONOS	Chile
 SCMP	MELIPILLA	Chile
+SCMR	LAS AGUILAS ORIENTE	Chile
+SCMZ	MARINA DE RAPEL	Chile
+SCNK	LOS PELAMBRES	Chile
+SCNM	LAS MISIONES	Chile
 SCNT	TENIENTE JULIO GALLARDO	Chile
+SCOH	VILLA O HIGGINS	Chile
+SCOM	OLMUE	Chile
+SCON	QUELLON	Chile
+SCOO	MELIMOYU	Chile
 SCOT	SANTA ROSA DE TABALI	Chile
 SCOV	EL TUQUI	Chile
+SCPB	PUELO BAJO	Chile
+SCPE	SAN PEDRO DE ATACAMA	Chile
+SCPG	PANGUIPULLI	Chile
+SCPH	PUYUHUAPI	Chile
+SCPK	PUERTO CISNES	Chile
+SCPM	PICHILEMU	Chile
 SCPQ	MOCOPULLI	Chile
+SCPR	PLAZA DE ARMAS DE PURRANQUE	Chile
+SCPV	EL MIRADOR	Chile
+SCQK	LEQUECAHUE	Chile
+SCQL	EL BOCO	Chile
 SCQP	LA ARAUCANIA	Chile
+SCQR	LOS MORROS	Chile
+SCQT	LAS TACAS	Chile
+SCQW	QUEMCHI	Chile
+SCQX	QUEILEN	Chile
 SCQY	VILLA PORTALES	Chile
+SCRB	RIO BRAVO	Chile
+SCRC	VILLA TAPERA	Chile
 SCRD	RODELILLO	Chile
+SCRF	LAGUNA SAN RAFAEL	Chile
 SCRG	LA INDEPENDENCIA	Chile
+SCRL	LA ESTRELLA	Chile
 SCRM	TTE. RODOLFO MARSH MARTIN	Unknown
+SCRN	RIO NEGRO	Chile
+SCRP	RAPELHUAPI	Chile
 SCSD	SAN FERNANDO	Chile
 SCSE	LA FLORIDA	Chile
 SCSF	VICTOR LAFON	Chile
+SCSG	SAN GERONIMO	Chile
+SCSJ	SAN JAVIER	Chile
 SCSL	EL SALAR	Chile
 SCSN	SANTO DOMINGO	Chile
+SCSO	COSTA DEL SOL	Chile
+SCSR	SEGUNDO CORRAL ALTO	Chile
 SCSS	SAN SEBASTIAN	Chile
+SCST	GAMBOA	Chile
+SCSZ	PUERTO SANCHEZ	Chile
 SCTB	EULOGIO SANCHEZ	Chile
 SCTC	MAQUEHUE	Chile
 SCTE	EL TEPUAL INTL	Chile
 SCTL	PANGUILEMO	Chile
+SCTN	NUEVO CHAITEN	Chile
 SCTO	VICTORIA	Chile
+SCTP	RIO PASCUA	Chile
+SCTR	TRAIGUEN	Chile
+SCTS	SANTA TERESA DEL ALMENDRAL	Chile
 SCVD	PICHOY	Chile
 SCVH	LA VICTORIA DE CHACABUCO	Chile
 SCVI	VILLARRICA	Chile
+SCVK	EL ALAMO	Chile
 SCVM	VINA DEL MAR	Chile
-SD15	FLEURISH FARM	United States
+SCVV	LOS MAITENES DE VILLA VIEJA	Chile
+SCYO	POYO	Chile
+SCZB	POZO BRUJO	Chile
+SCZE	ESTERO SECO	Chile
 SD25	INFINITY LANDING	United States
 SD29	GLENWOOD FLD	United States
 SD32	BRAUN	United States
 SD50	HARROLD MUN	United States
 SD77	METTLER	United States
+SD93	GARY MYERS	United States
+SDAA	ARARAS	Brazil
+SDAD	EVERALDO MORAES BARRETO	Brazil
+SDAE	SAO PEDRO	Brazil
 SDAG	ANGRA DOS REIS	Brazil
+SDAI	AMERICANA	Brazil
 SDAM	ESTADUAL CAMPOS DOS AMARAIS PR	Brazil
+SDBA	BATATAIS	Brazil
+SDBB	BEBEDOURO	Brazil
+SDBK	TANCREDO DE ALMEIDA NEVES	Brazil
+SDBN	ASSOCIACAO RECREATIVA FAZENDA	Brazil
+SDBY	BARIRI	Brazil
+SDCA	CAPAO BONITO	Brazil
 SDCD	CATANDUVA	Brazil
+SDCG	SENADORA EUNICE MICHELES	Brazil
 SDCO	SOROCABA	Brazil
+SDDN	ANDRADINA	Brazil
+SDDR	DRACENA	Brazil
+SDED	SCODA AERONAUTICA	Brazil
+SDET	TIETE	Brazil
+SDFD	CORONEL AVIADOR CARLOS ORLEANS	Brazil
+SDFX	CASA NOVA	Brazil
+SDGC	GARCA	Brazil
+SDIB	IRMAOS RIBEIRO	Brazil
+SDIG	IBITINGA	Brazil
+SDIH	FAZ. IROHY	Brazil
+SDIM	ITANHAEM	Brazil
+SDIV	ITUVERAVA	Brazil
 SDIY	JOAO DURVAL CARNEIRO	Brazil
 SDJA	DR. JOSE AUGUSTO DE ARRUDA BOT	Brazil
+SDJC	JABOTICABAL	Brazil
+SDJO	SAO JOAQUIM DA BARRA	Brazil
 SDJV	MUN SAO JOAO DA BOA VISTA	Brazil
+SDKF	JUAZEIRO	Brazil
+SDKJ	FORMOSA DO RIO PRETO	Brazil
+SDKK	MOCOCA	Brazil
+SDKO	FAZENDA CAMPO GRANDE	Brazil
 SDKP	FAZ PIRANGI	Brazil
+SDLC	LUCELIA	Brazil
+SDLE	RIO DE CONTAS	Brazil
+SDLP	MUN JOSE BOSO	Brazil
+SDMH	MIRASSOL	Brazil
+SDMO	MONTE ALTO	Brazil
 SDMV	FAZENDA MORRO VERMELHO	Brazil
 SDMY	FAZENDA CAMBUHY	Brazil
+SDNA	FAZENDA VALE VERDE	Brazil
+SDNH	NOVO HORIZONTE	Brazil
+SDNK	FAZENDA VITORIA	Brazil
 SDNM	BRIG. EDUARDO GOMES	Brazil
+SDOD	FAZENDA VIDA	Brazil
+SDOE	FAZENDA SIBERIA	Brazil
+SDOI	CENTRO NACIONAL DE PARA-QUEDIS	Brazil
+SDOU	JORNALISTA BENEDITO PIMENTEL	Brazil
+SDOV	MOZARLANDIA	Brazil
+SDOW	OURILANDIA DO NORTE	Brazil
 SDP8	MARECHAL THAUMATURGO	Brazil
+SDPA	FAZENDA PORTOBELLO	Brazil
+SDPD	PINDAMONHANGABA	Brazil
+SDPN	PENAPOLIS	Brazil
+SDPW	PIRACICABA	Brazil
+SDPY	PIRASSUNUNGA	Brazil
+SDRC	FAZENDA SANTANA	Brazil
+SDRR	AVARE-ARANDU	Brazil
 SDRS	RESENDE	Brazil
+SDRU	FAZENDA CARAMURU	Brazil
 SDSC	MARIO PEREIRA LOPES	Brazil
+SDST	FAZENDA SANTA THEREZINHA DA BA	Brazil
 SDTB	ATIBAIA	Brazil
+SDTE	FAZENDA TAPIJARA	Brazil
+SDTF	TATUI	Brazil
+SDTK	PARATY	Brazil
+SDTP	JOSE VICENTE FARIA LIMA	Brazil
+SDTY	SAO MARTINHO S/A	Brazil
+SDUB	ESTADUAL GASTAO MADEIRA	Brazil
 SDUL	SANTA LYDIA	Brazil
 SDVE	VERA CRUZ	Brazil
+SDVG	DOMINGOS PIGNATARI	Brazil
+SDVH	FAZENDA VALE ELDORADO	Brazil
+SDXJ	COSTA RICA	Brazil
+SDZG	PEDRO TEIXEIRA CASTELO REGIONA	Brazil
+SDZU	FAZENDA ANHUMAS	Brazil
 SEAM	CHACHOAN	Equador
 SEBZ	CUMBARATZA	Equador
 SECA	CIUDAD DE CATAMAYO	Equador
@@ -12027,17 +13160,19 @@ SECO	FRANCISCO DE ORELLANA	Equador
 SECU	MARISCAL LA MAR	Equador
 SEGS	SEYMOUR	Equador
 SEGU	JOSE JOAQUIN DE OLMEDO INTL	Equador
+SEGZ	GUALAQUIZA	Equador
 SEII	ISLA ISABELA	Equador
 SEJD	JUMANDY	Equador
 SELT	COTOPAXI INTL ALTERNATIVE	Equador
-SEMA	JOSE MARIA VELASCO IBARRA	Equador
 SEMC	CRNL. E. CARVAJAL	Equador
+SEMO	EL CARMEN	Equador
 SEMT	ELOY ALFARO INTL	Equador
 SENL	LAGO AGRIO	Equador
 SEQM	MARISCAL SUCRE INTL	Equador
 SERB	CHIMBORAZO	Equador
 SERO	SANTA ROSA REGL	Equador
 SESA	GEN ULPIANO PAEZ	Equador
+SESD	SANTO DOMINGO	Equador
 SESM	RIO AMAZONAS	Equador
 SEST	SAN CRISTOBAL	Equador
 SESV	LOS PERALES	Equador
@@ -12046,10 +13181,13 @@ SETR	TARAPOA	Equador
 SETU	TNTE CORONEL LUIS A MANTILLA	Equador
 SFAL	STANLEY	UK (Falkland Islands)
 SGAS	SILVIO PETTIROSSI INTL	Paraguay
+SGAY	JUAN DE AYOLAS	Paraguay
 SGBV	ICANIMBY	Paraguay
 SGCO	TNTE COLONEL CARMELO PERALTA I	Paraguay
+SGCZ	DON EDUARDO SCHAERER VERA Y AR	Paraguay
 SGEN	TNTE RAMON AMIN AYUB GONZALES	Paraguay
 SGES	GUARANI INTL	Paraguay
+SGFI	PISTA CHACO CENTRAL FILADELFIA	Paraguay
 SGIB	ITAIPU	Paraguay
 SGLP	LOMA PLATA	Paraguay
 SGLZ	LA PAZ	Paraguay
@@ -12058,21 +13196,82 @@ SGMZ	JOSE MARIA ARGANA	Paraguay
 SGNE	BOQUERON	Paraguay
 SGPI	CARLOS MIGUEL JIMENEZ	Paraguay
 SGPJ	PROF DR PAC AUGUSTO ROBERTO FU	Paraguay
+SGST	SANTA TERESA	Paraguay
+SIAQ	BOM FUTURO	Brazil
+SIBY	LOURIVAL NUNES DE FARIAS	Brazil
 SIBZ	ITAPORANGA	Brazil
+SICK	DR JUCELINO JOSE RIBEIRO	Brazil
+SIDW	FAZENDA CORTEZIA	Brazil
+SIFC	COROA DO AVIAO	Brazil
+SIFV	PRIMO BITTI	Brazil
+SIII	DR HERACLITO DA MOTTA LUIZ	Brazil
+SIJY	CAMPO COMANDANTES	Brazil
+SIKW	FAZENDA VISTA LINDA	Brazil
+SILC	MUN BOM FUTURO	Brazil
 SILS	BIG MASTER	Brazil
+SILU	BRPEC AGRO-PECUARIA	Brazil
+SIMW	FAZENDA RETIRO DO CERVO I	Brazil
+SINH	FAZENDA ESPERANCA	Brazil
+SIOT	FAZENDA SANTA VERGINIA	Brazil
+SIPA	AEROCLUBE SAO JOSE DO RIO PARD	Brazil
+SIQE	PLANALTO CENTRAL	Brazil
+SIQJ	MORRO DO CHAPEU II	Brazil
+SIQK	NOVA ODESSA	Brazil
+SIRI	BARRA GRANDE	Brazil
+SISD	FAZENDA SAO SEBASTIAO	Brazil
 SISK	FAZENDA CIMAL	Brazil
 SIUF	FAZENDA SAO FRANCISCO	Brazil
+SIVN	FAZENDA SANSARA	Brazil
+SIVO	FAZENDA MALU	Brazil
+SIVP	BELA MANHA	Brazil
+SIVU	JOAO MONTEIRO	Brazil
 SIWO	FAZENDA JULIANA	Brazil
 SIYD	FAZENDA CURITIBA	Brazil
 SIYO	FAZENDA GOIAS BARREIRO	Brazil
+SIZQ	FAZ. REAL	Brazil
+SIZX	JUARA SUL	Brazil
 SJ3U	FAZENDA CENTRAL	Brazil
+SJAI	FAZENDA DAVILANDIA	Brazil
+SJAU	ARAGUACEMA	Brazil
+SJBB	FAZENDA BACABA	Brazil
+SJBY	JOAO SILVA	Brazil
 SJCA	COMANDANTE VITTORIO BONOMI	Brazil
+SJCM	CATULEVE	Brazil
 SJDS	DIAS BRANCO	Brazil
+SJEG	ESTANCIA ESMERALDA	Brazil
+SJER	FAZENDA CANADA	Brazil
+SJFQ	FAZENDA QUATRIRMAS	Brazil
+SJGC	FAZENDA BUSATO I	Brazil
+SJGH	AEROPEL	Brazil
+SJGN	FAZENDA AGROMAR	Brazil
+SJGU	ARAGUATINS	Brazil
+SJHH	FAZENDA PORUINA	Brazil
 SJJD	FAZENDA CERRO PORA	Brazil
+SJNK	FAZENDA TRES PEROBAS	Brazil
 SJNL	FAZENDA REATA	Brazil
+SJNP	NOVO PROGRESSO	Brazil
+SJNX	CHAPADAO DO CEU	Brazil
+SJOG	ARIQUEMES	Brazil
+SJPO	XINGO	Brazil
+SJQI	HOTEL PORTO JOFRE	Brazil
+SJRG	RIO GRANDE REGL	Brazil
+SJRH	FAZENDA GALHEIRO	Brazil
+SJRI	CONDOMINIO BOA ESPERANCA	Brazil
 SJRV	PCH GARGANTA DA JARARACA	Brazil
+SJSH	FLY VILLE	Brazil
+SJTB	FAZENDA BURITI	Brazil
+SJTS	TERRA SANTA	Brazil
+SJTU	FAZENDA TUCANO	Brazil
+SJUL	FAZENDA RIO PARDO	Brazil
+SJVO	ARAGARCAS	Brazil
+SJVW	FAZENDA SANTA ISABEL	Brazil
+SJWP	WARPOL	Brazil
+SJWQ	AEROCLUBE DE BIRIGUI	Brazil
 SJZ8	BENTEVI	Brazil
+SJZA	PEDRO VIEIRA MOREIRA	Brazil
+SJZW	FAZENDA REGINA	Brazil
 SKAC	ARARACUARA	Colombia
+SKAD	ACANDI	Colombia
 SKAG	HACARITAMA	Colombia
 SKAP	CAPT LUIS F GOMEZ NINO	Colombia
 SKAR	EL EDEN	Colombia
@@ -12123,6 +13322,7 @@ SKMR	LOS GARZONES	Colombia
 SKMU	LEON BENTLEY	Colombia
 SKMZ	LA NUBIA	Colombia
 SKNA	EL REFUGIO	Colombia
+SKNC	NECOCLI	Colombia
 SKNQ	REYES MURILLO	Colombia
 SKNV	BENITO SALAS	Colombia
 SKOC	AGUAS CLARAS	Colombia
@@ -12150,6 +13350,7 @@ SKSM	SIMON BOLIVAR INTL	Colombia
 SKSO	ALBERTO LLERAS CAMARGO	Colombia
 SKSP	GUSTAVO ROJAS PINILLA	Colombia
 SKSV	EDUARDO FALLA SOLANO	Colombia
+SKTB	TIBU	Colombia
 SKTD	TRINIDAD	Colombia
 SKTL	GOLFO DE MORROSQUILLO	Colombia
 SKTM	GUSTAVO VARGAS	Colombia
@@ -12207,7 +13408,7 @@ SLVR	VIRU VIRU INTL	Bolivia
 SLYA	YACUIBA	Bolivia
 SMEG	E A G INTL	Surinam
 SMJP	J.A. PENGEL INTL	Surinam
-SMZO	ZORG EN HOOP	Surinam
+SMPA	VINCENT FAIKS	Surinam
 SN10	BELLE PLAINE FARMS	United States
 SN13	ALBERS	United States
 SN18	SILLS AIR PARK	United States
@@ -12228,29 +13429,153 @@ SN64	ECK FLD	United States
 SN65	LAKE WALTANNA	United States
 SN68	LIL BIRD	United States
 SN83	HIGHCREST AIR PARK	United States
+SNAB	ARARIPINA	Brazil
+SNAE	ARCOVERDE	Brazil
+SNAG	ARAGUARI	Brazil
+SNAL	ARAPIRACA	Brazil
+SNAM	SANTO ANTONIO DO AMPARO	Brazil
+SNAP	JANAUBA	Brazil
+SNAR	CIRILO QUEIROZ	Brazil
+SNAS	TRES MARIAS	Brazil
+SNAV	AGROVALE	Brazil
+SNAX	MARCELO PIRES HALZHAUSEN	Brazil
+SNBG	BAIXO GUANDU - AIMORES	Brazil
+SNBI	BACABAL	Brazil
+SNBM	CRISTIANO FERREIRA VARELLA	Brazil
 SNBR	DOM RICARDO WEBERBERGER	Brazil
+SNBS	BALSAS	Brazil
+SNBX	BARRA	Brazil
 SNBZ	PARAMIRIM	Brazil
+SNCA	CAMPO BELO	Brazil
+SNCE	CAMPO DO MEIO	Brazil
 SNCP	RICARDO SELL WAGNER - SERRA CA	Brazil
+SNCS	CAMPOS SALES	Brazil
 SNCW	CENTRO DE LANCAMENTO DE ALCANT	Brazil
+SNCZ	PONTE NOVA	Brazil
 SNDC	REDENCAO	Brazil
+SNDH	ABA	Brazil
 SNDR	DOMINGOS REGO	Brazil
+SNDT	JUSCELINO KUBITSCHEK	Brazil
 SNDV	BRIGADEIRO ANTONIO CABRAL	Brazil
+SNEB	NAGIB DEMACHKI	Brazil
+SNED	SOCRATES REZENDE	Brazil
+SNEG	FAZENDA NETOLANDIA	Brazil
 SNEU	EUCLIDES DA CUNHA	Brazil
+SNFE	COMANDANTE PASCHOAL PATROCINIO	Brazil
+SNFI	FAZENDA SAO JOSE DO PARANAIBA	Brazil
+SNFO	FORMIGA	Brazil
+SNFU	FRUTAL	Brazil
+SNGA	GUARAPARI	Brazil
+SNGD	GUADALUPE	Brazil
+SNGG	BOM JESUS DO GURGUEIA	Brazil
 SNGI	ISAAC MOURA ROCHA	Brazil
+SNGN	GARANHUNS	Brazil
 SNGT	GENTIO DE OURO	Brazil
+SNGW	FAZ. SANTO ANGELO	Brazil
+SNGX	GUAXUPE	Brazil
 SNHS	SANTA MAGALHAES	Brazil
+SNHW	FAZENDA AGRO-MARATA	Brazil
+SNIB	ITABERABA	Brazil
+SNIC	IRECE	Brazil
+SNIE	CAETITE	Brazil
+SNIG	IGUATU	Brazil
+SNIO	CIPO	Brazil
+SNIR	FAZENDA MATA ESCURA	Brazil
+SNIU	IPIAU	Brazil
+SNJB	JACOBINA	Brazil
+SNJI	FAZENDA FORTALEZA DE SANTA TER	Brazil
+SNJK	JEQUIE	Brazil
+SNJM	REGIONAL DE SANTO AMARO DE MIN	Brazil
+SNJN	JANUARIA	Brazil
+SNJO	AEROCLUBE	Brazil
+SNJP	JOAO PINHEIRO	Brazil
+SNJQ	JEQUITINHONHA	Brazil
+SNJR	PREFEITO OCTAVIO DE ALMEIDA NE	Brazil
+SNJV	FAZENDA SANTA MONICA	Brazil
+SNKD	CONCEICAO DO MATO DENTRO	Brazil
+SNKI	CACHOEIRO DO ITAPEMIRIM	Brazil
+SNKJ	FAZENDA RIO DOURADO	Brazil
+SNKK	CAICO	Brazil
+SNLG	SERRA DO CIPO	Brazil
+SNLI	ABAETE	Brazil
+SNLN	MUN DE LINHARES	Brazil
+SNLO	SAO LOURENCO	Brazil
+SNLQ	FAZENDA CONFORTO	Brazil
+SNLZ	FAZENDA BOCA DA MATA	Brazil
+SNMA	MONTE ALEGRE	Brazil
+SNMI	MINA CARAIBA	Brazil
 SNMJ	MARACAS	Brazil
+SNMK	MOCAMBINHO	Brazil
 SNML	MANDUCA LEAO	Brazil
+SNMU	MUCURI	Brazil
+SNMX	SAO MATEUS	Brazil
+SNNE	SEBASTIAO CARLOS LEITE	Brazil
+SNNM	ENTRE RIOS	Brazil
+SNOB	SOBRAL	Brazil
+SNOE	OEIRAS	Brazil
+SNOS	MUNICIPAL JOSE FIGUEIREDO	Brazil
+SNOU	NOVO AERODROMO DE FEIJO	Brazil
+SNOX	ORIXIMINA	Brazil
 SNPA	PARA DE MINAS	Brazil
+SNPC	PICOS	Brazil
 SNPD	PATOS DE MINAS	Brazil
+SNPJ	PATROCINIO	Brazil
+SNPU	PARAGUACU	Brazil
+SNPX	PIRAPORA	Brazil
+SNPY	SAO SEBASTIAO DO PARAISO	Brazil
+SNQD	SOUSA	Brazil
+SNQG	CANGAPARA	Brazil
+SNQU	MUCUGE	Brazil
+SNQV	CURVELO	Brazil
+SNQX	QUIXADA	Brazil
+SNRD	PRADO	Brazil
+SNRM	REMANSO	Brazil
+SNRP	RIO PARANAIBA	Brazil
 SNRU	CARUARU	Brazil
+SNRZ	OLIVEIRA	Brazil
+SNSG	SALGUEIRO	Brazil
+SNSI	SANTA MARIA DO SUACUI	Brazil
 SNSM	SALINOPOLIS	Brazil
+SNSO	SERRO	Brazil
+SNSS	SALINAS	Brazil
+SNST	SOUTO SOARES	Brazil
+SNSW	SOURE	Brazil
 SNTF	TEIXEIRA DE FREITAS	Brazil
+SNTI	OBIDOS	Brazil
+SNTO	JUSCELINO KUBITSCHEK	Brazil
+SNTQ	BURITIRAMA	Brazil
 SNTR	PIRITIBA	Brazil
+SNTS	BRIG FIRMINO AYRES	Brazil
+SNUB	UBA	Brazil
+SNUC	ACU	Brazil
+SNUH	PIUMHI	Brazil
+SNUI	ARACUAI	Brazil
+SNUN	UNAI	Brazil
 SNUT	UTINGA	Brazil
 SNVB	VALENCA	Brazil
+SNVC	VICOSA	Brazil
+SNVD	SANTA MARIA DA VITORIA	Brazil
+SNVI	MELLO VIANA	Brazil
+SNVS	BREVES	Brazil
+SNWC	CAMOCIM	Brazil
+SNWS	DOUTOR LUCIO LIMA	Brazil
+SNWX	FAZ VISTA ALEGRE	Brazil
+SNXB	CAXAMBU	Brazil
+SNXG	FAZENDA DOS CASTANHAIS	Brazil
+SNXQ	XIQUE-XIQUE	Brazil
 SNXX	MAXARANGUAPE	Brazil
+SNY	SAN NICOLAS DE LOS ARROYOS	Argentina
+SNYA	ALMEIRIM	Brazil
+SNYB	TITO TEIXEIRA	Brazil
+SNYE	PINHEIRO	Brazil
+SNYS	WD AGROINDUSTRIAL	Brazil
+SNYT	ITUACU	Brazil
+SNYU	ITURAMA	Brazil
+SNYV	FAZENDA SOCOCO	Brazil
+SNZG	FAZENDA SAO BENEDITO	Brazil
+SNZK	FAZ. CANADA	Brazil
 SNZR	PEDRO RABELO DE SOUZA	Brazil
+SNZW	ITUBERA	Brazil
 SOCA	FELIX EBOUE	French Guyana
 SOGS	GRAND SANTI	French Guyana
 SOOA	MARIPASOULA	French Guyana
@@ -12259,8 +13584,11 @@ SOOG	ST GEORGES DE L OYAPOCK	French Guyana
 SOOM	ST-LAURENT-DU-MARONI	French Guyana
 SOOR	REGINA	French Guyana
 SOOS	SAUL	French Guyana
+SPAC	CIRO ALEGRIA	Peru
 SPAL	METROPOLITANO DE PIURA	Peru
 SPAS	ANDOAS	Peru
+SPAY	ATALAYA	Peru
+SPBC	CABALLOCOCHA	Peru
 SPBL	BOLOGNESI	Peru
 SPBT	OVENTENI	Peru
 SPCH	TOCACHE	Peru
@@ -12268,8 +13596,11 @@ SPCL	CAP FAP DAVID ARMANDO ABENSUR	Peru
 SPDN	COLONIA ANGAMOS	Peru
 SPDO	MOLLENDO	Peru
 SPDR	TROMPETEROS	Peru
+SPEE	EL ESTRECHO	Peru
 SPEO	TTE FAP JAIME DE MONTREUIL	Peru
+SPEP	PUERTO ESPERANZA	Peru
 SPEQ	MOQUEGUA	Peru
+SPGB	GALILEA	Peru
 SPGL	CHAGUAL	Peru
 SPGM	TINGO MARIA	Peru
 SPGP	GUEPPI	Peru
@@ -12280,11 +13611,14 @@ SPHZ	COMANDANTE GERMAN ARIAS GRAZZI	Peru
 SPID	TENIENTE BERGERIE	Peru
 SPIN	INAPARI	Peru
 SPIR	PATRIA	Peru
+SPIY	YAURI	Peru
 SPJA	RIOJA	Peru
 SPJC	JORGE CHAVEZ INTL	Peru
+SPJE	FERNANDO BELAUNDE TERRY	Peru
 SPJI	JUANJUI	Peru
 SPJJ	FRANCISCO CARLE	Peru
 SPJL	INCA MANCO CAPAC INTL	Peru
+SPJN	SAN JUAN DE MARCONA	Peru
 SPJR	GEN ARMANDO REVOREDO IGLESIAS	Peru
 SPKI	KITENI	Peru
 SPLH	LAS DUNAS	Peru
@@ -12293,6 +13627,7 @@ SPLP	LAS PALMAS	Peru
 SPLX	LIB MANDY METROPOLITANO	Peru
 SPME	PEDRO CANGA	Peru
 SPMF	MAJOR PNP NANCY FLORES PAUCAR	Peru
+SPMS	MOISES BENZAQUEN RENGIFO	Peru
 SPNC	ALFEREZ DAVID FIGUEROA FERNAND	Peru
 SPNM	NUEVO MUNDO	Peru
 SPNU	MANU	Peru
@@ -12304,6 +13639,7 @@ SPQN	REQUENA	Peru
 SPQT	COL FRANCISCO SECADA VIGNETTA	Peru
 SPQU	RODRIGUEZ BALLON INTL	Peru
 SPRF	SAN RAFAEL	Peru
+SPRM	CAPITAN ALVARINO	Peru
 SPRU	CAP CARLOS MARTINEZ DE PINILLO	Peru
 SPSO	PISCO	Peru
 SPST	CAP FAP GUILLERMO DEL CASTILLO	Peru
@@ -12322,20 +13658,116 @@ SPZA	MARIA REICHE NEUMAN	Peru
 SPZO	TNTE FAP ALEJANDRO VELAZCO AST	Peru
 SQUJ	TABLON DE TAMARA	Colombia
 SRV	STONEY RIVER 2	Alaska
+SSAB	MOISES LUPION	Brazil
+SSAC	FAZENDA NOVA JERUSALEM	Brazil
+SSAD	FAZ. RIBEIRAO	Brazil
+SSAE	ARROIO GRANDE	Brazil
+SSAF	AEROCLUBE DE FOZ DO IGUACU	Brazil
+SSAK	CARLOS RUHL	Brazil
+SSAP	CAPT JOAO BUSSE	Brazil
+SSAQ	AEROCLUBE	Brazil
+SSAY	SITIO POUSO DO AVIADOR	Brazil
+SSBC	FAZENDA BARRA DO TIETE	Brazil
+SSBG	MUN DE BENTO GONCALVES	Brazil
+SSBV	BELA VISTA	Brazil
 SSBZ	UMBERTO MODIANO	Brazil
+SSCA	FAZENDA PANTANAL	Brazil
+SSCD	CHAPADAO DO SUL	Brazil
+SSCF	MAX FONTOURA	Brazil
+SSCL	CASSILANDIA	Brazil
+SSCN	CANELA	Brazil
+SSCP	FRANCISCO LACERDA JUNIOR	Brazil
 SSCQ	SAICA	Brazil
+SSCR	BALDUINO HELMUTH JOPE	Brazil
+SSCT	ENGENHEIRO GASTAO DE MESQUITA	Brazil
 SSCV	CARAVELAS	Brazil
+SSDK	SAO PEDRO	Brazil
+SSDL	FAZENDA RIBEIRAO	Brazil
+SSDP	FAZ. FORTALEZA DO GUAPORE	Brazil
+SSEC	FAZENDA F5	Brazil
+SSEE	REGL VALE DO TAQUARI	Brazil
+SSER	ERECHIM	Brazil
+SSEW	SITIO LIMOEIRO	Brazil
+SSEX	ESTANCIA CAIMAN	Brazil
+SSEZ	ESPUMOSO	Brazil
+SSFB	PAULO ABDALA	Brazil
+SSFL	JOAO PEREIRA DOS SANTOS FILHO	Brazil
 SSGG	TANCREDO THOMAS DE FARIA	Brazil
+SSGW	MANOEL RIBAS	Brazil
+SSGY	GUAIRA	Brazil
+SSHZ	WALTER BUNDCHEN	Brazil
+SSIE	TERUEL IPANEMA ESTANCIA	Brazil
+SSIJ	IJUI	Brazil
 SSIM	FORQUILHINHA-CRICIUMA	Brazil
+SSIQ	ITAQUI	Brazil
+SSIR	IBIRUBA	Brazil
+SSJA	SANTA TEREZINHA	Brazil
+SSJI	JARDIM	Brazil
+SSJK	JULIO DE CASTILHOS	Brazil
+SSJM	FAZ. JULIO MARTINS	Brazil
+SSJQ	FAZ FLORESTA	Brazil
 SSKG	SANTA MARIA	Brazil
+SSKM	CAMPO MOURAO	Brazil
+SSKS	BRIG NERO MOURA	Brazil
+SSKT	AEROCLUBE DE SANTA CATARINA	Brazil
+SSKU	LAURO ANTONIO DA COSTA	Brazil
 SSKW	CACOAL	Brazil
+SSKZ	CARAZINHO	Brazil
+SSLN	HELMUTH BAUNGARTEM	Brazil
+SSMT	MOSTARDAS	Brazil
+SSMY	SAO MIGUEL DO IGUACU	Brazil
+SSNB	ARIOSTO DA RIVA	Brazil
 SSND	SANTA MARIA	Brazil
+SSNG	HELIO ALVES DE OLIVEIRA	Brazil
+SSNH	NOVO HAMBURGO	Brazil
+SSOE	HELIO WASUM	Brazil
+SSOI	PEDERNEIRAS	Brazil
+SSOL	PADRE ISRAEL (ISRAEL BATISTA D	Brazil
+SSOS	OSORIO	Brazil
+SSOT	FAZENDA SACO DA TAPERA	Brazil
+SSPA	FAZENDA MARAJOARA	Brazil
+SSPG	SANTOS DUMONT	Brazil
+SSPM	PORTO MURTINHO	Brazil
+SSPN	PARANAIBA	Brazil
+SSPT	BRASILIO MARQUES	Brazil
+SSQC	SIQUEIRA CAMPOS	Brazil
+SSQR	FAZ PRIMAVERA	Brazil
+SSQZ	MIMOSO DO OESTE	Brazil
 SSRA	SANTA ROSA DO PURUS	Brazil
+SSRE	REALEZA	Brazil
+SSRF	CASTRO ALVES	Brazil
+SSRK	CAMPO ALEGRE DE LOURDES	Brazil
+SSRU	SAO LOURENCO DO SUL	Brazil
+SSRW	FAZ. J CAMPOS	Brazil
+SSRZ	DARIO BRASIL CAPOANO DE OLIVEI	Brazil
+SSSB	SAO BORJA	Brazil
+SSSC	SANTA CRUZ DO SUL	Brazil
+SSSD	SOLEDADE	Brazil
+SSSK	FC	Brazil
+SSSS	SAO FRANCISCO DO SUL	Brazil
+SSSZ	SERTANOPOLIS	Brazil
 SSTE	TORRES	Brazil
+SSUI	FAZENDA NOVO HORIZONTE	Brazil
 SSUM	ORLANDO DE CARVALHO	Brazil
+SSVI	ANGELO PONZONI	Brazil
 SSVL	TELEMACO BORBA	Brazil
+SSVN	VERANOPOLIS	Brazil
+SSWI	FAZENDA VOVO ERNESTO	Brazil
+SSWS	CACAPAVA DO SUL	Brazil
+SSXD	TOBIAS BACCI	Brazil
+SSXH	MANOEL DA SILVA ROCHA	Brazil
+SSXO	POUSADA DAS AGUIAS	Brazil
+SSXX	JOAO WINCKLER MUN	Brazil
+SSYB	FAZENDA BELA MANHA	Brazil
+SSYK	FAZ. MANDACAIA	Brazil
 SSYW	FAZENDA TERRA FORTE	Brazil
+SSYY	FAZENDA FUNDAOZINHO	Brazil
 SSZD	ZIRONDI	Brazil
+SSZG	FAZENDA SAO JOAO	Brazil
+SSZH	AGROTERRA INFINITI LTDA	Brazil
+SSZL	FAZENDA CORREGO AZUL	Brazil
+SSZR	LUIS ALBERTO LEHR	Brazil
+SSZT	FAZENDA SAO JOAO	Brazil
 SUAA	ANGEL S ADAMI INTL	Uruguay
 SUAG	ARTIGAS INTL	Uruguay
 SUCA	LAGUNA DE LOS PATOS INTL	Uruguay
@@ -12355,11 +13787,13 @@ SUTR	TREINTA Y TRES	Uruguay
 SUVO	VICHADERO	Uruguay
 SVAC	BATALLA DE ARAURE	Venezuela
 SVAN	ANACO	Venezuela
+SVAO	ALTAGRACIA DE ORITUCO	Venezuela
 SVBA	BACHAQUERO	Venezuela
 SVBC	G/D JOSE ANTONIO ANZOATEGUI IN	Venezuela
 SVBI	BARINAS LUISA CACERES DE ARISM	Venezuela
 SVBL	EL LIBERTADOR AB	Venezuela
 SVBM	JACINTO LARA INTL	Venezuela
+SVBS	MARISCAL SUCRE AB	Venezuela
 SVCB	GEN TOMAS DE HERES	Venezuela
 SVCD	CAICARA DEL ORINOCO	Venezuela
 SVCJ	GENERAL EZEQUIEL ZAMORA	Venezuela
@@ -12375,26 +13809,32 @@ SVFM	GEN FRANCISCO DE MIRANDA	Venezuela
 SVGC	EL CANDELARIO	Venezuela
 SVGD	GUASDUALITO	Venezuela
 SVGI	ALMIRANTE CRISTOBAL COLON	Venezuela
+SVGT	GUASIPATI	Venezuela
 SVGU	GUANARE	Venezuela
 SVHG	HIGUEROTE	Venezuela
 SVIE	ANDRES MIGUEL SALAZAR MARCANO	Venezuela
 SVJC	JOSEFA CAMEJO INTL	Venezuela
 SVJM	GUARICO MUN	Venezuela
+SVKA	KAVANAYEN	Venezuela
 SVLE	LA ESMERALDA	Venezuela
 SVLF	FRANCISCO J G DE HEVIA	Venezuela
+SVLO	CAPT DE NAVIO ANTONIO DIAZ AB	Venezuela
 SVMC	LA CHINITA INTL	Venezuela
 SVMD	ALBERTO CARNEVALLI	Venezuela
 SVMG	CHIEF GEN SANTIAGO MARINO INTL	Venezuela
 SVMI	SIMON BOLIVAR INTL	Venezuela
 SVMP	METROPOLITANO	Venezuela
 SVMT	GEN JOSE TADEO MONAGAS INTL	Venezuela
+SVMX	MORICHAL	Venezuela
 SVON	ORO NEGRO	Venezuela
 SVPA	CACIQUE ARAMARE NATL	Venezuela
 SVPC	GEN BARTOLOME SALOM	Venezuela
 SVPM	PARAMILLO	Venezuela
 SVPR	GEN. MANUEL CARLOS PIAR INTL	Venezuela
+SVRI	SANTA ROSALIA	Venezuela
 SVRS	EL GRAN ROQUE	Venezuela
 SVSA	GEN CIPRIANO CASTRO INTL	Venezuela
+SVSB	SANTA BARBARA DE BARINAS	Venezuela
 SVSE	SANTA ELENA DE UAIREN	Venezuela
 SVSN	SABANETA	Venezuela
 SVSO	MAYOR BUENAVENTURA VIVAS INTL	Venezuela
@@ -12405,71 +13845,171 @@ SVSZ	DR MIGUEL A URDANETA F	Venezuela
 SVTC	TUCUPITA	Venezuela
 SVTM	TUMEREMO	Venezuela
 SVTR	TEMBLADOR	Venezuela
+SVUP	UPATA	Venezuela
+SVUQ	UON-QUEN	Venezuela
 SVVA	ARTURO MICHELENA INTL	Venezuela
 SVVG	JUAN PABLO PEREZ ALFONZO	Venezuela
 SVVL	DR. ANTONIO NICOLAS BRICENO	Venezuela
 SVVP	VALLE DE LA PASCUA	Venezuela
 SVVQ	LARA	Venezuela
+SVWB	CERRO BOLIVAR	Venezuela
+SVYU	YUTAJE	Venezuela
+SWAD	FAZENDA SANTA ADELAIDE	Brazil
+SWBC	BARCELOS	Brazil
+SWBE	WALFRIDO SALMITO DE ALMEIDA	Brazil
+SWBG	ANDRE ANTONIO MAGGI	Brazil
+SWBR	BORBA	Brazil
 SWBV	AUARIS	Brazil
+SWCA	CARAUARI	Brazil
+SWCQ	COSTA MARQUES	Brazil
+SWCZ	CERES	Brazil
 SWDM	DIAMANTINO	Brazil
+SWDN	DIANOPOLIS	Brazil
+SWDT	DEZOITO	Brazil
 SWEE	ESTIRAO DO EQUADOR	Brazil
 SWEI	EIRUNEPE	Brazil
+SWEK	CANARANA	Brazil
+SWFL	FAZENDA PEIXE BRAVO	Brazil
+SWFR	FORMOSA	Brazil
+SWFV	TERRAMARE	Brazil
+SWFX	SAO FELIX DO ARAGUAIA	Brazil
+SWGI	GURUPI	Brazil
 SWGN	ARAGUAINA	Brazil
+SWGO	SANTA CECILIA	Brazil
+SWGV	FAZENDA COCAL II	Brazil
 SWHL	FAZENDA MARABA	Brazil
+SWHP	FREDERICO CARLOS MULLER	Brazil
+SWHT	HUMAITA	Brazil
+SWIB	FAZENDA SANTA LAURA	Brazil
 SWII	IPIRANGA	Brazil
+SWIN	FAZ. ITAMARATI NORTE	Brazil
+SWIQ	MUN JOSE CAIRES DE OLIVEIRA	Brazil
+SWIT	CONDOMINIO DE VOO ITAIPU	Brazil
+SWIY	SANTA ISABEL DO MORRO	Brazil
+SWIZ	FAZ 7 REIS	Brazil
+SWJA	FAZENDA AERO - AMIL	Brazil
+SWJN	JUINA	Brazil
 SWJP	VILA BITTENCOURT	Brazil
+SWJV	PALMEIRAS DO JAVARI	Brazil
+SWJW	JATAI	Brazil
+SWKC	CACERES	Brazil
 SWKO	COARI	Brazil
 SWKQ	SERRA DA CAPIVARA	Brazil
+SWKT	CATALAO	Brazil
 SWKU	CUCUI	Brazil
+SWLA	FAZENDA AMALIA	Brazil
+SWLB	LABREA	Brazil
 SWLC	GEN LEITE DE CASTRO	Brazil
+SWLV	SANTO ANTONIO DE LEVERGER	Brazil
 SWLY	CHACARA MUNICIPAL	Brazil
 SWMK	MATURACA	Brazil
+SWMW	MAUES	Brazil
+SWNE	NELSON SALDANHA	Brazil
+SWNH	ARUANA	Brazil
+SWNN	FAZENDA JANDAIRA	Brazil
+SWNQ	NIQUELANDIA	Brazil
+SWNS	ANAPOLIS	Brazil
+SWOG	FAZENDA ITAIPU	Brazil
+SWON	CLUBE DE AVIACAO CEU AZUL	Brazil
+SWOZ	FAZENDA SANTO ANTONIO	Brazil
+SWPB	FORTE PRINCIPE DA BEIRA	Brazil
 SWPC	PARI-CACHOEIRA	Brazil
+SWPE	FAZENDA LAGOA DA MATA	Brazil
+SWPH	FAZENDA PAULO ABREU	Brazil
 SWPI	PARINTINS	Brazil
+SWPK	POCONE	Brazil
+SWPL	POSTO LEONARDO VILAS BOAS	Brazil
+SWPM	PIMENTA BUENO	Brazil
+SWPR	PIRES DO RIO	Brazil
+SWPY	PRIMAVERA DO LESTE	Brazil
+SWPZ	ORICANGA DE ABREU	Brazil
+SWRI	FAZENDA RONCADOR I	Brazil
 SWRL	FAZ. POUSO REDONDO	Brazil
+SWRZ	FAZENDA DOURADO	Brazil
+SWSG	FAZENDA SIMARELLI	Brazil
 SWSQ	SAO JOAQUIM	Brazil
 SWSZ	FAZENDA SANTA LUZIA	Brazil
+SWTC	FAZENDA BEATRIZ	Brazil
+SWTG	FAZENDA SANTA MARINA	Brazil
+SWTO	PARAISO DO TOCANTINS	Brazil
+SWTP	SANTA IZABEL DO RIO NEGRO	Brazil
+SWTQ	RIO QUENTE RESORTS	Brazil
+SWTU	FAZENDA TUCUNARE	Brazil
+SWTY	TAGUATINGA	Brazil
+SWUA	SAO MIGUEL DO ARAGUAIA	Brazil
+SWUD	DEPUTADO OSWALDO TOLENTINO	Brazil
+SWUJ	SAO GOTARDO	Brazil
 SWUQ	SURUCUCU	Brazil
+SWUZ	BRIG ARARIPE MACEDO	Brazil
+SWVW	FURNASPARK RESORT	Brazil
+SWWA	PORANGATU	Brazil
+SWWM	MANTENA	Brazil
+SWWU	URUACU	Brazil
+SWXO	FAZENDA PORTO SEGURO	Brazil
+SWXQ	LINS	Brazil
+SWXV	XAVANTINA	Brazil
+SWYW	FAZENDA ADRIANA	Brazil
+SWZG	FAZENDA LAGOA ENCANTADA	Brazil
 SXP	NUNAM IQUA	Alaska
+SYAH	AISHALTON	Guyana
+SYAP	APOTERI	Guyana
 SYCJ	CHEDDI JAGAN INTL	Guyana
 SYEC	EUGENE F CORREIA INTL	Guyana
+SYKM	KAMARANG	Guyana
+SYLP	LUMIDPAU	Guyana
+SYLT	LETHEM	Guyana
+SYMD	MAHDIA	Guyana
 T00	CHAMBERS CO	United States
 T03	TUBA CITY	United States
 T05	JOHNSON	United States
 T12	KIRBYVILLE	United States
+T13	DALLAS SOUTH PORT	United States
 T14	ROCKIN M	United States
 T15	MARLIN	United States
 T16	RESERVE	United States
+T19	DUVAL-FREER	United States
 T20	DREYER MEM	United States
 T23	ALBANY MUN	United States
+T24	PINELAND MUN	United States
+T25	AERO ESTATES	United States
 T28	CAIN	United States
 T29	FLYING H RANCH	United States
 T30	MC KINLEY	United States
+T31	AERO COUNTRY	United States
 T35	CAMERON MUN	United States
 T36	PAUL PITTMAN MEML	United States
 T37	GOLDTHWAITE MUN	United States
 T38	BAR V K	United States
 T41	LA PORTE MUN	United States
+T42	RUTH	United States
 T45	PANHANDLE-CARSON CO	United States
 T47	FINNEY	United States
+T48	POETRY FLYING RANCH	United States
 T50	MENARD CO	United States
 T51	JONES INTL	United States
 T54	LANE	United States
+T55	DIMMITT MUN	United States
 T56	EAGLE S NEST ESTATES	United States
+T58	IRONHEAD	United States
 T59	WHEELER MUN	United States
 T60	STONEWALL CO	United States
+T67	HICKS	United States
 T69	SINTON	United States
 T70	LAUGHLIN AFB AUX NO 1	United States
+T71	CUERO MUN	United States
+T73	KIRK AIR BASE	United States
 T74	TAYLOR MUN	United States
 T78	LIBERTY MUN	United States
 T79	SKYWAY MANOR	United States
 T80	BISHOP S LANDING	United States
 T82	GILLESPIE CO	United States
 T85	YOAKUM MUN	United States
+T88	COLORADO CITY	United States
 T89	LAJITAS INTL	United States
 T90	CHAMBERS CO/WINNIE STOWELL	United States
 T92	MASON CO	United States
 T93	FOLLETT-LIPSCOMB CO	United States
+T94	TWIN-OAKS	United States
 T96	SOUTHWEST LUBBOCK	United States
 TA12	FLYING B RANCH	United States
 TA20	BFS WEST	United States
@@ -12478,6 +14018,7 @@ TA25	COOK CANYON RANCH	United States
 TA27	ALPHA WHISKY AIRSTRIP	United States
 TA28	SCOTT	United States
 TA35	RANCHO HIELO BRAZOS	United States
+TA37	VACA MOO	United States
 TA54	MCCREA	United States
 TA56	FLOYD RANCH	United States
 TA60	FLY NAVY	United States
@@ -12495,6 +14036,7 @@ TDPD	DOUGLAS CHARLES INTL	Dominica
 TE02	RIVET RANCH	United States
 TE05	LITTLE B FARMS	United States
 TE25	BACK PORCH RANCH	United States
+TE27	HARRISON PILONCILLO RANCH	United States
 TE29	LA ESPERANZA RANCH	United States
 TE35	FILL OR KILL	United States
 TE38	LOGHOUSE /STOL	United States
@@ -12504,6 +14046,8 @@ TE54	WRIGHT	United States
 TE58	TRML D RANCH	United States
 TE73	GRIFFITH RANCH	United States
 TE78	FOSSIL CREEK RANCH	United States
+TE83	WESTWIND RANCH	United States
+TE86	HERITAGE	United States
 TE89	JACALON RANCH	United States
 TFFA	DESIRADE	French Antilles
 TFFB	BAILLIF	French Antilles
@@ -12515,6 +14059,7 @@ TFFM	MARIE GALANTE	French Antilles
 TFFR	MARYSE CONDE	French Antilles
 TFFS	LES SAINTES	French Antilles
 TGPY	MAURICE BISHOP INTL	Grenada
+TGPZ	LAURISTON	Grenada
 TIST	CYRIL E KING	U.S. Virgin Islands
 TISX	HENRY E ROHLSEN	U.S. Virgin Islands
 TJAB	ANTONIO/NERY/JUARBE POL	Puerto Rico
@@ -12533,6 +14078,7 @@ TLPL	HEWANORRA INTL	St. Lucia
 TN09	BEARHAWKS DEN	United States
 TN20	SEYMOUR AIR PARK	United States
 TN41	WARD FARMS	United States
+TN44	DEERFIELD RESORT	United States
 TN45	MAGIC VALLEY	United States
 TN47	DANDRIDGE	United States
 TN54	MOUNTAIN VIEW	United States
@@ -12548,11 +14094,17 @@ TNCC	HATO INTL	Aruba / Netherlands Antilles
 TNCE	F D ROOSEVELT	Aruba / Netherlands Antilles
 TNCM	PRINCESS JULIANA INTL	Aruba / Netherlands Antilles
 TNCS	JUANCHO E YRAUSQUIN	Aruba / Netherlands Antilles
+TPO	PORT ALSWORTH	Alaska
+TQL	NANCO LAUQUEN	Argentina
 TQPF	CLAYTON J LLOYD INTL	Anguilla
 TRPG	JOHN A OSBORNE INTL	Monserrat Islands
+TS04	RIO VISTA RANCH	United States
 TS05	LA BUENA VIDA	United States
 TS07	DRY CREEK	United States
+TS15	CIBOLO CREEK RANCH	United States
 TS20	JOSEPH OF CUPERTINO STOLPORT	United States
+TS21	ROY RANCH	United States
+TS36	SILVER WINGS	United States
 TS41	WARESVILLE	United States
 TS44	DRY BRANCH RANCH	United States
 TS47	PEELER AIRPARK	United States
@@ -12564,6 +14116,7 @@ TS87	PLANE & FANCY	United States
 TS90	HIDDEN VALLEY RANCH	United States
 TS95	COLE RANCH	United States
 TSG	TANACROSS	Alaska
+TT02	ULITHI	Micronesia
 TT11	GOGGANS AIRFIELD	United States
 TT12	PASTRANA RANCH	United States
 TT16	COSMO FLD	United States
@@ -12600,8 +14153,10 @@ TUPA	AUGUSTE GEORGE	U.K. Virgin Islands
 TUPJ	TERRANCE B LETTSOME INTL	U.K. Virgin Islands
 TUPW	VIRGIN GORDA	U.K. Virgin Islands
 TVSA	ARGYLE INTL	St. Vincent
+TVSB	J.F. MITCHELL	St. Vincent
 TVSC	CANOUAN	St. Vincent
 TVSM	MUSTIQUE IS	St. Vincent
+TVSU	UNION I INTL	St. Vincent
 TX0	SHANK N BANK	United States
 TX13	MESA VISTA RANCH	United States
 TX14	BONEYARD AIRSTRIP	United States
@@ -12609,10 +14164,12 @@ TX16	PARKERS LANDING	United States
 TX2	CHASE INDUSTRIAL	United States
 TX22	LEROUX	United States
 TX25	LOCHRIDGE RANCH	United States
+TX31	EDWARDS LUCIAN WELLS RANCH	United States
 TX32	YELLOWSTONE AIR PARK	United States
 TX36	BOYD	United States
 TX40	ECHO LAKE	United States
 TX42	FAIR WEATHER	United States
+TX79	CRESCENT C RANCH	United States
 TX82	LAGUNA PARK COMMUNITY	United States
 TX90	LISSIE FLYING SERVICE	United States
 TX94	FLYING D RANCH	United States
@@ -12622,34 +14179,52 @@ U01	SAVAGE	United States
 U02	MC CARLEY	United States
 U03	BUHL MUN	United States
 U05	RIDDICK	United States
+U06	COKEVILLE MUN	United States
+U07	BULLFROG BASIN	United States
 U08	PERKINS	United States
 U10	PRESTON	United States
+U12	STANFORD	United States
 U14	NEPHI MUN	United States
+U30	TEMPLE BAR	United States
 U34	GREEN RIVER MUN	United States
 U36	ABERDEEN MUN	United States
+U37	MIDWAY	United States
+U41	DUBOIS MUN	United States
+U45	GRAHAM USFS	United States
 U46	BIG SOUTHERN BUTTE	United States
+U48	COX S WELL	United States
 U52	BEAVER MUN	United States
 U53	HENRYS LAKE	United States
 U55	PANGUITCH MUN	United States
 U56	RIGBY	United States
 U58	DOWNEY/HYDE MEML	United States
+U60	BIG CREEK	United States
 U61	TWIN BRIDGES	United States
 U62	MACKAY	United States
+U63	BRUCE MEADOWS	United States
 U64	MONTICELLO	United States
+U65	CAREY	United States
 U68	NORTH BIG HORN CO	United States
 U69	DUCHESNE MUN	United States
 U70	CASCADE	United States
+U72	UPPER LOON CREEK USFS	United States
 U74	CRESCENT VALLEY	United States
 U76	MOUNTAIN HOME MUN	United States
 U78	TIGERT	United States
+U79	CHAMBERLAIN USFS	United States
 U81	COLD MEADOWS USFS	United States
+U82	COUNCIL MUN	United States
 U86	FAIRFIELD/FROSTENSON	United States
 U87	SMILEY CREEK	United States
 U88	GARDEN VALLEY	United States
+U89	GLENNS FERRY MUN	United States
 U91	GRASMERE	United States
+U92	ANTELOPE VALLEY	United States
 U93	MAGIC RESERVOIR	United States
 U94	HAZELTON MUN	United States
 U96	CAL BLACK MEML	United States
+U98	IDAHO CITY USFS	United States
+U99	LAIDLAW CORRALS	United States
 UAAA	ALMATY	Kazakhstan and Kyrgyzstan
 UAAH	BALKHASH	Kazakhstan and Kyrgyzstan
 UAAL	USHARAL	Kazakhstan and Kyrgyzstan
@@ -12699,6 +14274,7 @@ UCFD	JALAL-ABAD	Kirgisistan
 UCFK	KARAKOL	Kirgisistan
 UCFL	ISSYK-KUL	Kirgisistan
 UCFM	MANAS	Kirgisistan
+UCFN	NARYN	Kirgisistan
 UCFO	OSH	Kirgisistan
 UCFR	RAZZAKOV	Kirgisistan
 UCFT	TALAS	Kirgisistan
@@ -12726,6 +14302,7 @@ UEST	TIKSI	Russian Federation
 UESU	ZYRYANKA	Russian Federation
 UEVV	ZHIGANSK	Russian Federation
 UGAM	AMBROLAURI	Armenia and Georgia
+UGB	UGASHIK BAY	Alaska
 UGGT	TELAVI	Armenia and Georgia
 UGKO	KOPITNARI	Armenia and Georgia
 UGSA	NATAKHTARI	Armenia and Georgia
@@ -12782,57 +14359,33 @@ UIUN	UIUN	Russian Federation
 UIUU	MUKHINO	Russian Federation
 UKBA	Aleksandria	Ukraine and Moldovia
 UKBB	BORYSPIL INTL	Ukraine and Moldovia
-UKBL	BRODY	Ukraine and Moldovia
-UKBM	MYRHOROD	Ukraine and Moldovia
-UKBP	PRYLUKY	Ukraine and Moldovia
 UKCM	Mariupol	Ukraine and Moldovia
-UKDB	BERDIANSK	Ukraine and Moldovia
 UKDD	DNIPRO	Ukraine and Moldovia
 UKDE	ZAPORIZHZHIA INTL	Ukraine and Moldovia
-UKDM	MELITOPOL	Ukraine and Moldovia
 UKDR	LOZUVATKA	Ukraine and Moldovia
 UKFF	Simferopol	Ukraine and Moldovia
-UKGC	TSUNIV	Ukraine and Moldovia
-UKGK	KAMIANETS-PODILSKYI	Ukraine and Moldovia
-UKGW	VORONIV	Ukraine and Moldovia
 UKHD	SOKOLNYKY NATL	Ukraine and Moldovia
 UKHH	OSNOVA	Ukraine and Moldovia
 UKHK	VELYKA KOKHNIVKA	Ukraine and Moldovia
 UKHP	SUPRUNIVKA INTL	Ukraine and Moldovia
 UKHS	SUMY	Ukraine and Moldovia
 UKHW	Rogach	Ukraine and Moldovia
-UKIN	HAISYN	Ukraine and Moldovia
-UKKB	BORODIANKA	Ukraine and Moldovia
 UKKE	CHERKASY	Ukraine and Moldovia
 UKKG	KIROVOHRAD	Ukraine and Moldovia
-UKKH	UZYN	Ukraine and Moldovia
 UKKK	ZHULIANY	Ukraine and Moldovia
 UKKM	ANTONOV-2 INTL	Ukraine and Moldovia
-UKKN	KALYNIVKA	Ukraine and Moldovia
 UKKO	OZERNE INTL	Ukraine and Moldovia
 UKKP	Chernigov (Pevci)	Ukraine and Moldovia
 UKKT	ANTONOV-1 NATL	Ukraine and Moldovia
 UKKV	S.P. KOROLYOV NATL	Ukraine and Moldovia
-UKKW	VASYLKIV	Ukraine and Moldovia
 UKKX	Uman'	Ukraine and Moldovia
-UKLA	KALYNIV	Ukraine and Moldovia
-UKLC	LUTSK	Ukraine and Moldovia
-UKLH	KHMELNYTSKYI	Ukraine and Moldovia
 UKLI	IVANO-FRANKIVSK	Ukraine and Moldovia
 UKLK	Lutsk	Ukraine and Moldovia
 UKLL	LVIV INTL	Ukraine and Moldovia
 UKLN	CHERNIVTSI INTL	Ukraine and Moldovia
-UKLO	KOLOMYIA	Ukraine and Moldovia
 UKLR	RIVNE INTL	Ukraine and Moldovia
-UKLS	STAROKOSTIANTYNIV	Ukraine and Moldovia
-UKLT	TERNOPIL	Ukraine and Moldovia
 UKLU	UZHHOROD INTL	Ukraine and Moldovia
-UKMC	LVIV JAGELLON	Ukraine and Moldovia
-UKMD	DROHOBYCH	Ukraine and Moldovia
-UKMG	PIDHIRYA	Ukraine and Moldovia
 UKMH	Khmelnytskyi	Ukraine and Moldovia
-UKMK	TABANIUK	Ukraine and Moldovia
-UKMN	KOSYNO	Ukraine and Moldovia
 UKOH	KHERSON INTL	Ukraine and Moldovia
 UKON	MYKOLAIV INTL	Ukraine and Moldovia
 UKOO	ODESA	Ukraine and Moldovia
@@ -12979,6 +14532,8 @@ USSS	KOLTSOVO	Russian Federation
 USTJ	REMEZOV	Russian Federation
 USTR	ROSHCHINO	Russian Federation
 USUU	KURGAN	Russian Federation
+UT25	MONUMENT VALLEY	United States
+UT47	GRASSY MEADOWS/SKY RANCH	United States
 UT53	SKY RANCH	United States
 UT89	COLD WATER	United States
 UT9	WEST DESERT	United States
@@ -13048,9 +14603,11 @@ UZST	TERMEZ INTL	Uzbekistan, Turkmenistan and Tadjikistan
 UZTC	CHIRCHIK	Uzbekistan, Turkmenistan and Tadjikistan
 UZTP	VOSTOCHNY INTL	Uzbekistan, Turkmenistan and Tadjikistan
 UZTT	ISLAM KARIMOV INTL	Uzbekistan, Turkmenistan and Tadjikistan
+VA04	BARROWS	United States
 VA10	CATAWBA VALLEY	United States
 VA20	PAINTER FLD	United States
 VA26	COASTAL SEAPLANES DOWNTOWN	United States
+VA30	BERRYVALE	United States
 VA34	COASTAL SEAPLANES YORKTOWN	United States
 VA42	DOGWOOD	United States
 VA44	COASTAL SEAPLANES VIRGINIA BEA	United States
@@ -13067,6 +14624,7 @@ VABO	VADODARA	India
 VABP	RAJA BHOJ	India
 VABV	BHAVNAGAR	India
 VADN	DAMAN	India
+VADU	DIU	India
 VAGD	GONDIA	India
 VAHS	RAJKOT	India
 VAID	DEVI AHILYA BAI HOLKAR	India
@@ -13092,11 +14650,15 @@ VCBI	BANDARANAIKE INTL COLOMBO	Sri Lanka
 VCCA	ANURADHAPURA	Sri Lanka
 VCCB	BATTICALOA	Sri Lanka
 VCCC	COLOMBO INTL	Sri Lanka
+VCCG	AMPARAI	Sri Lanka
 VCCH	MINNERIYA	Sri Lanka
 VCCJ	JAFFNA	Sri Lanka
+VCCK	KOGGALA	Sri Lanka
+VCCN	KATUKURUNDA	Sri Lanka
 VCCS	SIGIRIYA	Sri Lanka
 VCCT	CHINA BAY	Sri Lanka
 VCCV	VAVUNIYA	Sri Lanka
+VCCW	WIRAWILA	Sri Lanka
 VCRI	MATTALA RAJAPAKSA INTL	Sri Lanka
 VDBG	BATTAMBANG	Cambodia
 VDDS	DARA SAKOR	Cambodia
@@ -13108,6 +14670,7 @@ VDST	STUNG TRENG	Cambodia
 VDSV	SIHANOUK INTL	Cambodia
 VDTI	TECHO INTL	Cambodia
 VEAB	PRAYAGRAJ	India
+VEAN	ALONG	India
 VEAT	AGARTALA	India
 VEAY	MAHARISHI VALMIKI INTL, AYODHY	India
 VEBD	BAGDOGRA	India
@@ -13139,6 +14702,7 @@ VELP	LENGPUI	India
 VELR	LILABARI	India
 VEMN	DIBRUGARH	India
 VEMR	DIMAPUR	India
+VEPG	PASIGHAT	India
 VEPH	PANAGARH	India
 VEPT	JAI PRAKASH NARAYAN INTL	India
 VEPU	PURNEA	India
@@ -13150,10 +14714,12 @@ VERU	RUPSI	India
 VERW	REWA	India
 VETJ	TEZU	India
 VETZ	TEZPUR	India
+VG16	LANDIS	United States
 VG18	SKY BRYCE	United States
 VG25	ROBINSON	United States
 VG31	NESTER FUNNY FARM	United States
 VG54	BEAR RIVER FLD	United States
+VG57	MAPLES	United States
 VG65	BIGLER AIRFIELD	United States
 VG67	STUART RED HOUSE FLD	United States
 VGBG	BOGURA	Bangladesh
@@ -13211,32 +14777,45 @@ VISM	SHIMLA	India
 VISP	SARSAWA	India
 VISR	SRINAGAR	India
 VISX	SIRSA	India
+VIT	SANTA VICTORIA	Argentina
 VITE	THOISE	India
 VIUT	UTTARLAI	India
 VIUX	UDHAMPUR	India
 VLBK	BOKEO	Laos
+VLHS	BAN HOUEISAY	Laos
 VLLB	LUANG PHABANG INTL	Laos
 VLLN	LUANG NAMTHA	Laos
 VLNK	NONGKHANG	Laos
 VLPS	PAKSE INTL	Laos
+VLSB	SAYABOULY	Laos
 VLSK	SAVANNAKHET INTL	Laos
 VLSP	SEPON	Laos
 VLVT	WATTAY INTL	Laos
 VLXK	XIENGKHUANG	Laos
 VMMC	MACAO INTL	Macau
+VNBG	BAJHANG	Nepal
+VNBJ	BHOJPUR	Nepal
 VNBP	BHARATPUR	Nepal
+VNBR	BAJURA	Nepal
 VNBW	GAUTAM BUDDHA INTL	Nepal
 VNCG	CHANDRAGADHI	Nepal
 VNDH	DHANGADHI	Nepal
+VNJL	JUMLA	Nepal
 VNJP	JANAKPUR	Nepal
 VNJS	JOMSOM	Nepal
 VNKT	TRIBHUVAN INTL	Nepal
+VNLK	TENZING-HILLARY	Nepal
 VNNG	NEPALGUNJ	Nepal
+VNO	VENADO TUERTO	Argentina
 VNPK	POKHARA	Nepal
+VNPL	PHAPLU	Nepal
 VNPR	POKHARA INTL	Nepal
 VNRB	RAJBIRAJ	Nepal
+VNRC	RAMECHHAP	Nepal
 VNSI	SIMARA	Nepal
 VNSK	SURKHET	Nepal
+VNST	SIMIKOT	Nepal
+VNTR	TUMLINGTAR	Nepal
 VNVT	BIRATNAGAR	Nepal
 VOAR	ARKONAM	India
 VOAT	AGATTI	India
@@ -13300,14 +14879,19 @@ VRMT	KAADEDHDHOO	Maldives
 VRMU	DHAALU	Maldives
 VRMV	VILLA INTL	Maldives
 VRNT	THIMARAFUSHI	Maldives
+VT47	MILLER FARM	United States
 VT72	VILLENEUVE FLD	United States
 VT76	LITTLE GOOSE FARM	United States
 VT8	SHELBURNE	United States
 VTBD	DON MUEANG INTL	Thailand
+VTBH	SA PRAN NAK AERO	Thailand
+VTBI	PRACHIN BURI	Thailand
 VTBK	KAMPHAENG SAEN	Thailand
 VTBL	KHOK KATHIAM	Thailand
 VTBO	TRAT	Thailand
+VTBP	PRACHUAP KHIRI KHAN	Thailand
 VTBS	SUVARNABHUMI INTL	Thailand
+VTBT	BANG PHRA	Thailand
 VTBU	U-TAPAO RAYONG PATTAYA INTL	Thailand
 VTBW	WATTHANA NAKHON	Thailand
 VTCC	CHIANG MAI INTL	Thailand
@@ -13324,7 +14908,9 @@ VTPM	MAE SOT	Thailand
 VTPN	NAKHON SAWAN	Thailand
 VTPO	SUKHOTHAI	Thailand
 VTPP	PHITSANULOK	Thailand
+VTPR	PHOTHARAM	Thailand
 VTPT	TAK	Thailand
+VTPY	KHUAN PHUMIPHON	Thailand
 VTSB	SURAT THANI	Thailand
 VTSC	NARATHIWAT	Thailand
 VTSE	CHUMPHON	Thailand
@@ -13333,6 +14919,7 @@ VTSG	KRABI	Thailand
 VTSH	SONGKHLA	Thailand
 VTSK	PATTANI	Thailand
 VTSM	SAMUI	Thailand
+VTSN	CHA-IAN	Thailand
 VTSP	PHUKET INTL	Thailand
 VTSR	RANONG	Thailand
 VTSS	HAT YAI INTL	Thailand
@@ -13375,6 +14962,7 @@ VVTX	THO XUAN	Vietnam
 VVVD	VAN DON INTL	Vietnam
 VVVH	VINH	Vietnam
 VVVT	VUNG TAU HELIPORT	Vietnam
+VYAN	ANN	Myanmar
 VYAS	ANISAKAN	Myanmar
 VYBG	NYAUNG U	Myanmar
 VYBM	BANMAW	Myanmar
@@ -13382,6 +14970,7 @@ VYBP	BOKPYINN	Myanmar
 VYCZ	CHANMYATHAZI	Myanmar
 VYDW	DAWEI	Myanmar
 VYFS	SURBUNG	Myanmar
+VYHB	HMAWBY	Myanmar
 VYHH	HEHO	Myanmar
 VYHL	HOMMALINN	Myanmar
 VYKG	KENGTUNG	Myanmar
@@ -13389,25 +14978,32 @@ VYKI	KANTI	Myanmar
 VYKL	KALAY	Myanmar
 VYKP	KYAUKPYU	Myanmar
 VYKT	KAWTHOUNG	Myanmar
+VYKU	KYAUKTU	Myanmar
 VYLK	LOIKAW	Myanmar
 VYLS	LASHIO	Myanmar
 VYMD	MANDALAY INTL	Myanmar
 VYME	MYEIK	Myanmar
 VYMK	MYITKYINA	Myanmar
+VYML	MEIKTILA	Myanmar
 VYMM	MAWLAMYINE	Myanmar
 VYMN	MANAUNG	Myanmar
+VYMO	MOMEIK	Myanmar
 VYMS	MONG-HSAT	Myanmar
 VYMW	MAGWAY	Myanmar
 VYMY	MONYWAR	Myanmar
+VYNP	WEST NAMPONG	Myanmar
 VYNT	NAYPYITAW INTL	Myanmar
 VYPA	HPA-AN	Myanmar
 VYPN	PATHEIN	Myanmar
 VYPT	PUTAO	Myanmar
 VYPU	PAKHOKKU	Myanmar
+VYPY	PYAY	Myanmar
+VYST	SHANTE	Myanmar
 VYSW	SITTWE	Myanmar
 VYTD	THANDWE	Myanmar
 VYTL	TACHILEIK	Myanmar
 VYTO	TAUNGOO	Myanmar
+VYYE	YE	Myanmar
 VYYY	YANGON INTL	Myanmar
 W00	FREEWAY	United States
 W01	TONASKET MUN	United States
@@ -13419,8 +15015,10 @@ W10	WHIDBEY	United States
 W11	SULLIVAN	United States
 W13	EAGLE S NEST	United States
 W16	FIRST AIR	United States
+W17	RALEIGH EAST	United States
 W20	MOSES LAKE MUN	United States
 W22	UPSHUR CO REGL	United States
+W23	WILD ROSE IDLEWILD	United States
 W24	FALWELL	United States
 W27	WOODLAND STATE	United States
 W28	SEQUIM VALLEY	United States
@@ -13437,7 +15035,9 @@ W50	DAVIS	United States
 W52	GOHEEN	United States
 W56	FLY FOR FUN	United States
 W57	ROUND LAKE	United States
+W58	CEDARS NORTH	United States
 W63	LAKE COUNTRY REGL	United States
+W73	MID-ATLANTIC SOARING CENTER	United States
 W75	HUMMEL	United States
 W78	TUCK	United States
 W81	CREWE MUN	United States
@@ -13448,6 +15048,7 @@ W94	CAMP PEARY LNDG STRIP	United States
 W95	OCRACOKE I	United States
 W96	NEW KENT CO	United States
 W99	GRANT CO	United States
+WA09	ROCHE HARBOR	United States
 WA14	CONNELL CITY	United States
 WA20	PIANOSA FLYING FARM	United States
 WA25	GREEN VALLEY AIRFIELD	United States
@@ -13467,6 +15068,7 @@ WABO	STEVANUS RUMBEWAS	Indonesia
 WABS	SINAK	Indonesia
 WADB	SULTAN MUHAMMAD SALAHUDDIN	Indonesia
 WADD	I GUSTI NGURAH RAI	Indonesia
+WADE	LETKOL WISNU	Indonesia
 WADL	ZAINUDDIN ABDUL MADJID	Indonesia
 WADS	SULTAN MUHAMMAD KAHARUDDIN	Indonesia
 WADY	BANYUWANGI	Indonesia
@@ -13517,14 +15119,17 @@ WAJI	MARARENA	Indonesia
 WAJJ	SENTANI	Indonesia
 WAJK	KIWIROK	Indonesia
 WAJO	OKSIBIL	Indonesia
+WAJU	UBRUB	Indonesia
 WAKD	MINDIPTANAH	Indonesia
 WAKE	BADE	Indonesia
 WAKG	EWER	Indonesia
 WAKJ	KIMAAM	Indonesia
 WAKK	MOPAH	Indonesia
+WAKO	OKABA	Indonesia
 WAKP	KEPI	Indonesia
 WAKT	TANAH MERAH	Indonesia
 WAKY	KOROWAY BATU	Indonesia
+WALA	SANGKIMAH	Indonesia
 WALB	TANJUNG BARA	Indonesia
 WALC	LNG BADAK	Indonesia
 WALE	MELALAN MELAK	Indonesia
@@ -13533,6 +15138,8 @@ WALK	NUSANTARA	Indonesia
 WALL	SULTAN AJI MUHAMMAD SULAIMAN S	Indonesia
 WALQ	PUJUNGAN	Indonesia
 WALS	AJI PANGERAN TUMENGGUNG PRANOT	Indonesia
+WALT	TANJUNG SANTAN	Indonesia
+WALW	MUARA WAHAU	Indonesia
 WAMG	DJALALUDDIN	Indonesia
 WAMH	NAHA	Indonesia
 WAMI	BOLAANG MONGONDOW	Indonesia
@@ -13542,6 +15149,7 @@ WAMO	SITARO	Indonesia
 WAMP	IMIP	Indonesia
 WAMS	MIANGAS	Indonesia
 WAOC	BERSUJUD	Indonesia
+WAOH	KOTA BARU	Indonesia
 WAOK	GUSTI SJAMSIR ALAM	Indonesia
 WAON	WARUKIN	Indonesia
 WAOO	SYAMSUDIN NOOR	Indonesia
@@ -13550,6 +15158,7 @@ WAPC	BANDANEIRA	Indonesia
 WAPD	DOBO	Indonesia
 WAPF	KAREL SADSUITUBUN	Indonesia
 WAPG	NAMROLE	Indonesia
+WAPL	DUMATUBUN	Indonesia
 WAPM	JOS ORNO IMSULA	Indonesia
 WAPN	NAMNIWEL	Indonesia
 WAPO	LARAT	Indonesia
@@ -13561,6 +15170,7 @@ WAQA	NUNUKAN	Indonesia
 WAQC	MARATUA	Indonesia
 WAQD	TANJUNG HARAPAN	Indonesia
 WAQJ	YUVAI SEMARING	Indonesia
+WAQL	LONG APUNG	Indonesia
 WAQM	KOL. ROBERT ATTY BESSING	Indonesia
 WAQQ	JUWATA	Indonesia
 WAQT	KALIMARAU	Indonesia
@@ -13568,6 +15178,8 @@ WARA	ABDULRACHMAN SALEH	Indonesia
 WARC	NGLORAM	Indonesia
 WARD	KEDIRI	Indonesia
 WARE	NOTO HADINEGORO	Indonesia
+WARI	ISWAHYUDI	Indonesia
+WARP	PAGERUNGAN	Indonesia
 WARR	JUANDA	Indonesia
 WART	TRUNOJOYO	Indonesia
 WARW	HARUN THOHIR	Indonesia
@@ -13643,6 +15255,7 @@ WBGS	SIBU	Brunei
 WBGW	LAWAS	Brunei
 WBGZ	BARIO	Brunei
 WBKD	LAHAD DATU	Brunei
+WBKG	KENINGAU	Brunei
 WBKK	KOTA KINABALU	Brunei
 WBKL	LABUAN	Brunei
 WBKS	SANDAKAN	Brunei
@@ -13651,13 +15264,17 @@ WBKW	TAWAU	Brunei
 WBMU	MULU	Brunei
 WBSB	BRUNEI INTL	Brunei
 WBTM	TANJUNG MANIS	Brunei
+WH0	WOODHAWK	United States
 WI31	MINNESUING	United States
 WI33	BEN SUTHERLAND	United States
+WI36	DOLHUN	United States
 WI46	FUN-AIR	United States
+WI49	BLAIR	United States
 WI52	M & F LANDING	United States
 WI66	HALLICK FARM	United States
 WI72	VALHALLA	United States
 WI80	PISHA FARM	United States
+WI89	LAKE GENEVA AIRE ESTATES	United States
 WI98	BOBS	United States
 WIBB	SULTAN SYARIF KASIM II	Indonesia
 WIBD	PINANG KAMPAI	Indonesia
@@ -13665,9 +15282,11 @@ WIBG	TUANKU TAMBUSAI	Indonesia
 WIBI	PULAI	Singapore
 WIBJ	JAPURA	Indonesia
 WIBL	SULTAN SYARIF HAROEN SETIA NEG	Indonesia
+WIBS	SEI PAKNING	Indonesia
 WICA	KERTAJATI	Indonesia
 WICC	HUSEIN SASTRANEGARA	Indonesia
 WICD	CAKRABHUWANA	Indonesia
+WICK	SULAIMAN	Indonesia
 WICM	WIRIADINATA	Indonesia
 WICN	NUSAWIRU	Indonesia
 WIDB	TAMBELAN	Singapore
@@ -13684,6 +15303,7 @@ WIGE	ENGGANO	Indonesia
 WIGG	FATMAWATI SOEKARNO	Indonesia
 WIGM	MUKOMUKO	Indonesia
 WIHC	WILADATIKA	Indonesia
+WIHG	PULAU PANJANG	Indonesia
 WIHH	HALIM PERDANAKUSUMA	Indonesia
 WIHI	SALAKANAGARA TANJUNG LESUNG	Indonesia
 WIHJ	ATANG SENDJAJA	Indonesia
@@ -13694,8 +15314,11 @@ WIJI	DEPATI PARBO	Indonesia
 WIJJ	SULTAN THAHA	Indonesia
 WIKK	DEPATI AMIR	Indonesia
 WIKT	H.AS. HANANDJOEDDIN	Indonesia
+WILB	TAMLING	Indonesia
 WILL	RADIN INTEN II	Indonesia
+WILM	ASTRA KSETRA	Indonesia
 WILP	MUHAMMAD TAUFIK KIEMAS	Indonesia
+WILW	WAY JEPARA	Indonesia
 WIMA	MALIKUSSALEH	Indonesia
 WIMB	BINAKA	Indonesia
 WIME	AEK GODANG	Indonesia
@@ -13727,6 +15350,8 @@ WITK	REMBELE	Indonesia
 WITL	LHOK SUKON	Indonesia
 WITN	MAIMUN SALEH	Indonesia
 WITT	SULTAN ISKANDAR MUDA	Indonesia
+WMAP	KLUANG	Malaysia
+WMBI	TAIPING	Malaysia
 WMBT	PULAU TIOMAN	Malaysia
 WMGK	GONG KEDAK	Malaysia
 WMKA	SULTAN ABDUL HALIM	Malaysia
@@ -13749,14 +15374,18 @@ WN22	BAR U VIEW	United States
 WN28	HIRD	United States
 WN29	BLUE RIBBON	United States
 WN53	FRONTIER AIRPARK	United States
+WN54	ELLERPORT	United States
+WPAT	ATAURO I	Indonesia
 WPDB	XANANA GUSMAO INTL	Timor-Leste
 WPDL	PRES NICOLAU LOBATO INTL	Timor-Leste
 WPEC	BAUCAU	Timor-Leste
+WPMN	MALIANA	Timor-Leste
 WPOC	ROTA DO SANDALO INTL	Timor-Leste
 WPVQ	VIQUEQUE	Indonesia
 WS20	YOUNG TACTICAL LANDING SITE	United States
 WS51	LEEWARD FARM	United States
 WS84	CRAN BOG N	United States
+WSAG	SEMBAWANG	Singapore
 WSAP	PAYA LEBAR	Singapore
 WSAT	TENGAH	Singapore
 WSM	WISEMAN	Alaska
@@ -13769,9 +15398,12 @@ WT32	HART	United States
 WT37	LOCKWOOD DRY COULEE	United States
 WT44	MICHAIR	United States
 WV12	MALLORY	United States
+WV30	RAINELLE	United States
+WV62	WINDWOOD FLY-IN RESORT	United States
 WV95	STANGER TO BLUE WATERS	United States
 WY00	RED REFLET RANCH	United States
 WY02	MORRISON	United States
+WY05	SKYVIEW	United States
 WY08	SUNDANCE RANCH	United States
 WY19	FISH CREEK RANCH	United States
 WY41	5 SPRINGS	United States
@@ -13780,7 +15412,9 @@ WY46	RADIO RANCH	United States
 WY53	MOBURG AERO	United States
 WY56	PIERCE RANCH	United States
 WY58	HILTY PRIVATE STRIP	United States
+X01	EVERGLADES	United States
 X04	ORLANDO APOPKA	United States
+X05	PILOT COUNTRY	United States
 X06	ARCADIA MUN	United States
 X07	LAKE WALES MUN	United States
 X09	COVEY TRAILS	United States
@@ -13794,7 +15428,10 @@ X25	CHALET SUZANNE	United States
 X26	SEBASTIAN MUN	United States
 X33	DONIPHAN MUN	United States
 X35	MARION CO	United States
+X36	BUCHAN	United States
 X39	TAMPA NORTH	United States
+X43	SUNRAY	United States
+X49	SOUTH LAKELAND	United States
 X50	MASSEY RANCH	United States
 X51	MIAMI HOMESTEAD GENERAL AVIATI	United States
 X55	MID FLORIDA	United States
@@ -13804,16 +15441,22 @@ X60	WILLISTON REGL	United States
 X63	DR HERMENEGILDO ORTIZ QUINONES	Puerto Rico
 X65	TXAEROSPORT	United States
 XA03	EDGINGTON RANCH	United States
+XA08	LOS CUERNOS RANCH	United States
 XA42	TALI HOMMA FLD	United States
 XA45	BOMA	United States
 XA49	BLUE JAY AIRFIELD	United States
 XA66	EL JARDIN RANCH	United States
 XA81	HOMERUN	United States
 XA89	FAITH RANCH	United States
+XA99	FLAT BUSH	United States
+XATE	Zarate	Argentina
+XGEZ	Rodriguez	Argentina
+XLJN	Lujan	Argentina
 XLLE	Gorelovo	Russian Federation
 XLLF	Sivortsy	Russian Federation
 XLLO	Gorskaya	Russian Federation
 XLPR	Sorokino	Russian Federation
+XMUS	Chascomus	Argentina
 XMWB	CHKALOVSK	Belarus, Latvia and Lithuania
 XMWD	DONSKOYE	Belarus, Latvia and Lithuania
 XMWH	CHERNYAKHOVSK	Belarus, Latvia and Lithuania
@@ -13823,6 +15466,7 @@ XRKD	ENEM	Russian Federation
 XS05	FREEDOM	United States
 XS09	ESTATES	United States
 XS16	FLYING K RANCH	United States
+XS20	DOS ARROYOS RANCH	United States
 XS22	LAME DONKEY	United States
 XS36	COVERED S RANCH	United States
 XS44	RANCHO DEL CIELO	United States
@@ -13838,6 +15482,7 @@ Y14	SKIE-LINCOLN CO	United States
 Y19	MANDAN REGL/ LAWLER	United States
 Y23	CHETEK MUN/SOUTHWORTH	United States
 Y27	STANDING ROCK	United States
+Y30	PBEAAYE	United States
 Y31	WEST BRANCH COMMUNITY	United States
 Y37	PARK RIVER-SKJERVEN	United States
 Y43	ANITA MUN-BURKE MEML	United States
@@ -13874,6 +15519,7 @@ YALA	MARLA	Australia
 YALG	ADELS GROVE	Australia
 YAMB	AMBERLEY	Australia
 YAMC	ARAMAC	Australia
+YAMK	ANDAMOOKA	Australia
 YAMT	AMATA	Australia
 YANG	WEST ANGELAS	Australia
 YANK	ANNA CREEK	Australia
@@ -13887,14 +15533,18 @@ YATN	ATHERTON	Australia
 YAUG	AUGUSTA	Australia
 YAUR	AURUKUN	Australia
 YAYE	CONNELLAN	Australia
+YAYR	AYR	Australia
 YBAB	BARALABA	Australia
+YBAD	BARADINE	Australia
 YBAF	ARCHERFIELD	Australia
 YBAR	BARCALDINE	Australia
 YBAS	ALICE SPRINGS	Australia
+YBAU	BADU I	Australia
 YBBN	BRISBANE INTL	Australia
 YBBT	BOORT	Australia
 YBCG	GOLD COAST	Australia
 YBCK	BLACKALL	Australia
+YBCM	COOMINYA	Australia
 YBCS	CAIRNS INTL	Australia
 YBCV	CHARLEVILLE	Australia
 YBDG	BENDIGO	Australia
@@ -13928,6 +15578,7 @@ YBNA	BALLINA/BYRON GATEWAY	Australia
 YBNS	BAIRNSDALE	Australia
 YBOA	BOONAH	Australia
 YBOC	BOOLEROO CENTRE	Australia
+YBOI	BOIGU I	Australia
 YBOK	OAKEY	Australia
 YBOM	BOMBALA	Australia
 YBOR	BORDERTOWN	Australia
@@ -13937,6 +15588,7 @@ YBRK	ROCKHAMPTON	Australia
 YBRL	BORROLOOLA	Australia
 YBRM	BROOME INTL	Australia
 YBRN	BALRANALD	Australia
+YBRS	BARWON HEADS	Australia
 YBRW	BREWARRINA	Australia
 YBRY	BARIMUNYA	Australia
 YBSG	SCHERGER	Australia
@@ -13952,21 +15604,30 @@ YBWN	BOWEN	Australia
 YBWP	WEIPA	Australia
 YBWW	BRISBANE WEST WELLCAMP	Australia
 YBWX	BARROW I	Australia
+YBYI	BRUNY I	Australia
+YCAB	CABOOLTURE	Australia
 YCAG	CAIGUNA	Australia
 YCAH	COOLAH	Australia
 YCAR	CARNARVON	Australia
 YCAS	CASINO	Australia
 YCBA	COBAR	Australia
 YCBB	COONABARABRAN	Australia
+YCBG	CAMBRIDGE	Australia
 YCBP	COOBER PEDY	Australia
+YCBR	COLLARENEBRI	Australia
 YCCA	CHINCHILLA	Australia
 YCCT	COCONUT ISLAND	Australia
 YCCY	CLONCURRY	Australia
+YCDE	COBDEN	Australia
 YCDH	CADNEY HOMESTEAD	Australia
 YCDO	CONDOBOLIN	Australia
+YCDR	CALOUNDRA	Australia
 YCDU	CEDUNA	Australia
+YCDW	DALLACHY	Australia
 YCEE	CLEVE	Australia
+YCEL	CAPELLA	Australia
 YCEM	COLDSTREAM	Australia
+YCFN	CLIFTON	Australia
 YCFS	COFFS HARBOUR	Australia
 YCGO	CHILLAGOE	Australia
 YCHK	CHRISTMAS CREEK	Australia
@@ -13985,43 +15646,54 @@ YCNM	COONAMBLE	Australia
 YCNY	CENTURY MINE	Australia
 YCOE	COEN	Australia
 YCOF	COFFIN BAY	Australia
+YCOH	COHUNA	Australia
 YCOM	COOMA-SNOWY MOUNTAINS	Australia
+YCOO	COOINDA	Australia
 YCOR	COROWA	Australia
 YCPR	CAPE PRESTON	Australia
 YCPT	CARRAPATEENA	Australia
 YCRG	CORRYONG	Australia
 YCRL	CROOKWELL	Australia
 YCRY	CROYDON	Australia
+YCSV	COLLINSVILLE	Australia
 YCTA	COOLATAI	Australia
 YCTI	COCKATOO I	Australia
 YCTM	COOTAMUNDRA	Australia
 YCUE	CUE	Australia
 YCUN	CUNDERDIN	Australia
+YCVA	CLARE VALLEY	Australia
 YCVG	CALVIN GROVE	Australia
 YCWA	COONDEWANNA	Australia
 YCWL	COWELL	Australia
 YCWR	COWRA	Australia
 YCXA	COOLOOLA COVE	Australia
 YCYR	CHARNLEY RIVER	Australia
+YDAY	DALBY	Australia
 YDBI	DIRRANBANDI	Australia
 YDBR	DUNBAR	Australia
 YDBY	DERBY	Australia
+YDEK	DENMARK	Australia
 YDGA	DALGARANGA MINE	Australia
 YDGU	DEGRUSSA	Australia
 YDKG	DUKETON GOLD	Australia
+YDKI	DUNK I	Australia
 YDLO	DARLOT	Australia
 YDLQ	DENILIQUIN	Australia
 YDLT	DELTA DOWNS	Australia
 YDLV	DELISSAVILLE	Australia
 YDMG	DOOMADGEE	Australia
+YDOC	DOCHRA (MILITARY)	Australia
 YDOD	DONALD	Australia
 YDOP	DONNINGTON AIRPARK	Australia
+YDOR	DORUNDA STATION	Australia
 YDPD	DAVENPORT DOWNS	Australia
 YDPO	DEVONPORT	Australia
 YDRD	DRYSDALE RIVER	Australia
 YDRH	DURHAM DOWNS	Australia
 YDRI	DURRIE	Australia
 YDRN	DROUIN	Australia
+YDUM	DUMBLEYUNG	Australia
+YDUN	DUNWICH	Australia
 YDVR	DOCKER RIVER	Australia
 YDWF	DELAMERE	Australia
 YDYS	DYSART	Australia
@@ -14029,6 +15701,8 @@ YECB	ECO BEACH	Australia
 YECH	ECHUCA	Australia
 YEJI	EAST JAURDI	Australia
 YELD	ELCHO I	Australia
+YELN	ELLISTON	Australia
+YEMG	EROMANGA	Australia
 YEML	EMERALD	Australia
 YEMP	EMU PARK	Australia
 YERN	ERNABELLA	Australia
@@ -14038,6 +15712,7 @@ YEUA	EUROA	Australia
 YEUO	EULO	Australia
 YEVD	EVANS HEAD	Australia
 YEWA	ELIWANA	Australia
+YEXM	EXMOUTH	Australia
 YFBS	FORBES	Australia
 YFDF	FORTESCUE DAVE FORREST	Australia
 YFDN	FEDERATION	Australia
@@ -14048,9 +15723,12 @@ YFRG	FREGON	Australia
 YFRT	FORREST	Australia
 YFTA	FORRESTANIA	Australia
 YFTZ	FITZROY CROSSING	Australia
+YGAD	GARDEN I HELIPORT	Australia
+YGAS	GATTON	Australia
 YGAW	GAWLER	Australia
 YGAY	GAYNDAH	Australia
 YGBI	SOUTH GOULBURN I	Australia
+YGBW	GUNBOWER	Australia
 YGDA	GOODOOGA	Australia
 YGDH	GUNNEDAH	Australia
 YGDI	GOONDIWINDI	Australia
@@ -14059,30 +15737,40 @@ YGDS	GREGORY DOWNS	Australia
 YGEL	GERALDTON	Australia
 YGFN	GRAFTON	Australia
 YGGE	GOLDEN GROVE	Australia
+YGGI	GOOLGOWI	Australia
 YGIA	GINBATA	Australia
+YGIB	GIBB RIVER	Australia
 YGIG	GINGIN	Australia
 YGIL	GILGANDRA	Australia
+YGKL	GREAT KEPPEL ISLAND	Australia
 YGLA	GLADSTONE	Australia
 YGLB	GOULBURN	Australia
 YGLI	GLEN INNES	Australia
 YGLO	GLENORMISTON	Australia
 YGLS	GILES	Australia
+YGNE	GNARWARRE	Australia
 YGNW	GNOWANGERUP	Australia
 YGON	MOUNT GORDON	Australia
 YGPT	GARDEN POINT	Australia
+YGRL	GREAT LAKES	Australia
 YGRM	GRUYERE	Australia
 YGTE	GROOTE EYLANDT	Australia
 YGTH	GRIFFITH	Australia
 YGTN	GEORGETOWN	Australia
+YGTO	GEORGE TOWN	Australia
 YGWA	GOOLWA	Australia
 YGYM	GYMPIE	Australia
 YHAA	HAASTS BLUFF	Australia
+YHAE	HARDEN	Australia
+YHAW	HAWKER	Australia
 YHAY	HAY	Australia
 YHBA	HERVEY BAY	Australia
 YHBK	HOLBROOK	Australia
 YHCS	HERBERTVALE CATTLEYARD	Australia
+YHEC	HECK	Australia
 YHID	HORN ISLAND	Australia
 YHLC	HALLS CREEK	Australia
+YHLS	HILLSTON	Australia
 YHMB	HERMANNSBURG	Australia
 YHML	HAMILTON	Australia
 YHON	HONEYMOON	Australia
@@ -14102,12 +15790,14 @@ YIMB	KIMBA	Australia
 YINJ	INJUNE	Australia
 YINN	INNAMINCKA	Australia
 YISF	ISISFORD	Australia
+YITT	MITTA MITTA	Australia
 YIVL	INVERELL	Australia
 YIVO	IVANHOE	Australia
 YJAB	JABIRU	Australia
 YJAC	JACINTH AMBROSIA	Australia
 YJBY	JERVIS BAY	Australia
 YJER	JERILDERIE	Australia
+YJIN	JINDABYNE	Australia
 YJLC	JULIA CREEK	Australia
 YJST	JAMESTOWN	Australia
 YJUN	JUNDEE	Australia
@@ -14120,20 +15810,27 @@ YKBR	KALBARRI	Australia
 YKBY	STREAKY BAY	Australia
 YKCS	KINGS CREEK	Australia
 YKDD	GUDAI-DARRI MINE	Australia
+YKDI	KADINA	Australia
 YKDM	KIDMAN SPRINGS	Australia
+YKDN	KONDININ	Australia
 YKEP	LAKE KEEPIT	Australia
 YKER	KERANG	Australia
+YKID	KIDSTON	Australia
+YKIG	KINGSTON	Australia
 YKII	KING I	Australia
 YKKG	KALKGURUNG	Australia
 YKKN	KIN KIN RETREAT	Australia
 YKLC	KOOLAN CENTRAL	Australia
 YKMB	KARUMBA	Australia
+YKML	KAMILEROI	Australia
 YKMP	KEMPSEY	Australia
 YKNG	KATANNING	Australia
 YKOW	KOWANYAMA	Australia
 YKRY	KINGAROY	Australia
 YKSC	KINGSCOTE	Australia
 YKTH	KEITH	Australia
+YKTN	KYNETON	Australia
+YKUB	KUBIN	Australia
 YKWA	KARLAWINDA MINE	Australia
 YLAH	LAWN HILL	Australia
 YLAK	LAKESIDE	Australia
@@ -14145,6 +15842,7 @@ YLEC	LEIGH CREEK	Australia
 YLEG	LEONGATHA	Australia
 YLEO	LEONORA	Australia
 YLEV	LAKE EVELLA	Australia
+YLGD	LONGDOWN	Australia
 YLGU	LEGUNE STN	Australia
 YLHI	LORD HOWE ISLAND	Australia
 YLHR	LOCKHART RIVER	Australia
@@ -14155,6 +15853,7 @@ YLKS	THE LAKES	Australia
 YLLE	BALLERA	Australia
 YLLT	LOWER LIGHT	Australia
 YLMQ	LAKE MACQUARIE	Australia
+YLMU	MUNGO LODGE	Australia
 YLND	LAKELAND DOWNS	Australia
 YLOH	LOUTH	Australia
 YLOR	LORRAINE	Australia
@@ -14164,11 +15863,13 @@ YLRE	LONGREACH	Australia
 YLST	LEINSTER	Australia
 YLTN	LAVERTON	Australia
 YLTV	LATROBE VALLEY	Australia
+YLZI	LIZARD ISLAND	Australia
 YMAA	MABUIAG ISLAND	Australia
 YMAE	MURRAY/MER I	Australia
 YMAV	AVALON	Australia
 YMAY	ALBURY	Australia
 YMBA	MAREEBA	Australia
+YMBD	MURRAY BRIDGE	Australia
 YMBL	MARBLE BAR	Australia
 YMBT	MOUNT BEAUTY	Australia
 YMBU	MARYBOROUGH	Australia
@@ -14177,9 +15878,11 @@ YMCO	MALLACOOTA	Australia
 YMCT	MILLICENT	Australia
 YMDG	MUDGEE	Australia
 YMDN	MERREDIN	Australia
+YMDR	MINDEROO	Australia
 YMDY	MOUNT BUNDEY	Australia
 YMEI	MEREENIE	Australia
 YMEK	MEEKATHARRA	Australia
+YMEL	MELTON	Australia
 YMEN	ESSENDON	Australia
 YMER	MERIMBULA	Australia
 YMES	EAST SALE	Australia
@@ -14204,6 +15907,7 @@ YMLT	LAUNCESTON	Australia
 YMMB	MOORABBIN	Australia
 YMMI	MURRIN MURRIN	Australia
 YMML	MELBOURNE INTL	Australia
+YMMN	MILLMERRAN	Australia
 YMMU	MIDDLEMOUNT	Australia
 YMND	MAITLAND	Australia
 YMNE	MT KEITH	Australia
@@ -14225,7 +15929,9 @@ YMSF	MOUNT SANFORD STATION	Australia
 YMTB	MUTTABURRA	Australia
 YMTG	MOUNT GAMBIER	Australia
 YMTI	MORNINGTON I.	Australia
+YMTO	MONTO	Australia
 YMUL	MURRAY FIELD	Australia
+YMUR	MURWILLUMBAH	Australia
 YMVM	MANGROVE MOUNTAIN GLIDING	Australia
 YMWA	MULLEWA	Australia
 YMYB	MARYBOROUGH	Australia
@@ -14234,21 +15940,28 @@ YNAP	NAPPA MERRIE	Australia
 YNAR	NARRANDERA	Australia
 YNBR	NARRABRI	Australia
 YNGU	NGUKURR	Australia
+YNGW	NAGAMBIE-WIRRATE	Australia
 YNHL	NHILL	Australia
+YNKR	NACKEROO	Australia
 YNOV	NOVA	Australia
 YNPE	NORTHERN PENINSULA	Australia
 YNRB	NAREMBEEN	Australia
 YNRC	NARACOORTE	Australia
+YNRG	NARROGIN	Australia
 YNRM	NARROMINE	Australia
 YNRV	RAVENSTHORPE	Australia
 YNSH	NOOSA	Australia
+YNSM	NORSEMAN	Australia
+YNTM	NORTHAM	Australia
 YNTN	NORMANTON	Australia
 YNUB	NULLARBOR MOTEL	Australia
 YNUM	NUMBULWAR	Australia
 YNWN	NEWMAN	Australia
 YNYN	NYNGAN	Australia
 YOAS	THE OAKS	Australia
+YOAY	OAKY CREEK	Australia
 YOEN	OENPELLI	Australia
+YOLA	COLAC	Australia
 YOLD	OLYMPIC DAM	Australia
 YOLW	ONSLOW	Australia
 YOOD	OODNADATTA	Australia
@@ -14269,12 +15982,14 @@ YPCE	POONCARIE	Australia
 YPDN	DARWIN INTL	Australia
 YPEA	PEARCE	Australia
 YPED	EDINBURGH	Australia
+YPEF	PENFIELD	Australia
 YPFT	COOMA POLO FLAT	Australia
 YPGV	GOVE	Australia
 YPIR	PORT PIRIE	Australia
 YPJT	JANDAKOT	Australia
 YPKA	KARRATHA	Australia
 YPKG	KALGOORLIE-BOULDER	Australia
+YPKL	PUCKAPUNYAL (MILITARY)	Australia
 YPKS	PARKES	Australia
 YPKT	PORT KEATS	Australia
 YPKU	KUNUNURRA	Australia
@@ -14286,12 +16001,14 @@ YPMP	PORMPURAAW	Australia
 YPMQ	PORT MACQUARIE	Australia
 YPNN	PINNAROO	Australia
 YPOD	PORTLAND	Australia
+YPOK	POREPUNKAH	Australia
 YPPD	PORT HEDLAND INTL	Australia
 YPPF	PARAFIELD	Australia
 YPPH	PERTH INTL	Australia
 YPTB	PETERBOROUGH	Australia
 YPTN	TINDAL	Australia
 YPUG	PUNGALINA	Australia
+YPWH	PITTSWORTH	Australia
 YPWR	WOOMERA	Australia
 YPXM	CHRISTMAS I	Australia
 YQDI	QUIRINDI	Australia
@@ -14299,8 +16016,10 @@ YQLP	QUILPIE	Australia
 YQNS	QUEENSTOWN	Australia
 YQRN	QUORN	Australia
 YRBE	ROBE	Australia
+YRED	REDCLIFFE	Australia
 YREN	RENMARK	Australia
 YRID	RIDDELL	Australia
+YRLL	ROLLESTON	Australia
 YRMD	RICHMOND	Australia
 YRNG	RAMINGINING	Australia
 YROB	ROBINHOOD	Australia
@@ -14321,6 +16040,7 @@ YSCN	CAMDEN	Australia
 YSCO	SCONE	Australia
 YSCR	SOUTHERN CROSS	Australia
 YSDU	DUBBO	Australia
+YSEN	SERPENTINE	Australia
 YSGE	ST GEORGE	Australia
 YSGT	SINGLETON	Australia
 YSGW	SOUTH GALWAY	Australia
@@ -14331,15 +16051,19 @@ YSHT	SHEPPARTON	Australia
 YSHW	LUSCOMBE ARMY AIRFIELD	Australia
 YSII	SAIBAI I	Australia
 YSLK	SEA LAKE	Australia
+YSMB	SOMERSBY	Australia
 YSMH	SAMUEL HILL	Australia
 YSMI	SMITHTON	Australia
+YSNC	SINCLAIR	Australia
 YSNF	NORFOLK ISLAND	Australia
 YSNK	SNAKE BAY	Australia
 YSNW	NOWRA	Australia
 YSNY	SUNNYSIDE	Australia
 YSOL	SOLOMON	Australia
 YSPE	STANTHORPE	Australia
+YSPI	SPRINGSURE	Australia
 YSPK	SPRING CREEK	Australia
+YSPT	SOUTHPORT	Australia
 YSRD	SUNRISE DAM	Australia
 YSRG	SUNRAYSIA GLIDING	Australia
 YSRI	RICHMOND	Australia
@@ -14348,6 +16072,7 @@ YSRT	SURAT	Australia
 YSSY	KINGSFORD SMITH	Australia
 YSTA	ST ARNAUD	Australia
 YSTH	ST HELENS	Australia
+YSTO	STONEHENGE	Australia
 YSTW	TAMWORTH	Australia
 YSWG	WAGGA WAGGA	Australia
 YSWH	SWAN HILL	Australia
@@ -14362,6 +16087,7 @@ YTEE	TREPELL	Australia
 YTEF	TELFER	Australia
 YTEM	TEMORA	Australia
 YTFA	TRURO FLAT AIRPARK	Australia
+YTFD	TENTERFIELD	Australia
 YTGM	THARGOMINDAH	Australia
 YTGT	THE GRANITES	Australia
 YTHN	THUNDERBOX	Australia
@@ -14384,23 +16110,28 @@ YTTI	TROUGHTON I	Australia
 YTWB	TOOWOOMBA	Australia
 YTWN	TOORAWEENAH	Australia
 YTYA	TYABB	Australia
+YTYH	TYAGARAH	Australia
 YUDA	UNDARA	Australia
 YUDG	URANDANGI	Australia
 YUNY	CLUNY	Australia
 YVRD	VICTORIA RIVER DOWNS	Australia
 YVRS	VAN ROOK STATION	Australia
 YWAG	WANAARING	Australia
+YWAV	WAVE HILL	Australia
 YWBI	WARRABRI	Australia
 YWBL	WARRNAMBOOL	Australia
+YWBN	WEDDERBURN	Australia
 YWBR	WARBURTON	Australia
 YWBS	WARRABER I	Australia
 YWCA	WILCANNIA	Australia
+YWCH	WALCHA	Australia
 YWCK	WARWICK	Australia
 YWDG	WINDARLING	Australia
 YWDH	WINDORAH	Australia
 YWDL	WONDOOLA	Australia
 YWEL	WELLINGTON	Australia
 YWGA	WODGINA	Australia
+YWGM	WHITE GUM	Australia
 YWGN	WAGIN	Australia
 YWGT	WANGARATTA	Australia
 YWHA	WHYALLA	Australia
@@ -14414,16 +16145,19 @@ YWKW	WARKWORTH	Australia
 YWLG	WALGETT	Australia
 YWLM	WILLIAMTOWN	Australia
 YWLU	WILUNA	Australia
+YWMC	WILLIAM CREEK	Australia
 YWMO	WEST MUSGRAVE	Australia
 YWMP	WROTHAM PARK	Australia
 YWND	WONDAI	Australia
 YWRL	WARIALDA	Australia
 YWRN	WARREN	Australia
+YWSG	WATTS BRIDGE	Australia
 YWSL	WEST SALE	Australia
 YWTL	WATERLOO	Australia
 YWTN	WINTON	Australia
 YWTO	WENTWORTH	Australia
 YWUD	WUDINNA	Australia
+YWVA	WARNERVALE	Australia
 YWWI	WOODIE WOODIE	Australia
 YWWL	WEST WYALONG	Australia
 YWYA	WYANDRA	Australia
@@ -14442,6 +16176,7 @@ Z55	LAKE LOUISE	Alaska
 Z81	SALMON LAKE	Alaska
 Z90	STAMPEDE	Alaska
 Z91	BIRCH CREEK	Alaska
+Z95	CIBECUE	United States
 Z98	OTTAWA EXECUTIVE	United States
 ZA19	Berezhki	Russian Federation
 ZA3M	Glazhevo	Russian Federation
@@ -14489,7 +16224,7 @@ ZHYC	SANXIA	China
 ZJHK	MEILAN	China
 ZJQH	BOAO	China
 ZJSY	PHOENIX	China
-ZKPY	INTL	North Korea
+ZKPY	PYONGYANG INTL	North Korea
 ZKWS	KALMA	North Korea
 ZL02	JIUQUAN	China
 ZL03	BATANG	China
@@ -14506,6 +16241,7 @@ ZMBS	BULGAN SUM	Mongolia
 ZMBU	BARUUN-URT	Mongolia
 ZMCD	CHOIBALSAN	Mongolia
 ZMCK	CHINGGIS KHAAN INTL	Mongolia
+ZMDA	DELUUN BOLDOG	Mongolia
 ZMDN	OTGONTENGER	Mongolia
 ZMDZ	GURVANSAIKHAN	Mongolia
 ZMHG	KHUVSGUL	Mongolia
@@ -14567,7 +16303,6 @@ ZWYN	YINING	China
 ZYCC	LONGJIA	China
 ZYHB	TAIPING	China
 ZYJM	JIAMUSI	China
-ZYJS	JIANSANJIANG SHIDI	China
 ZYMD	HAILANG	China
 ZYQQ	SANJIAZI	China
 ZYTL	ZHOUSHUIZI	China

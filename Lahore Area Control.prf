@@ -60,6 +60,14 @@ Sounds	Sound6	\OPXX\Sounds\broadcast_message.wav
 Sounds	Sound7	\OPXX\Sounds\landline_request.wav
 Sounds	Sound8	\OPXX\Sounds\supervisor_message.wav
 Sounds	Sound9	\OPXX\Sounds\connected.wav
+RecentFiles	Recent1	\OPXX\ASR\Lahore ACC Bandbox.asr
+RecentFiles	Recent2	\OPXX\ASR\Faisalabad SMR.asr
+RecentFiles	Recent3	\OPXX\ASR\Islamabad SMR.asr
+RecentFiles	Recent4	\OPXX\ASR\Quetta SMR.asr
+RecentFiles	Recent5	\OPXX\ASR\Sialkot SMR.asr
+RecentFiles	Recent6	\OPXX\ASR\Multan SMR.asr
+RecentFiles	Recent7	\OPXX\ASR\Lahore SMR.asr
+RecentFiles	Recent8	\OPXX\ASR\Skardu SMR.asr
 Plugins	Plugin0Display2	SMR radar display
 Plugins	Plugin1Display1	SMR radar display
 Plugins	Plugin1Display2	Standard ES radar screen
@@ -87,5 +95,4 @@ Plugins	Plugin9Display1	Standard ES radar screen
 RecentFiles	Recent9	\OPXX\ASR\Peshawar SMR.asr
 Plugins	Plugin10	\OPXX\Plugins\RDF-1.2.2\Release\RDFPlugin.dll
 Plugins	Plugin10Display0	Standard ES radar screen
-RecentFiles	Recent2	\OPXX\ASR\Peshawar SMR.asr
-LastSession	atis_freq4	118000
+Settings	sector	\OPXX-DEV_20251231235222-251301-0003.sct

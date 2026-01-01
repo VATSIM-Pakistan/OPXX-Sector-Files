@@ -50,6 +50,8 @@ Sounds	Sound6	\OPXX\Sounds\broadcast_message.wav
 Sounds	Sound7	\OPXX\Sounds\landline_request.wav
 Sounds	Sound8	\OPXX\Sounds\supervisor_message.wav
 Sounds	Sound9	\OPXX\Sounds\connected.wav
+RecentFiles	Recent1	\OPXX\ASR\Karachi 07R 25L.asr
+RecentFiles	Recent2	\OPXX\ASR\Karachi SMR.asr
 Plugins	Plugin1Display0	Ground Radar display
 Plugins	Plugin4Display2	DelHel
 Plugins	Plugin5	\OPXX\Plugins\PushbackFlorian_v1.1.1\PushbackFlorian.dll
@@ -70,3 +72,4 @@ Plugins	Plugin3Display0	SMR radar display
 Plugins	Plugin3Display1	Standard ES radar screen
 Plugins	Plugin3Display2	DelHel
 Plugins	Plugin5Display3	Ground Radar display
+Settings	sector	\OPXX-DEV_20251231235222-251301-0003.sct
