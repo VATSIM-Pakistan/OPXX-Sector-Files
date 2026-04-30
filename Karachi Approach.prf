@@ -79,4 +79,7 @@ Plugins	Plugin9Display0	Ground Radar display
 Plugins	Plugin9Display1	Standard ES radar screen
 Plugins	Plugin10	\OPXX\Plugins\RDF-1.2.2\Release\RDFPlugin.dll
 Plugins	Plugin10Display0	Standard ES radar screen
-Settings	sector	\OPXX-DEV_20251231235222-251301-0003.sct
+LastSession	atis_freq4	118000
+Plugins	Plugin11	\OPXX\Plugins\VATCAN\VATCANBookings.dll
+Plugins	Plugin11Display0	Standard ES radar screen
+Settings	sector	\OPXX-DEV_20260430132121-260401-0002.sct

@@ -87,4 +87,4 @@ Plugins	Plugin7Display3	SMR radar display
 LastSession	atis_freq4	118000
 Plugins	Plugin10	\OPXX\Plugins\RDF-1.2.2\Release\RDFPlugin.dll
 Plugins	Plugin10Display0	Standard ES radar screen
-Settings	sector	\OPXX-DEV_20251231235222-251301-0003.sct
+Settings	sector	\OPXX-DEV_20260430132121-260401-0002.sct

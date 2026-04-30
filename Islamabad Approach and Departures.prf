@@ -82,4 +82,4 @@ Plugins	Plugin3Display2	Standard ES radar screen
 Plugins	Plugin6Display3	Ground Radar display
 Plugins	Plugin10	\OPXX\Plugins\RDF-1.2.2\Release\RDFPlugin.dll
 Plugins	Plugin10Display0	Standard ES radar screen
-Settings	sector	\OPXX-DEV_20251231235222-251301-0003.sct
+Settings	sector	\OPXX-DEV_20260430132121-260401-0002.sct

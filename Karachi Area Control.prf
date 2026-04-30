@@ -54,8 +54,8 @@ Sounds	Sound6	\OPXX\Sounds\broadcast_message.wav
 Sounds	Sound7	\OPXX\Sounds\landline_request.wav
 Sounds	Sound8	\OPXX\Sounds\supervisor_message.wav
 Sounds	Sound9	\OPXX\Sounds\connected.wav
-RecentFiles	Recent1	\OPXX\ASR\Karachi ACC Bandbox.asr
-RecentFiles	Recent2	\OPXX\ASR\Karachi SMR.asr
+RecentFiles	Recent1	\OPXX\ASR\Karachi SMR.asr
+RecentFiles	Recent2	\OPXX\ASR\Karachi ACC Bandbox.asr
 Plugins	Plugin0Display2	DelHel
 Plugins	Plugin1Display1	SMR radar display
 Plugins	Plugin1Display2	DelHel
@@ -84,4 +84,9 @@ Plugins	Plugin8Display0	Ground Radar display
 Plugins	Plugin8Display1	Standard ES radar screen
 Plugins	Plugin10	\OPXX\Plugins\RDF-1.2.2\Release\RDFPlugin.dll
 Plugins	Plugin10Display0	Standard ES radar screen
-Settings	sector	\OPXX-DEV_20251231235222-251301-0003.sct
+LastSession	atis_freq4	118000
+Plugins	Plugin11	\OPXX\Plugins\VATCAN\VATCANBookings.dll
+Plugins	Plugin11Display0	Standard ES radar screen
+Plugins	Plugin11Display1	Ground Radar display
+
+Settings	sector	\OPXX-DEV_20260430132121-260401-0002.sct

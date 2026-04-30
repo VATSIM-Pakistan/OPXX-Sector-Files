@@ -13,7 +13,8 @@
             "OPSD",
             "OPFA",
             "OPST",
-            "ZBAA"
+            "ZBAA",
+			"OPPS"
           ],
           "airways": [
             "J112",
@@ -25,8 +26,7 @@
         {
           "direction": "EVEN",
           "destinations": [
-            "OPQT",
-            "OPPS"
+            "OPQT"
           ],
           "airways": [
             "J112",
