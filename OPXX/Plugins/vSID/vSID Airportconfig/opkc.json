@@ -3,7 +3,7 @@
     "elevation": 100,
     "runways": "25L,25R,07L,07R",
     "transAlt": 3000,
-    "maxInitialClimb": 7000,
+    "maxInitialClimb": 16000,
     "intersections": {"25L": "H,F", "25R": "G,F", "07R": "E,C", "07L": "A,D"},
     "timeMode": false,
     "timezone": "UTC",
@@ -14,38 +14,38 @@
         "F": {
           "1": {
             "rwy": "25L",
-            "initial": 7000,
+            "initial": 16000,
             "prio": 1
 			},
           "2": {
             "rwy": "25R",
-            "initial": 7000,
+            "initial": 16000,
             "prio": 1
           }
         },
         "G": {
           "1": {
             "rwy": "25L",
-            "initial": 7000,
+            "initial": 16000,
             "prio": 1
           },
           "2": {
             "rwy": "25R",
-            "initial": 7000,
+            "initial": 16000,
             "prio": 1
           }
 		    },  
 		    "H": {
           "1": {
             "rwy": "07R",
-            "initial": 7000,
+            "initial": 16000,
             "prio": 1
           }
 		    },
 		    "L": {
           "1": {
 		   "rwy": "07L",
-            "initial": 7000,
+            "initial": 16000,
             "prio": 1
           }
         }
