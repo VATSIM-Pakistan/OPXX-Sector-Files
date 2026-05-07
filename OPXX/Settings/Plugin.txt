@@ -130,4 +130,7 @@ TopSky plugin:ACList/Uncontrolled List 2/m_Column_1: CFL:5:0:10002:12:99:1:TopSk
 RDF Plugin for Euroscope:RGB:0:255:0
 RDF Plugin for Euroscope:ConcurrentTransmissionRGB:255:255:0
 RDF Plugin for Euroscope:Radius:50
+CDM Plugin:CDMWindowPositionX:40
+CDM Plugin:CDMWindowPositionY:560
+CDM Plugin:CDMMinimized:0
 END
