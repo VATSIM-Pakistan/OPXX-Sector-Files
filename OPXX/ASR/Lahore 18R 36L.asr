@@ -1,9 +1,13 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:
-SECTORTITLE:
+SECTORFILE:C:\Users\ghtra\Documents\EuroScope\Pakistan Test Sector\OPXX-DEV_20260430132121-260401-0002.sct
+SECTORTITLE:OPXX-DEV_20260430132121-260401-0002.sct
 ARTCC low boundary:OPLA CTR:
+Free Text:OPLA Minimum Safe Altitudes\MSA 2600:freetext
+Free Text:OPLA Minimum Safe Altitudes\MSA 2600:freetext
+Free Text:OPLA Minimum Safe Altitudes\MSA 2600:freetext
+Geo:OPLA MRVA:
 Runways:OPLA 18R-36L:centerline
 Runways:OPLA 18R-36L:extended centerline 1
 Runways:OPLA 18R-36L:extended centerline 1 left ticks
@@ -28,4 +32,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:90.00000
 TAGFAMILY:TopSky_TWR
-WINDOWAREA:31.324982:73.991974:31.714301:74.839070
+WINDOWAREA:31.047030:73.211129:32.034864:75.279234
