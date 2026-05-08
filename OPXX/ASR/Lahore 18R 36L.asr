@@ -3,6 +3,7 @@ DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 SECTORFILE:C:\Users\ghtra\Documents\EuroScope\Pakistan Test Sector\OPXX-DEV_20260430132121-260401-0002.sct
 SECTORTITLE:OPXX-DEV_20260430132121-260401-0002.sct
+ARTCC low boundary:OPLA CTA:
 ARTCC low boundary:OPLA CTR:
 Free Text:OPLA Minimum Safe Altitudes\MSA 2600:freetext
 Free Text:OPLA Minimum Safe Altitudes\MSA 2600:freetext
@@ -32,4 +33,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:90.00000
 TAGFAMILY:TopSky_TWR
-WINDOWAREA:31.047030:73.211129:32.034864:75.279234
+WINDOWAREA:31.262495:73.835915:31.768266:74.894785

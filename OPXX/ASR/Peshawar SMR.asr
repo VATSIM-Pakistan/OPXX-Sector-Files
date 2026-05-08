@@ -1,8 +1,8 @@
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-SECTORFILE:
-SECTORTITLE:
+SECTORFILE:C:\Users\ghtra\Documents\EuroScope\Pakistan Test Sector\OPXX-DEV_20260430132121-260401-0002.sct
+SECTORTITLE:OPXX-DEV_20260430132121-260401-0002.sct
 Airports:OPPS:name
 Airports:OPPS:symbol
 Free Text:OPPS Ground Freetext\3:freetext
@@ -46,7 +46,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:275.00000
 TAGFAMILY:GRplugin
-WINDOWAREA:33.981266:71.495939:34.001261:71.539050
+WINDOWAREA:33.976748:71.484590:34.008923:71.551951
 PLUGIN:Ground Radar plugin:AirportElevation:1211
 PLUGIN:Ground Radar plugin:AirportRadius:1.7
 PLUGIN:Ground Radar plugin:GroundMode:OPPS

@@ -27,8 +27,8 @@ m_ShowOverflightPlanes:1
 SET_ShowTrackingPlanes:1
 m_METARList:1
 m_ShowTitleMetar:1
-m_ConnectSELtoSIL:1
-m_ConnectDEPtoSEL:1
+m_ConnectSELtoSIL:0
+m_ConnectDEPtoSEL:0
 m_ConnectSILtoTOP:0
 m_ScreenNumber:0
 m_ScreenPosition:0
@@ -36,8 +36,8 @@ m_ScreenMaximized:0
 m_ShowTitleSelectedAc:1
 m_PlanesListX:51
 m_PlanesListY:29
-m_MetarListX:1588
-m_MetarListY:45
+m_MetarListX:1628
+m_MetarListY:46
 m_VoiceListX:1088
 m_VoiceListY:45
 m_ControllerListX:1787
