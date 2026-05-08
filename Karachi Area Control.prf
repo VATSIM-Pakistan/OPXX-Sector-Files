@@ -24,7 +24,7 @@ Settings	SettingsfilePILOTING	\OPXX\Settings\PilotingList.txt
 Settings	SettingsfilePLUGINS	\OPXX\Settings\Plugin.txt
 Settings	SettingsfilePROFILE	\OPXX\Settings\Profiles_ACCKR.txt
 Settings	SettingsfileSCREEN	\OPXX\Settings\Screen-ACC.txt
-Settings	SettingsfileSEL	\OPXX\Settings\SectorExitList.txt
+Settings	SettingsfileSEL	\OPXX\Settings\SectorExitList - ACC.txt
 Settings	SettingsfileSIL	\OPXX\Settings\SectorInboundList.txt
 Settings	SettingsfileSYMBOLOGY	\OPXX\Settings\Symbology.txt
 Settings	SettingsfileTAGS	\OPXX\Settings\Tags.txt
@@ -54,8 +54,7 @@ Sounds	Sound6	\OPXX\Sounds\broadcast_message.wav
 Sounds	Sound7	\OPXX\Sounds\landline_request.wav
 Sounds	Sound8	\OPXX\Sounds\supervisor_message.wav
 Sounds	Sound9	\OPXX\Sounds\connected.wav
-RecentFiles	Recent1	\OPXX\ASR\Karachi SMR.asr
-RecentFiles	Recent2	\OPXX\ASR\Karachi ACC Bandbox.asr
+RecentFiles	Recent1	\OPXX\ASR\Karachi ACC Bandbox.asr
 Plugins	Plugin1Display1	SMR radar display
 Plugins	Plugin1Display2	Standard ES radar screen
 Plugins	Plugin2Display0	Ground Radar display
@@ -83,9 +82,32 @@ Plugins	Plugin8Display0	DelHel
 Plugins	Plugin8Display1	SMR radar display
 Plugins	Plugin10	\OPXX\Plugins\RDF-1.2.2\Release\RDFPlugin.dll
 Plugins	Plugin10Display0	Standard ES radar screen
-LastSession	atis_freq4	118000
 Plugins	Plugin11	\OPXX\Plugins\VATCAN\VATCANBookings.dll
 Plugins	Plugin11Display0	Standard ES radar screen
 Plugins	Plugin11Display1	Ground Radar display
+LastSession	atis_freq4	118000
+RecentFiles	Recent2	\OPXX\ASR\Karachi SMR.asr
 Settings	sector	\OPXX-DEV_20260430132121-260401-0002.sct
+LastSession	connecttype	2
+LastSession	callsign	OPKR_CTR
+LastSession	realname	Salman
+LastSession	certificate	1597249
+LastSession	password	AirbusA320@@@
+LastSession	facility	6
+LastSession	rating	6
+LastSession	server	SweatBox
+LastSession	tovatsim	1
+LastSession	scenario	G:\Sweatbox Files\S3 OPKC.txt
+LastSession	atis2	"Karachi Control" 
+LastSession	atis3	Covering the Karachi ACC Bandbox.  | Report callsign, aircraft, and position on initial contact
+LastSession	atis4	Interested in joining Pakistan vACC Discord? Join through community.vatsim.net | We love feedback --> https
+LastSession	range	240
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0
+Settings	SettingsfileORIGPLANE	\OPXX\Settings\General.txt
+Settings	SettingsfileSTUP	\OPXX\Settings\General-GND.txt
+Settings	SettingsfileTAXIOUT	\OPXX\Settings\General.txt
+Settings	SettingsfileTAKEOFF	\OPXX\Settings\General.txt
+Settings	SettingsfileADCS	\OPXX\Settings\General.txt
+Settings	SettingsfileTAXIIN	\OPXX\Settings\General.txt
 Plugins	Plugin8Display2	Standard ES radar screen

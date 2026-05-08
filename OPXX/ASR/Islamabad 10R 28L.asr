@@ -4,11 +4,11 @@ DisplayTypeGeoReferenced:1
 SECTORFILE:C:\Users\ghtra\Documents\EuroScope\Pakistan Test Sector\OPXX-DEV_20260430132121-260401-0002.sct
 SECTORTITLE:OPXX-DEV_20260430132121-260401-0002.sct
 ARTCC low boundary:OPIS CTR:
+ARTCC low boundary:OPIS TMA:
 Free Text:OPIS Minimum Safe Altitudes\MSA 3300:freetext
 Free Text:OPIS Minimum Safe Altitudes\MSA 3700:freetext
 Free Text:OPIS Minimum Safe Altitudes\MSA 3700:freetext
 Free Text:OPIS Minimum Safe Altitudes\MSA 4200:freetext
-Geo:GEO:
 Geo:OPIS MRVA:
 Runways:OPIS 10R-28L:centerline
 Runways:OPIS 10R-28L:extended centerline 1
@@ -34,4 +34,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:TopSky_TWR
-WINDOWAREA:33.260850:72.180407:33.893065:73.503997
+WINDOWAREA:33.243371:72.178683:33.875586:73.502273

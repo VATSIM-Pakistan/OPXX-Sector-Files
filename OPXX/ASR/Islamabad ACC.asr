@@ -13,6 +13,8 @@ Airports:OPIS:name
 Airports:OPIS:symbol
 Airports:OPPC:name
 Airports:OPPC:symbol
+Airports:OPPI:name
+Airports:OPPI:symbol
 Airports:OPPS:name
 Airports:OPPS:symbol
 Airports:OPRT:name
@@ -22,8 +24,6 @@ Airports:OPSD:symbol
 Airports:OPSS:name
 Airports:OPSS:symbol
 ARTCC boundary:ISB ACC:
-ARTCC boundary:OPLR E ACC:
-ARTCC boundary:OPLR W ACC:
 ARTCC low boundary:CHERAT N TMA:
 ARTCC low boundary:CHERAT S TMA:
 ARTCC low boundary:NUR KHAN TMA:
@@ -56,4 +56,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:Pakistan Tag Family (Standard)
-WINDOWAREA:31.866558:67.277388:37.714643:79.520795
+WINDOWAREA:31.976606:67.391136:37.824691:79.634543

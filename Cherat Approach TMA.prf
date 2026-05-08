@@ -24,7 +24,7 @@ Settings	SettingsfilePILOTING	\OPXX\Settings\PilotingList.txt
 Settings	SettingsfilePLUGINS	\OPXX\Settings\Plugin.txt
 Settings	SettingsfilePROFILE	\OPXX\Settings\Profiles_CHER.txt
 Settings	SettingsfileSCREEN	\OPXX\Settings\Screen-ACC.txt
-Settings	SettingsfileSEL	\OPXX\Settings\SectorExitList.txt
+Settings	SettingsfileSEL	\OPXX\Settings\SectorExitList - ACC.txt
 Settings	SettingsfileSIL	\OPXX\Settings\SectorInboundList.txt
 Settings	SettingsfileSYMBOLOGY	\OPXX\Settings\Symbology.txt
 Settings	SettingsfileTAGS	\OPXX\Settings\Tags.txt
@@ -89,3 +89,9 @@ LastSession	atis_freq4	118000
 Plugins	Plugin11	\OPXX\Plugins\VATCAN\VATCANBookings.dll
 Plugins	Plugin11Display0	Standard ES radar screen
 Settings	sector	\OPXX-DEV_20260430132121-260401-0002.sct
+Settings	SettingsfileORIGPLANE	\OPXX\Settings\General.txt
+Settings	SettingsfileSTUP	\OPXX\Settings\General-GND.txt
+Settings	SettingsfileTAXIOUT	\OPXX\Settings\General.txt
+Settings	SettingsfileTAKEOFF	\OPXX\Settings\General.txt
+Settings	SettingsfileADCS	\OPXX\Settings\General.txt
+Settings	SettingsfileTAXIIN	\OPXX\Settings\General.txt

@@ -86,8 +86,8 @@ TopSky plugin:ACList/Resectorisation List/m_OrderingColumn:1
 TopSky plugin:ACList/Resectorisation List/m_Column_0: Callsign:10:0:10021:6:0:1:TopSky plugin:TopSky plugin:
 TopSky plugin:ACList/Resectorisation List/m_Column_1:  CFL:6:0:10002:12:99:1:TopSky plugin:TopSky plugin:TopSky plugin
 TopSky plugin:ACList/Traffic Management List 1/m_Visible:0
-TopSky plugin:ACList/Traffic Management List 1/m_X:20
-TopSky plugin:ACList/Traffic Management List 1/m_Y:20
+TopSky plugin:ACList/Traffic Management List 1/m_X:0
+TopSky plugin:ACList/Traffic Management List 1/m_Y:396
 TopSky plugin:ACList/Traffic Management List 1/m_LineNumber:1
 TopSky plugin:ACList/Traffic Management List 1/m_Resizable:1
 TopSky plugin:ACList/Traffic Management List 1/m_OrderingColumn:1
@@ -101,8 +101,8 @@ TopSky plugin:ACList/Traffic Management List 2/m_Resizable:1
 TopSky plugin:ACList/Traffic Management List 2/m_OrderingColumn:1
 TopSky plugin:ACList/Traffic Management List 2/m_Column_0: Callsign:10:0:10021:6:0:1:TopSky plugin:TopSky plugin:
 TopSky plugin:ACList/Traffic Management List 2/m_Column_1:  CFL:6:0:10002:12:99:1:TopSky plugin:TopSky plugin:TopSky plugin
-Euroscope timers plugin:x:1000
-Euroscope timers plugin:y:45
+Euroscope timers plugin:x:1829
+Euroscope timers plugin:y:604
 TopSky plugin:ACList/LOAD/m_Visible:0
 TopSky plugin:ACList/LOAD/m_X:20
 TopSky plugin:ACList/LOAD/m_Y:20
@@ -130,4 +130,7 @@ TopSky plugin:ACList/Uncontrolled List 2/m_Column_1: CFL:5:0:10002:12:99:1:TopSk
 RDF Plugin for Euroscope:RGB:0:255:0
 RDF Plugin for Euroscope:ConcurrentTransmissionRGB:255:255:0
 RDF Plugin for Euroscope:Radius:50
+CDM Plugin:CDMWindowPositionX:2171
+CDM Plugin:CDMWindowPositionY:615
+CDM Plugin:CDMMinimized:0
 END

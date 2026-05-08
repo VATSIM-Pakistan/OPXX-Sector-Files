@@ -49,7 +49,6 @@ Free Text:OPPS Minimum Safe Altitudes\MSA 8000:freetext
 Free Text:OPST Minimum Safe Altitude\MSA 2300:freetext
 Free Text:OPST Minimum Safe Altitude\MSA 3000:freetext
 Free Text:OPST Minimum Safe Altitude\MSA 5300:freetext
-Geo:GEO:
 Geo:OPIS MRVA:
 Geo:OPKR Landmark Coastline:
 Geo:OPLA MRVA:
@@ -78,4 +77,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:Pakistan Tag Family (Standard)
-WINDOWAREA:25.038183:57.293126:39.686206:87.959867
+WINDOWAREA:24.848574:56.913875:39.496596:87.580616

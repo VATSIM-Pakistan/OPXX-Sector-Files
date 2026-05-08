@@ -30,7 +30,7 @@ Settings	SettingsfilePILOTING	\OPXX\Settings\PilotingList.txt
 Settings	SettingsfilePLUGINS	\OPXX\Settings\Plugin.txt
 Settings	SettingsfilePROFILE	\OPXX\Settings\Profiles_ACCLR.txt
 Settings	SettingsfileSCREEN	\OPXX\Settings\Screen-ACC.txt
-Settings	SettingsfileSEL	\OPXX\Settings\SectorExitList.txt
+Settings	SettingsfileSEL	\OPXX\Settings\SectorExitList - ACC.txt
 Settings	SettingsfileSIL	\OPXX\Settings\SectorInboundList.txt
 Settings	SettingsfileSYMBOLOGY	\OPXX\Settings\Symbology.txt
 Settings	SettingsfileTAGS	\OPXX\Settings\Tags.txt
@@ -93,6 +93,12 @@ RecentFiles	Recent9	\OPXX\ASR\Peshawar SMR.asr
 Plugins	Plugin10	\OPXX\Plugins\RDF-1.2.2\Release\RDFPlugin.dll
 Settings	sector	\OPXX-DEV_20260430132121-260401-0002.sct
 LastSession	atis_freq4	118000
+Settings	SettingsfileORIGPLANE	\OPXX\Settings\General.txt
+Settings	SettingsfileSTUP	\OPXX\Settings\General-GND.txt
+Settings	SettingsfileTAXIOUT	\OPXX\Settings\General.txt
+Settings	SettingsfileTAKEOFF	\OPXX\Settings\General.txt
+Settings	SettingsfileADCS	\OPXX\Settings\General.txt
+Settings	SettingsfileTAXIIN	\OPXX\Settings\General.txt
 Plugins	Plugin6Display2	DelHel
 Plugins	Plugin7Display2	Standard ES radar screen
 Plugins	Plugin8Display2	Standard ES radar screen
