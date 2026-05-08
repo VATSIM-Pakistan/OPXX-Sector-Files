@@ -1,14 +1,14 @@
 ARR
 m_Visible:1
-m_X:1854
-m_Y:372
-m_LineNumber:6
-m_Resizable:0
-m_OrderingColumn:3
+m_X:1186
+m_Y:45
+m_LineNumber:0
+m_Resizable:1
+m_OrderingColumn:-4
 m_HeaderOnly:0
 m_Column:C/S:8:1:9:0:0:1::::1:0.0
 m_Column:ATYP:5:1:10028:0:0:1:TopSky plugin:::1:0.0
-m_Column:CTL:5:1:646:745:745:1:vSID:vSID:vSID:0:0.0
+m_Column:CTL:5:1:640:650:0:1:VCH:VCH::0:0.0
 m_Column:STAND:5:1:2:1:0:1:Ground Radar plugin:Ground Radar plugin::9:0.0
 m_Column:TXT:6:1:19:29:0:1::::1:0.0
 END

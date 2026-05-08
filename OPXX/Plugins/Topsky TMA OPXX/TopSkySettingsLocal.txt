@@ -1,8 +1,5 @@
 Setup_AutoSignIn=1
 
-Window_NOTAM=1,1405,400
-
-
 [_DEL]
 Color_Concerned=230,230,230
 Color_Unconcerned=230,230,230
@@ -16,11 +13,13 @@ Color_Concerned=230,230,230
 Color_Unconcerned=230,230,230
 
 [_APP]
-Window_CARD=1,1405,680
+Window_CARD=3,0,650
+Window_CARD_RefreshRate=10
 Window_SAP=1,1320,200
 System_FPASD=1
 
 [_CTR]
-Window_CARD=1,1405,680
+Window_CARD=3,0,650
+Window_CARD_RefreshRate=10
 Window_SAP=1,1320,200
 System_FPASD=1
