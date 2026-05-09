@@ -109,13 +109,13 @@ m_STCA_LowPreWarnTime:150
 m_STCA_LowWarnTime:150
 m_HighPreWarnTime:240
 m_STCA_HighWarnTime:240
-m_STCA_ShowCFL:0
+m_STCA_ShowCFL:1
 m_STCA_PlaySoundOnCFL:0
-m_STCA_PlaySoundOnTrackedOnly:0
+m_STCA_PlaySoundOnTrackedOnly:1
 m_AutoCorrelateDisabledSQs:1200,2000,2200,7000,7700,7600,7500
 m_DontAutoCorrelateDuplicated:1
 m_AcceptPilotSquawkForCorrelation:1
-m_MTCA_Floor:10000
+m_MTCA_Floor:0
 m_MTCA_AltitudeDifference:2000
 m_MTCA_Distance:20.0
 m_UseIsectForScratchPad:1

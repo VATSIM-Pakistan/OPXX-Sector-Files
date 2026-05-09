@@ -1,3 +1,0 @@
-##----- Capacity Availability Document -----##
-#--- Pakistan [OPXX] ---#
-OPKC,50
