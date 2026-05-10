@@ -92,13 +92,15 @@
             "VTBS"
           ],
           "airways": [
-            "A791"
+            "A791",
+            "G472"
           ]
         },
         {
           "direction": "ODD",
           "airways": [
-            "A791"
+            "A791",
+            "G472"
           ]
         }
       ],

@@ -24,7 +24,7 @@ Settings	SettingsfilePILOTING	\OPXX\Settings\PilotingList.txt
 Settings	SettingsfilePLUGINS	\OPXX\Settings\Plugin.txt
 Settings	SettingsfilePROFILE	\OPXX\Settings\Profiles_ISAPP.txt
 Settings	SettingsfileSCREEN	\OPXX\Settings\Screen-ACC.txt
-Settings	SettingsfileSEL	\OPXX\Settings\SectorExitList.txt
+Settings	SettingsfileSEL	\OPXX\Settings\SectorExitList - ACC.txt
 Settings	SettingsfileSIL	\OPXX\Settings\SectorInboundList.txt
 Settings	SettingsfileSYMBOLOGY	\OPXX\Settings\Symbology.txt
 Settings	SettingsfileTAGS	\OPXX\Settings\Tags.txt
@@ -83,3 +83,10 @@ Plugins	Plugin6Display3	Ground Radar display
 Plugins	Plugin10	\OPXX\Plugins\RDF-1.2.2\Release\RDFPlugin.dll
 Plugins	Plugin10Display0	Standard ES radar screen
 Settings	sector	\OPXX-DEV_20260430132121-260401-0002.sct
+LastSession	atis_freq4	118000
+Settings	SettingsfileORIGPLANE	\OPXX\Settings\General.txt
+Settings	SettingsfileSTUP	\OPXX\Settings\General-GND.txt
+Settings	SettingsfileTAXIOUT	\OPXX\Settings\General.txt
+Settings	SettingsfileTAKEOFF	\OPXX\Settings\General.txt
+Settings	SettingsfileADCS	\OPXX\Settings\General.txt
+Settings	SettingsfileTAXIIN	\OPXX\Settings\General.txt

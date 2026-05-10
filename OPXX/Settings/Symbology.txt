@@ -1,7 +1,7 @@
 SYMBOLOGY
 SYMBOLSIZE
-Airports:symbol:3882252:1.0:0:0:7
-Airports:name:5262154:3.0:0:0:1
+Airports:symbol:3882252:3.0:0:0:7
+Airports:name:5262154:3.8:0:0:1
 Low airways:line:1249295:3.5:0:0:7
 Low airways:name:2564897:3.3:0:0:8
 High airways:line:1709333:3.5:0:0:7
@@ -76,7 +76,7 @@ Other:free of conflict:65280:3.5:0:2:7
 Other:conflict warning:65535:3.5:0:2:7
 Other:conflict detected:255:3.5:0:2:7
 Other:route annotation:11128266:3.2:0:2:7
-Other:freetext:12171447:3.0:0:0:7
+Other:freetext:12171447:3.8:0:0:7
 Other:range rings:10197792:5.0:0:0:2
 Other:off antenna range rings:255:5.0:0:0:2
 Other:plane range rings:5921370:5.0:0:0:2

@@ -1,8 +1,8 @@
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-SECTORFILE:
-SECTORTITLE:
+SECTORFILE:C:\Users\ghtra\Documents\EuroScope\PAK-Sector-File-Dev\OPXX-DEV_20260430132121-260401-0002.sct
+SECTORTITLE:OPXX-DEV_20260430132121-260401-0002.sct
 SHOWC:1
 SHOWSB:0
 BELOW:0
@@ -16,7 +16,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:16.00000
 TAGFAMILY:GRplugin
-WINDOWAREA:24.891735:67.135395:24.918602:67.193319
+WINDOWAREA:24.892576:67.132867:24.920246:67.190795
 PLUGIN:Ground Radar plugin:AirportElevation:100
 PLUGIN:Ground Radar plugin:AirportRadius:1.7
 PLUGIN:Ground Radar plugin:GroundMode:OPKC

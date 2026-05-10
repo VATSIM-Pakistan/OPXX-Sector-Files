@@ -25,7 +25,7 @@ Settings	SettingsfilePILOTING	\OPXX\Settings\PilotingList.txt
 Settings	SettingsfilePLUGINS	\OPXX\Settings\Plugin.txt
 Settings	SettingsfilePROFILE	\OPXX\Settings\Profiles_ISB.txt
 Settings	SettingsfileSCREEN	\OPXX\Settings\Screen-ACC.txt
-Settings	SettingsfileSEL	\OPXX\Settings\SectorExitList.txt
+Settings	SettingsfileSEL	\OPXX\Settings\SectorExitList - ACC.txt
 Settings	SettingsfileSIL	\OPXX\Settings\SectorInboundList.txt
 Settings	SettingsfileSYMBOLOGY	\OPXX\Settings\Symbology.txt
 Settings	SettingsfileTAGS	\OPXX\Settings\Tags.txt
@@ -56,9 +56,9 @@ Sounds	Sound7	\OPXX\Sounds\landline_request.wav
 Sounds	Sound8	\OPXX\Sounds\supervisor_message.wav
 Sounds	Sound9	\OPXX\Sounds\connected.wav
 RecentFiles	Recent1	\OPXX\ASR\Islamabad ACC.asr
-RecentFiles	Recent2	\OPXX\ASR\Peshawar SMR.asr
-RecentFiles	Recent3	\OPXX\ASR\Islamabad SMR.asr
-RecentFiles	Recent4	\OPXX\ASR\Chaklala OPRN SMR.asr
+RecentFiles	Recent2	\OPXX\ASR\Chaklala OPRN SMR.asr
+RecentFiles	Recent3	\OPXX\ASR\Peshawar SMR.asr
+RecentFiles	Recent4	\OPXX\ASR\Islamabad SMR.asr
 Plugins	Plugin1Display1	SMR radar display
 Plugins	Plugin1Display2	Standard ES radar screen
 Plugins	Plugin2Display0	Standard ES radar screen
@@ -84,3 +84,10 @@ Plugins	Plugin9Display1	Standard ES radar screen
 Plugins	Plugin10	\OPXX\Plugins\RDF-1.2.2\Release\RDFPlugin.dll
 Plugins	Plugin10Display0	Standard ES radar screen
 Settings	sector	\OPXX-DEV_20260430132121-260401-0002.sct
+LastSession	atis_freq4	118000
+Settings	SettingsfileORIGPLANE	\OPXX\Settings\General.txt
+Settings	SettingsfileSTUP	\OPXX\Settings\General-GND.txt
+Settings	SettingsfileTAXIOUT	\OPXX\Settings\General.txt
+Settings	SettingsfileTAKEOFF	\OPXX\Settings\General.txt
+Settings	SettingsfileADCS	\OPXX\Settings\General.txt
+Settings	SettingsfileTAXIIN	\OPXX\Settings\General.txt

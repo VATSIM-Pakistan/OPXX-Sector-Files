@@ -1,8 +1,18 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:
-SECTORTITLE:
+SECTORFILE:C:\Users\ghtra\Documents\EuroScope\Pakistan Test Sector\OPXX-DEV_20260430132121-260401-0002.sct
+SECTORTITLE:OPXX-DEV_20260430132121-260401-0002.sct
+ARTCC low boundary:OPKC CTA:
+ARTCC low boundary:OPKC TMA:
+ARTCC low boundary:OPKC TWR:
+Free Text:OPKC Minimum Safe Altitudes\MSA 1600:freetext
+Free Text:OPKC Minimum Safe Altitudes\MSA 2000:freetext
+Free Text:OPKC Minimum Safe Altitudes\MSA 2600:freetext
+Free Text:OPKC Minimum Safe Altitudes\MSA 3700:freetext
+Free Text:OPKC Minimum Safe Altitudes\MSA 3700:freetext
+Free Text:OPKC Minimum Safe Altitudes\MSA 5300:freetext
+Geo:OPKC MRVA:
 SHOWC:1
 SHOWSB:0
 BELOW:0
@@ -16,7 +26,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:Pakistan Tag Family (Standard)
-WINDOWAREA:23.141349:63.679763:26.679886:71.308853
+WINDOWAREA:22.686560:62.428965:27.241620:71.965327
 PLUGIN:EuroScope History Trails:HistoryTrailAntiAlias:1
 PLUGIN:EuroScope History Trails:HistoryTrailColour:255,130,20
 PLUGIN:EuroScope History Trails:HistoryTrailDegrade:1

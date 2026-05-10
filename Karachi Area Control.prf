@@ -1,17 +1,17 @@
 ASRFastKeys	1	\OPXX\ASR\Karachi ACC Bandbox.asr
 ASRFastKeys	2	\OPXX\ASR\Karachi SMR.asr
-Plugins	Plugin0	\OPXX\Plugins\MAESTRO\MAESTRO.dll
-Plugins	Plugin0Display0	Standard ES radar screen
-Plugins	Plugin0Display1	SMR radar display
-Plugins	Plugin1	\OPXX\Plugins\AFVEuroscopeBridge\AfvEuroScopeBridge.dll
-Plugins	Plugin1Display0	Standard ES radar screen
-Plugins	Plugin2	\OPXX\Plugins\ESTimers\ESTimers.dll
-Plugins	Plugin3	\OPXX\Plugins\Discord Euroscope Pakistan\DiscordEuroscope-1.3.0-pre-20240414-0733Z.dll
-Plugins	Plugin4	\OPXX\Plugins\PushbackFlorian_v1.1.1\PushbackFlorian.dll
-Plugins	Plugin4Display0	DelHel
-Plugins	Plugin5	\OPXX\Plugins\Virtual Controller Helper\VCH.dll
-Plugins	Plugin5Display1	SMR radar display
-Plugins	Plugin5Display0	DelHel
+Plugins	Plugin0	\OPXX\Plugins\Topsky Enroute OPXX\TopSky.dll
+Plugins	Plugin0Display0	Ground Radar display
+Plugins	Plugin0Display1	Standard ES radar screen
+Plugins	Plugin1	\OPXX\Plugins\vSID\vSID.dll
+Plugins	Plugin1Display0	Ground Radar display
+Plugins	Plugin2	\OPXX\Plugins\Ground Radar Plugin\GRplugin.dll
+Plugins	Plugin3	\OPXX\Plugins\MAESTRO\MAESTRO.dll
+Plugins	Plugin4	\OPXX\Plugins\AFVEuroscopeBridge\AfvEuroScopeBridge.dll
+Plugins	Plugin4Display0	Standard ES radar screen
+Plugins	Plugin5	\OPXX\Plugins\ESTimers\ESTimers.dll
+Plugins	Plugin5Display1	Standard ES radar screen
+Plugins	Plugin5Display0	SMR radar display
 Settings	AselKey	5111808
 Settings	FreqKey	22151168
 Settings	alias	\OPXX\Alias\alias.txt
@@ -24,7 +24,7 @@ Settings	SettingsfilePILOTING	\OPXX\Settings\PilotingList.txt
 Settings	SettingsfilePLUGINS	\OPXX\Settings\Plugin.txt
 Settings	SettingsfilePROFILE	\OPXX\Settings\Profiles_ACCKR.txt
 Settings	SettingsfileSCREEN	\OPXX\Settings\Screen-ACC.txt
-Settings	SettingsfileSEL	\OPXX\Settings\SectorExitList.txt
+Settings	SettingsfileSEL	\OPXX\Settings\SectorExitList - ACC.txt
 Settings	SettingsfileSIL	\OPXX\Settings\SectorInboundList.txt
 Settings	SettingsfileSYMBOLOGY	\OPXX\Settings\Symbology.txt
 Settings	SettingsfileTAGS	\OPXX\Settings\Tags.txt
@@ -55,38 +55,58 @@ Sounds	Sound7	\OPXX\Sounds\landline_request.wav
 Sounds	Sound8	\OPXX\Sounds\supervisor_message.wav
 Sounds	Sound9	\OPXX\Sounds\connected.wav
 RecentFiles	Recent1	\OPXX\ASR\Karachi ACC Bandbox.asr
-RecentFiles	Recent2	\OPXX\ASR\Karachi SMR.asr
-Plugins	Plugin0Display2	DelHel
 Plugins	Plugin1Display1	SMR radar display
-Plugins	Plugin1Display2	DelHel
-Plugins	Plugin2Display0	SMR radar display
+Plugins	Plugin1Display2	Standard ES radar screen
+Plugins	Plugin2Display0	Ground Radar display
 Plugins	Plugin2Display1	Standard ES radar screen
-Plugins	Plugin2Display2	DelHel
-Plugins	Plugin3Display0	DelHel
+Plugins	Plugin2Display2	SMR radar display
+Plugins	Plugin3Display0	Standard ES radar screen
 Plugins	Plugin3Display1	SMR radar display
-Plugins	Plugin3Display2	Standard ES radar screen
+Plugins	Plugin3Display2	DelHel
 Plugins	Plugin4Display1	SMR radar display
-Plugins	Plugin4Display2	Standard ES radar screen
-Plugins	Plugin5Display2	Standard ES radar screen
-Plugins	Plugin6	\OPXX\Plugins\Ground Radar Plugin\GRplugin.dll
-Plugins	Plugin6Display0	Ground Radar display
-Plugins	Plugin6Display1	Standard ES radar screen
-Plugins	Plugin6Display2	SMR radar display
-Plugins	Plugin7	\OPXX\Plugins\vSID\vSID.dll
-Plugins	Plugin7Display0	Ground Radar display
+Plugins	Plugin4Display2	DelHel
+Plugins	Plugin5Display2	DelHel
+Plugins	Plugin6	\OPXX\Plugins\Discord Euroscope Pakistan\DiscordEuroscope-1.3.0-pre-20240414-0733Z.dll
+Plugins	Plugin6Display0	DelHel
+Plugins	Plugin6Display1	SMR radar display
+Plugins	Plugin6Display2	Standard ES radar screen
+Plugins	Plugin7	\OPXX\Plugins\PushbackFlorian_v1.1.1\PushbackFlorian.dll
+Plugins	Plugin7Display0	DelHel
 Plugins	Plugin7Display1	SMR radar display
 Plugins	Plugin7Display2	Standard ES radar screen
-Plugins	Plugin8	\OPXX\Plugins\VFPC\VFPC.dll
-Plugins	Plugin9	\OPXX\Plugins\Topsky Enroute OPXX\TopSky.dll
+Plugins	Plugin8	\OPXX\Plugins\Virtual Controller Helper\VCH.dll
+Plugins	Plugin9	\OPXX\Plugins\VFPC\VFPC.dll
 Plugins	Plugin9Display0	Ground Radar display
 Plugins	Plugin9Display1	Standard ES radar screen
-Plugins	Plugin8Display0	Ground Radar display
-Plugins	Plugin8Display1	Standard ES radar screen
+Plugins	Plugin8Display0	DelHel
+Plugins	Plugin8Display1	SMR radar display
 Plugins	Plugin10	\OPXX\Plugins\RDF-1.2.2\Release\RDFPlugin.dll
 Plugins	Plugin10Display0	Standard ES radar screen
 Plugins	Plugin11	\OPXX\Plugins\VATCAN\VATCANBookings.dll
 Plugins	Plugin11Display0	Standard ES radar screen
 Plugins	Plugin11Display1	Ground Radar display
-Plugins	Plugin12	\OPXX\Plugins\CDM\CDM.dll
-Plugins	Plugin12Display0	Standard ES radar screen
-Plugins	Plugin12Display1	Ground Radar display
+LastSession	atis_freq4	118000
+RecentFiles	Recent2	\OPXX\ASR\Karachi SMR.asr
+Settings	sector	\OPXX-DEV_20260430132121-260401-0002.sct
+LastSession	connecttype	0
+LastSession	callsign	OPKR_CTR
+LastSession	realname	Gia Huy Tran
+LastSession	certificate	1442675
+LastSession	password	cz11Mrc9
+LastSession	facility	6
+LastSession	rating	4
+LastSession	server	AUTOMATIC
+LastSession	tovatsim	1
+LastSession	atis2	"Karachi Control" 
+LastSession	atis3	Covering the Karachi ACC Bandbox. | Report callsign, aircraft, and position on initial contact
+LastSession	atis4	Interested in joining Pakistan vACC Discord? Join through community.vatsim.net | We love feedback --> vatsim.pk/feedback
+LastSession	range	600
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0
+Settings	SettingsfileORIGPLANE	\OPXX\Settings\General.txt
+Settings	SettingsfileSTUP	\OPXX\Settings\General-GND.txt
+Settings	SettingsfileTAXIOUT	\OPXX\Settings\General.txt
+Settings	SettingsfileTAKEOFF	\OPXX\Settings\General.txt
+Settings	SettingsfileADCS	\OPXX\Settings\General.txt
+Settings	SettingsfileTAXIIN	\OPXX\Settings\General.txt
+Plugins	Plugin8Display2	Standard ES radar screen

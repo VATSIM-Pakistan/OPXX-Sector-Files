@@ -18,7 +18,7 @@ Settings	AselKey	5111808
 Settings	FreqKey	22151168
 Settings	alias	\OPXX\Alias\alias.txt
 Settings	Settingsfile	\OPXX\Settings\General-GND.txt
-Settings	SettingsfileARR	\OPXX\Settings\ArrivalList_SMR.txt
+Settings	SettingsfileARR	\OPXX\Settings\ArrivalList.txt
 Settings	SettingsfileCONFLICT	\OPXX\Settings\ConflictList.txt
 Settings	SettingsfileDEP	\OPXX\Settings\DepartureList.txt
 Settings	SettingsfileFP	\OPXX\Settings\FlightPlanList.txt
@@ -56,8 +56,8 @@ Sounds	Sound6	\OPXX\Sounds\broadcast_message.wav
 Sounds	Sound7	\OPXX\Sounds\landline_request.wav
 Sounds	Sound8	\OPXX\Sounds\supervisor_message.wav
 Sounds	Sound9	\OPXX\Sounds\connected.wav
-RecentFiles	Recent1	\OPXX\ASR\Islamabad 10R 28L.asr
-RecentFiles	Recent2	\OPXX\ASR\Islamabad SMR.asr
+RecentFiles	Recent1	\OPXX\ASR\Islamabad SMR.asr
+RecentFiles	Recent2	\OPXX\ASR\Islamabad 10R 28L.asr
 Plugins	Plugin0Display2	DelHel
 Plugins	Plugin1Display2	DelHel
 Plugins	Plugin2Display2	DelHel
@@ -77,3 +77,10 @@ Plugins	Plugin8Display1	Standard ES radar screen
 Plugins	Plugin5Display0	Ground Radar display
 Plugins	Plugin5Display1	Standard ES radar screen
 Settings	sector	\OPXX-DEV_20260430132121-260401-0002.sct
+LastSession	atis_freq4	118000
+Settings	SettingsfileORIGPLANE	\OPXX\Settings\General-GND.txt
+Settings	SettingsfileSTUP	\OPXX\Settings\General-GND.txt
+Settings	SettingsfileTAXIOUT	\OPXX\Settings\General-GND.txt
+Settings	SettingsfileTAKEOFF	\OPXX\Settings\General-GND.txt
+Settings	SettingsfileADCS	\OPXX\Settings\General-GND.txt
+Settings	SettingsfileTAXIIN	\OPXX\Settings\General-GND.txt

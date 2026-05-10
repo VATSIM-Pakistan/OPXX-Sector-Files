@@ -1,8 +1,8 @@
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-SECTORFILE:
-SECTORTITLE:
+SECTORFILE:C:\Users\ghtra\Documents\EuroScope\Pakistan Test Sector\OPXX-DEV_20260430132121-260401-0002.sct
+SECTORTITLE:OPXX-DEV_20260430132121-260401-0002.sct
 Free Text:OPLA Ground Freetext\1:freetext
 Free Text:OPLA Ground Freetext\10:freetext
 Free Text:OPLA Ground Freetext\11:freetext
@@ -82,7 +82,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:89.00000
 TAGFAMILY:GRplugin
-WINDOWAREA:31.506997:74.367330:31.537746:74.433626
+WINDOWAREA:31.504473:74.365915:31.536140:74.432211
 PLUGIN:Ground Radar plugin:AirportElevation:714
 PLUGIN:Ground Radar plugin:AirportRadius:1.7
 PLUGIN:Ground Radar plugin:GroundMode:OPLA

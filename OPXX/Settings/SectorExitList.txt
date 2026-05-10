@@ -1,10 +1,10 @@
 SEL
-m_Visible:1
+m_Visible:0
 m_X:0
-m_Y:144
+m_Y:79
 m_LineNumber:0
 m_Resizable:1
-m_OrderingColumn:2
+m_OrderingColumn:16
 m_HeaderOnly:0
 m_Column:C/S:10:0:10021:6:8:1:TopSky plugin:TopSky plugin::0:0.0
 m_Column:FR:3:1:63:0:0:1::::0:0.0

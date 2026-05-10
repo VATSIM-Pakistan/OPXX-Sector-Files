@@ -21,7 +21,7 @@ Settings	SettingsfileDEP	\OPXX\Settings\DepartureList.txt
 Settings	SettingsfileFP	\OPXX\Settings\FlightPlanList.txt
 Settings	SettingsfilePILOTING	\OPXX\Settings\PilotingList.txt
 Settings	SettingsfilePLUGINS	\OPXX\Settings\Plugin.txt
-Settings	SettingsfilePROFILE	\OPXX\Settings\Profiles.txt
+Settings	SettingsfilePROFILE	\OPXX\Settings\Profiles_ISGT.txt
 Settings	SettingsfileSCREEN	\OPXX\Settings\Screen.txt
 Settings	SettingsfileSEL	\OPXX\Settings\SectorExitList.txt
 Settings	SettingsfileSIL	\OPXX\Settings\SectorInboundList.txt
@@ -77,3 +77,20 @@ LastSession	atis_freq4	118000
 Plugins	Plugin10	\OPXX\Plugins\VATCAN\VATCANBookings.dll
 Plugins	Plugin10Display0	Standard ES radar screen
 Settings	sector	\OPXX-DEV_20260430132121-260401-0002.sct
+Settings	SettingsfileORIGPLANE	\OPXX\Settings\General.txt
+Settings	SettingsfileSTUP	\OPXX\Settings\General-GND.txt
+Settings	SettingsfileTAXIOUT	\OPXX\Settings\General.txt
+Settings	SettingsfileTAKEOFF	\OPXX\Settings\General.txt
+Settings	SettingsfileADCS	\OPXX\Settings\General.txt
+Settings	SettingsfileTAXIIN	\OPXX\Settings\General.txt
+LastSession	connecttype	0
+LastSession	callsign	Select_Callsign_Here------>
+LastSession	facility	0
+LastSession	rating	0
+LastSession	tovatsim	1
+LastSession	atis2	Select Your Callsign From The Dropdown Menu
+LastSession	atis3	DO NOT REPLACE YOUR CALLSIGN AND CLICK CONNECT!
+LastSession	atis4	Interested in joining Pakistan vACC Discord? Join through community.vatsim.net | We love feedback --> https
+LastSession	range	50
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0

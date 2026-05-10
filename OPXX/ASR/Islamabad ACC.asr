@@ -1,20 +1,29 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:
-SECTORTITLE:
+SECTORFILE:C:\Users\ghtra\Documents\EuroScope\Pakistan Test Sector\OPXX-DEV_20260430132121-260401-0002.sct
+SECTORTITLE:OPXX-DEV_20260430132121-260401-0002.sct
 Airports:OPBN:name
+Airports:OPBN:symbol
 Airports:OPCH:name
+Airports:OPCH:symbol
 Airports:OPGT:name
+Airports:OPGT:symbol
 Airports:OPIS:name
+Airports:OPIS:symbol
 Airports:OPPC:name
+Airports:OPPC:symbol
+Airports:OPPI:name
+Airports:OPPI:symbol
 Airports:OPPS:name
+Airports:OPPS:symbol
 Airports:OPRT:name
+Airports:OPRT:symbol
 Airports:OPSD:name
+Airports:OPSD:symbol
 Airports:OPSS:name
+Airports:OPSS:symbol
 ARTCC boundary:ISB ACC:
-ARTCC boundary:OPLR E ACC:
-ARTCC boundary:OPLR W ACC:
 ARTCC low boundary:CHERAT N TMA:
 ARTCC low boundary:CHERAT S TMA:
 ARTCC low boundary:NUR KHAN TMA:
@@ -38,7 +47,7 @@ SHOWC:1
 SHOWSB:0
 BELOW:0
 ABOVE:0
-LEADER:20
+LEADER:0
 SHOWLEADER:1
 TURNLEADER:0
 HISTORY_DOTS:0
@@ -47,4 +56,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:Pakistan Tag Family (Standard)
-WINDOWAREA:31.275924:66.028484:38.374370:81.332743
+WINDOWAREA:31.976606:67.391136:37.824691:79.634543
