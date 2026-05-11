@@ -1,8 +1,8 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:
-SECTORTITLE:
+SECTORFILE:G:\Pak SCT Files\OPXX-Install-Package_20260430142553-260401-0002.sct
+SECTORTITLE:OPXX-Install-Package_20260430142553-260401-0002.sct
 SHOWC:1
 SHOWSB:0
 BELOW:0
@@ -16,7 +16,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:Pakistan Tag Family (Standard)
-WINDOWAREA:23.141349:63.679763:26.679886:71.308853
+WINDOWAREA:22.014844:60.518397:28.928393:75.418967
 PLUGIN:EuroScope History Trails:HistoryTrailAntiAlias:1
 PLUGIN:EuroScope History Trails:HistoryTrailColour:255,130,20
 PLUGIN:EuroScope History Trails:HistoryTrailDegrade:1

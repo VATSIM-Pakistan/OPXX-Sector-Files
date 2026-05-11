@@ -31,8 +31,7 @@
           "airways": [
             "J112",
             "J139",
-            "Z306",
-            "BADUL"
+            "Z306"
           ]
         }
       ],
@@ -89,7 +88,8 @@
           "destinations": [
             "ZGNN",
             "VCBI",
-            "VTBS"
+            "VTBS",
+			"VABB"
           ],
           "airways": [
             "A791"

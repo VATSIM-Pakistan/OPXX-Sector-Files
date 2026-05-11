@@ -1,8 +1,8 @@
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-SECTORFILE:
-SECTORTITLE:
+SECTORFILE:G:\Pak SCT Files\OPXX-Install-Package_20260430142553-260401-0002.sct
+SECTORTITLE:OPXX-Install-Package_20260430142553-260401-0002.sct
 SHOWC:1
 SHOWSB:0
 BELOW:0
@@ -16,7 +16,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:16.00000
 TAGFAMILY:GRplugin
-WINDOWAREA:24.891735:67.135395:24.918602:67.193319
+WINDOWAREA:24.889739:67.133389:24.916615:67.191314
 PLUGIN:Ground Radar plugin:AirportElevation:100
 PLUGIN:Ground Radar plugin:AirportRadius:1.7
 PLUGIN:Ground Radar plugin:GroundMode:OPKC

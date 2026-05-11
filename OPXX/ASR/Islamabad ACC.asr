@@ -1,8 +1,14 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:
-SECTORTITLE:
+SECTORFILE:G:\Pak SCT Files\OPXX-Install-Package_20260430142553-260401-0002.sct
+SECTORTITLE:OPXX-Install-Package_20260430142553-260401-0002.sct
+ARTCC boundary:ISB ACC:
+ARTCC low boundary:CHERAT N TMA:
+ARTCC low boundary:CHERAT S TMA:
+ARTCC low boundary:NUR KHAN TMA:
+ARTCC low boundary:OPIS CTR:
+ARTCC low boundary:OPIS TMA:
 Airports:OPBN:name
 Airports:OPCH:name
 Airports:OPGT:name
@@ -12,16 +18,7 @@ Airports:OPPS:name
 Airports:OPRT:name
 Airports:OPSD:name
 Airports:OPSS:name
-ARTCC boundary:ISB ACC:
-ARTCC boundary:OPLR E ACC:
-ARTCC boundary:OPLR W ACC:
-ARTCC low boundary:CHERAT N TMA:
-ARTCC low boundary:CHERAT S TMA:
-ARTCC low boundary:NUR KHAN TMA:
-ARTCC low boundary:OPIS CTR:
-ARTCC low boundary:OPIS TMA:
 Free Text:OPIS Minimum Safe Altitudes\MSA 3300:freetext
-Free Text:OPIS Minimum Safe Altitudes\MSA 3700:freetext
 Free Text:OPIS Minimum Safe Altitudes\MSA 3700:freetext
 Free Text:OPIS Minimum Safe Altitudes\MSA 4200:freetext
 Free Text:OPLR Neighbouring FIR\OAKX (Kabul):freetext
@@ -38,7 +35,7 @@ SHOWC:1
 SHOWSB:0
 BELOW:0
 ABOVE:0
-LEADER:20
+LEADER:0
 SHOWLEADER:1
 TURNLEADER:0
 HISTORY_DOTS:0
@@ -47,4 +44,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:Pakistan Tag Family (Standard)
-WINDOWAREA:31.275924:66.028484:38.374370:81.332743
+WINDOWAREA:31.487640:65.822922:38.934027:81.871901

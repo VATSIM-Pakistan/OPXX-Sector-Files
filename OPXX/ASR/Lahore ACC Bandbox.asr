@@ -1,8 +1,22 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:
-SECTORTITLE:
+SECTORFILE:G:\Pak SCT Files\OPXX-Install-Package_20260430142553-260401-0002.sct
+SECTORTITLE:OPXX-Install-Package_20260430142553-260401-0002.sct
+ARTCC boundary:ISB ACC:
+ARTCC boundary:OPLR E ACC:
+ARTCC boundary:OPLR S ACC:
+ARTCC boundary:OPLR W ACC:
+ARTCC low boundary:CHERAT N TMA:
+ARTCC low boundary:CHERAT S TMA:
+ARTCC low boundary:NUR KHAN TMA:
+ARTCC low boundary:OPIS CTR:
+ARTCC low boundary:OPIS TMA:
+ARTCC low boundary:OPLA CTA:
+ARTCC low boundary:OPLA CTR:
+ARTCC low boundary:OPLA TMA:
+ARTCC low boundary:OPMT CTR:
+ARTCC low boundary:OPMT TMA:
 Airports:OPBN:name
 Airports:OPCH:name
 Airports:OPFA:name
@@ -20,30 +34,9 @@ Airports:OPSK:name
 Airports:OPSS:name
 Airports:OPST:name
 Airports:OPZB:name
-ARTCC boundary:ISB ACC:
-ARTCC boundary:OPKR C ACC:
-ARTCC boundary:OPKR E ACC:
-ARTCC boundary:OPKR S ACC:
-ARTCC boundary:OPKR W ACC:
-ARTCC boundary:OPLR E ACC:
-ARTCC boundary:OPLR S ACC:
-ARTCC boundary:OPLR W ACC:
-ARTCC low boundary:CHERAT N TMA:
-ARTCC low boundary:CHERAT S TMA:
-ARTCC low boundary:NUR KHAN TMA:
-ARTCC low boundary:OPIS CTR:
-ARTCC low boundary:OPIS TMA:
-ARTCC low boundary:OPLA CTA:
-ARTCC low boundary:OPLA CTR:
-ARTCC low boundary:OPLA TMA:
-ARTCC low boundary:OPMT CTR:
-ARTCC low boundary:OPMT TMA:
 Free Text:OPIS Minimum Safe Altitudes\MSA 3300:freetext
 Free Text:OPIS Minimum Safe Altitudes\MSA 3700:freetext
-Free Text:OPIS Minimum Safe Altitudes\MSA 3700:freetext
 Free Text:OPIS Minimum Safe Altitudes\MSA 4200:freetext
-Free Text:OPLA Minimum Safe Altitudes\MSA 2600:freetext
-Free Text:OPLA Minimum Safe Altitudes\MSA 2600:freetext
 Free Text:OPLA Minimum Safe Altitudes\MSA 2600:freetext
 Free Text:OPLR Neighbouring FIR\OAKX (Kabul):freetext
 Free Text:OPLR Neighbouring FIR\VIDF (Delhi):freetext
@@ -81,4 +74,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:Pakistan Tag Family (Standard)
-WINDOWAREA:27.542476:62.924547:36.645770:82.551261
+WINDOWAREA:26.740970:60.453958:38.123945:84.987350

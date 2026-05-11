@@ -1,18 +1,15 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:
-SECTORTITLE:
-Airports:OPIS:name
-Airports:OPIS:symbol
+SECTORFILE:G:\Pak SCT Files\OPXX-Install-Package_20260430142553-260401-0002.sct
+SECTORTITLE:OPXX-Install-Package_20260430142553-260401-0002.sct
 ARTCC boundary:ISB ACC:
-ARTCC boundary:OPLR E ACC:
-ARTCC boundary:OPLR W ACC:
 ARTCC low boundary:NUR KHAN TMA:
 ARTCC low boundary:OPIS CTR:
 ARTCC low boundary:OPIS TMA:
+Airports:OPIS:name
+Airports:OPIS:symbol
 Free Text:OPIS Minimum Safe Altitudes\MSA 3300:freetext
-Free Text:OPIS Minimum Safe Altitudes\MSA 3700:freetext
 Free Text:OPIS Minimum Safe Altitudes\MSA 3700:freetext
 Free Text:OPIS Minimum Safe Altitudes\MSA 4200:freetext
 Geo:OPIS MRVA:
@@ -29,7 +26,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:Pakistan Tag Family (Standard)
-WINDOWAREA:32.328887:70.161428:35.137066:76.215865
+WINDOWAREA:31.999509:69.609673:34.945335:75.958725
 PLUGIN:EuroScope History Trails:HistoryTrailAntiAlias:1
 PLUGIN:EuroScope History Trails:HistoryTrailColour:255,130,20
 PLUGIN:EuroScope History Trails:HistoryTrailDegrade:1

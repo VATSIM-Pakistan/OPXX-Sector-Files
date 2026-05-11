@@ -3,7 +3,7 @@
     "elevation": 100,
     "runways": "25L,25R,07L,07R",
     "transAlt": 3000,
-    "maxInitialClimb": 16000,
+    "maxInitialClimb": 7000,
     "intersections": {"25L": "H,F", "25R": "G,F", "07R": "E,C", "07L": "A,D"},
     "timeMode": false,
     "timezone": "UTC",

@@ -1,20 +1,20 @@
 ASRFastKeys	1	\OPXX\ASR\Lahore SMR.asr
 ASRFastKeys	2	\OPXX\ASR\Lahore 18R 36L.asr
 ASRFastKeys	3	\OPXX\ASR\Lahore 18L 36R.asr
-Plugins	Plugin0	\OPXX\Plugins\AFVEuroscopeBridge\AfvEuroScopeBridge.dll
-Plugins	Plugin0Display0	Standard ES radar screen
-Plugins	Plugin0Display1	SMR radar display
-Plugins	Plugin1	\OPXX\Plugins\ESTimers\ESTimers.dll
-Plugins	Plugin1Display0	SMR radar display
-Plugins	Plugin1Display1	Standard ES radar screen
-Plugins	Plugin2	\OPXX\Plugins\Discord Euroscope Pakistan\DiscordEuroscope-1.3.0-pre-20240414-0733Z.dll
-Plugins	Plugin2Display0	DelHel
-Plugins	Plugin2Display1	SMR radar display
-Plugins	Plugin3	\OPXX\Plugins\PushbackFlorian_v1.1.1\PushbackFlorian.dll
-Plugins	Plugin3Display0	DelHel
-Plugins	Plugin4	\OPXX\Plugins\Virtual Controller Helper\VCH.dll
-Plugins	Plugin4Display0	DelHel
-Plugins	Plugin4Display1	SMR radar display
+Plugins	Plugin0	\OPXX\Plugins\Topsky Aerodrome OPXX\TopSky.dll
+Plugins	Plugin0Display0	Ground Radar display
+Plugins	Plugin0Display1	Standard ES radar screen
+Plugins	Plugin1	\OPXX\Plugins\AFVEuroscopeBridge\AfvEuroScopeBridge.dll
+Plugins	Plugin1Display0	Standard ES radar screen
+Plugins	Plugin1Display1	SMR radar display
+Plugins	Plugin2	\OPXX\Plugins\vSID\vSID.dll
+Plugins	Plugin2Display0	Ground Radar display
+Plugins	Plugin2Display1	Standard ES radar screen
+Plugins	Plugin3	\OPXX\Plugins\Ground Radar Plugin\GRplugin.dll
+Plugins	Plugin3Display0	Ground Radar display
+Plugins	Plugin4	\OPXX\Plugins\VFPC\VFPC.dll
+Plugins	Plugin4Display0	Ground Radar display
+Plugins	Plugin4Display1	Standard ES radar screen
 Settings	AselKey	5111808
 Settings	FreqKey	22151168
 Settings	alias	\OPXX\Alias\alias.txt
@@ -27,7 +27,7 @@ Settings	SettingsfilePILOTING	\OPXX\Settings\PilotingList.txt
 Settings	SettingsfilePLUGINS	\OPXX\Settings\Plugin.txt
 Settings	SettingsfilePROFILE	\OPXX\Settings\Profiles_LAGT.txt
 Settings	SettingsfileSCREEN	\OPXX\Settings\Screen-GND.txt
-Settings	SettingsfileSEL	\OPXX\Settings\SectorExitList.txt
+Settings	SettingsfileSEL	\OPXX\Settings\SectorExitList-GND.txt
 Settings	SettingsfileSIL	\OPXX\Settings\SectorInboundList-GND.txt
 Settings	SettingsfileSYMBOLOGY	\OPXX\Settings\Symbology.txt
 Settings	SettingsfileTAGS	\OPXX\Settings\Tags.txt
@@ -60,24 +60,28 @@ Sounds	Sound9	\OPXX\Sounds\connected.wav
 RecentFiles	Recent1	\OPXX\ASR\Lahore SMR.asr
 RecentFiles	Recent2	\OPXX\ASR\Lahore 18R 36L.asr
 RecentFiles	Recent3	\OPXX\ASR\Lahore 18L 36R.asr
-Plugins	Plugin0Display2	DelHel
 Plugins	Plugin1Display2	DelHel
-Plugins	Plugin2Display2	Standard ES radar screen
-Plugins	Plugin3Display2	Standard ES radar screen
-Plugins	Plugin4Display2	Standard ES radar screen
-Plugins	Plugin5	\OPXX\Plugins\Ground Radar Plugin\GRplugin.dll
-Plugins	Plugin5Display0	Ground Radar display
-Plugins	Plugin5Display1	DelHel
-Plugins	Plugin6	\OPXX\Plugins\vSID\vSID.dll
-Plugins	Plugin6Display0	Ground Radar display
+Plugins	Plugin5	\OPXX\Plugins\Virtual Controller Helper\VCH.dll
+Plugins	Plugin5Display0	DelHel
+Plugins	Plugin5Display1	SMR radar display
+Plugins	Plugin6	\OPXX\Plugins\ESTimers\ESTimers.dll
+Plugins	Plugin6Display0	SMR radar display
 Plugins	Plugin6Display1	Standard ES radar screen
-Plugins	Plugin7	\OPXX\Plugins\VFPC\VFPC.dll
-Plugins	Plugin7Display0	Ground Radar display
-Plugins	Plugin7Display1	Standard ES radar screen
-Plugins	Plugin8	\OPXX\Plugins\Topsky Aerodrome OPXX\TopSky.dll
-Plugins	Plugin8Display0	Ground Radar display
-Plugins	Plugin8Display1	Standard ES radar screen
-Plugins	Plugin4Display3	Ground Radar display
-Plugins	Plugin5Display3	Standard ES radar screen
-Plugins	Plugin6Display3	DelHel
-Settings	sector	\OPXX-DEV_20260430132121-260401-0002.sct
+Plugins	Plugin7	\OPXX\Plugins\Discord Euroscope Pakistan\DiscordEuroscope-1.3.0-pre-20240414-0733Z.dll
+Plugins	Plugin7Display0	DelHel
+Plugins	Plugin7Display1	SMR radar display
+Plugins	Plugin8	\OPXX\Plugins\PushbackFlorian_v1.1.1\PushbackFlorian.dll
+Plugins	Plugin8Display0	DelHel
+Plugins	Plugin5Display3	Ground Radar display
+LastSession	atis_freq4	118000
+Plugins	Plugin3Display1	DelHel
+Plugins	Plugin5Display2	Standard ES radar screen
+Plugins	Plugin6Display2	DelHel
+Plugins	Plugin7Display2	Standard ES radar screen
+Settings	SettingsfileORIGPLANE	\OPXX\Settings\General.txt
+Settings	SettingsfileSTUP	\OPXX\Settings\General-GND.txt
+Settings	SettingsfileTAXIOUT	\OPXX\Settings\General.txt
+Settings	SettingsfileTAKEOFF	\OPXX\Settings\General.txt
+Settings	SettingsfileADCS	\OPXX\Settings\General.txt
+Settings	SettingsfileTAXIIN	\OPXX\Settings\General.txt
+Settings	SettingsfilePENDCOORD	\OPXX\Settings\General.txt

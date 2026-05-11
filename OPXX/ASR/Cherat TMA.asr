@@ -1,20 +1,17 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:
-SECTORTITLE:
+SECTORFILE:G:\Pak SCT Files\OPXX-Install-Package_20260430142553-260401-0002.sct
+SECTORTITLE:OPXX-Install-Package_20260430142553-260401-0002.sct
+ARTCC boundary:ISB ACC:
+ARTCC low boundary:CHERAT N TMA:
+ARTCC low boundary:CHERAT S TMA:
 Airports:OPBN:name
 Airports:OPBN:symbol
 Airports:OPPS:name
 Airports:OPPS:symbol
 Airports:OPSS:name
 Airports:OPSS:symbol
-ARTCC boundary:ISB ACC:
-ARTCC boundary:OPLR E ACC:
-ARTCC boundary:OPLR S ACC:
-ARTCC boundary:OPLR W ACC:
-ARTCC low boundary:CHERAT N TMA:
-ARTCC low boundary:CHERAT S TMA:
 Free Text:OPPS Minimum Safe Altitudes\MSA 10400:freetext
 Free Text:OPPS Minimum Safe Altitudes\MSA 8000:freetext
 Geo:OPPS MRVA:
@@ -42,4 +39,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:Pakistan Tag Family (Standard)
-WINDOWAREA:32.085018:68.613665:35.595242:76.181712
+WINDOWAREA:31.814867:67.523017:37.568434:79.923510

@@ -18,14 +18,14 @@ Settings	alias	\OPXX\Alias\alias.txt
 Settings	Settingsfile	\OPXX\Settings\General.txt
 Settings	SettingsfileARR	\OPXX\Settings\ArrivalList.txt
 Settings	SettingsfileCONFLICT	\OPXX\Settings\ConflictList.txt
-Settings	SettingsfileDEP	\OPXX\Settings\DepartureList.txt
+Settings	SettingsfileDEP	\OPXX\Settings\DepartureList-TMA.txt
 Settings	SettingsfileFP	\OPXX\Settings\FlightPlanList.txt
 Settings	SettingsfilePILOTING	\OPXX\Settings\PilotingList.txt
-Settings	SettingsfilePLUGINS	\OPXX\Settings\Plugin.txt
+Settings	SettingsfilePLUGINS	\OPXX\Settings\Plugin APP.txt
 Settings	SettingsfilePROFILE	\OPXX\Settings\Profiles_ISAPP.txt
 Settings	SettingsfileSCREEN	\OPXX\Settings\Screen-ACC.txt
-Settings	SettingsfileSEL	\OPXX\Settings\SectorExitList.txt
-Settings	SettingsfileSIL	\OPXX\Settings\SectorInboundList.txt
+Settings	SettingsfileSEL	\OPXX\Settings\SectorExitList-TMA.txt
+Settings	SettingsfileSIL	\OPXX\Settings\SectorInboundList-TMA.txt
 Settings	SettingsfileSYMBOLOGY	\OPXX\Settings\Symbology.txt
 Settings	SettingsfileTAGS	\OPXX\Settings\Tags.txt
 Settings	SettingsfileVCCS	\OPXX\Settings\VCCS.txt
@@ -82,4 +82,11 @@ Plugins	Plugin3Display2	Standard ES radar screen
 Plugins	Plugin6Display3	Ground Radar display
 Plugins	Plugin10	\OPXX\Plugins\RDF-1.2.2\Release\RDFPlugin.dll
 Plugins	Plugin10Display0	Standard ES radar screen
-Settings	sector	\OPXX-DEV_20260430132121-260401-0002.sct
+LastSession	atis_freq4	118000
+Settings	SettingsfileORIGPLANE	\OPXX\Settings\General.txt
+Settings	SettingsfileSTUP	\OPXX\Settings\General.txt
+Settings	SettingsfileTAXIOUT	\OPXX\Settings\General.txt
+Settings	SettingsfileTAKEOFF	\OPXX\Settings\General.txt
+Settings	SettingsfileADCS	\OPXX\Settings\General.txt
+Settings	SettingsfileTAXIIN	\OPXX\Settings\General.txt
+Settings	SettingsfilePENDCOORD	\OPXX\Settings\General.txt

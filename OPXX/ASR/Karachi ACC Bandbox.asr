@@ -1,8 +1,15 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:
-SECTORTITLE:
+SECTORFILE:G:\Pak SCT Files\OPXX-Install-Package_20260430142553-260401-0002.sct
+SECTORTITLE:OPXX-Install-Package_20260430142553-260401-0002.sct
+ARTCC boundary:OPKR C ACC:
+ARTCC boundary:OPKR E ACC:
+ARTCC boundary:OPKR S ACC:
+ARTCC boundary:OPKR W ACC:
+ARTCC low boundary:OPKC CTA:
+ARTCC low boundary:OPKC TMA:
+ARTCC low boundary:OPKC TWR:
 Airports:OPDB:name
 Airports:OPKC:name
 Airports:OPKD:name
@@ -11,19 +18,9 @@ Airports:OPNH:name
 Airports:OPPG:name
 Airports:OPPI:name
 Airports:OPTU:name
-ARTCC boundary:OPKR C ACC:
-ARTCC boundary:OPKR E ACC:
-ARTCC boundary:OPKR S ACC:
-ARTCC boundary:OPKR W ACC:
-ARTCC boundary:OPLR S ACC:
-ARTCC boundary:OPLR W ACC:
-ARTCC low boundary:OPKC CTA:
-ARTCC low boundary:OPKC TMA:
-ARTCC low boundary:OPKC TWR:
 Free Text:OPKC Minimum Safe Altitudes\MSA 1600:freetext
 Free Text:OPKC Minimum Safe Altitudes\MSA 2000:freetext
 Free Text:OPKC Minimum Safe Altitudes\MSA 2600:freetext
-Free Text:OPKC Minimum Safe Altitudes\MSA 3700:freetext
 Free Text:OPKC Minimum Safe Altitudes\MSA 3700:freetext
 Free Text:OPKC Minimum Safe Altitudes\MSA 5300:freetext
 Free Text:OPKR Neighbouring FIR\OIIX (Tehran):freetext
@@ -52,4 +49,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:Pakistan Tag Family (Standard)
-WINDOWAREA:22.585122:57.325874:32.470413:78.638575
+WINDOWAREA:22.482324:55.895678:32.370970:77.208387
