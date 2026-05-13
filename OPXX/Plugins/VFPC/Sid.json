@@ -14,13 +14,14 @@
             "OPFA",
             "OPST",
             "ZBAA",
-			"OPPS"
+	    "OPPS"
           ],
           "airways": [
             "J112",
             "B466",
             "Z302",
-			"Z301"
+	    "Z301",
+	    "BADUL"
           ]
         },
         {
@@ -31,7 +32,8 @@
           "airways": [
             "J112",
             "J139",
-            "Z306"
+            "Z306",
+	    "BADUL"
           ]
         }
       ],
@@ -69,7 +71,8 @@
             "A454",
             "A325",
             "J167",
-            "G208"
+            "G208",
+	    "MELOM"
           ]
         },
         {
@@ -78,7 +81,8 @@
             "A454",
             "A325",
             "J167",
-            "G208"
+            "G208",
+	    "MELOM"
           ]
         }
       ],
@@ -89,16 +93,18 @@
             "ZGNN",
             "VCBI",
             "VTBS",
-			"VABB"
+	    "VABB"
           ],
           "airways": [
-            "A791"
+            "A791",
+	    "DANGI"
           ]
         },
         {
           "direction": "ODD",
           "airways": [
-            "A791"
+            "A791",
+	    "DANGI"
           ]
         }
       ],
@@ -110,14 +116,16 @@
           ],
           "airways": [
             "Z10",
-			"N519"
+	    "N519",
+	    "NIROL"
           ]
         },
         {
           "direction": "ODD",
           "airways": [
             "Z10",
-			"N519"
+	    "N519",
+   	    "NIROL"
           ]
         }
       ]
@@ -232,7 +240,7 @@
           "direction": "EVEN",
           "destinations": [
             "OPKC",
-			"EGKK"
+	    "EGKK"
           ],
           "airways": [
             "G214"
@@ -269,8 +277,8 @@
             "UCFM",
             "UZTT",
             "CYYZ",
-			"OPSD",
-			"OPIS"
+	    "OPSD",
+	    "OPIS"
           ],
           "airways": [
             "T400",

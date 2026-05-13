@@ -3,10 +3,10 @@ ASRFastKeys	2	\OPXX\ASR\Karachi SMR.asr
 Plugins	Plugin0	\OPXX\Plugins\Topsky Enroute OPXX\TopSky.dll
 Plugins	Plugin0Display0	Ground Radar display
 Plugins	Plugin0Display1	Standard ES radar screen
-Plugins	Plugin1	\OPXX\Plugins\vSID\vSID.dll
+Plugins	Plugin1	\OPXX\Plugins\VFPC\VFPC.dll
 Plugins	Plugin1Display0	Ground Radar display
-Plugins	Plugin2	\OPXX\Plugins\Ground Radar Plugin\GRplugin.dll
-Plugins	Plugin3	\OPXX\Plugins\VFPC\VFPC.dll
+Plugins	Plugin2	\OPXX\Plugins\vSID\vSID.dll
+Plugins	Plugin3	\OPXX\Plugins\Ground Radar Plugin\GRplugin.dll
 Plugins	Plugin4	\OPXX\Plugins\MAESTRO\MAESTRO.dll
 Plugins	Plugin4Display0	Standard ES radar screen
 Plugins	Plugin5	\OPXX\Plugins\AFVEuroscopeBridge\AfvEuroScopeBridge.dll
@@ -56,11 +56,10 @@ Sounds	Sound8	\OPXX\Sounds\supervisor_message.wav
 Sounds	Sound9	\OPXX\Sounds\connected.wav
 RecentFiles	Recent1	\OPXX\ASR\Karachi ACC Bandbox.asr
 RecentFiles	Recent2	\OPXX\ASR\Karachi SMR.asr
-Plugins	Plugin1Display1	SMR radar display
-Plugins	Plugin1Display2	Standard ES radar screen
+Plugins	Plugin1Display1	Standard ES radar screen
 Plugins	Plugin2Display0	Ground Radar display
-Plugins	Plugin2Display1	Standard ES radar screen
-Plugins	Plugin2Display2	SMR radar display
+Plugins	Plugin2Display1	SMR radar display
+Plugins	Plugin2Display2	Standard ES radar screen
 Plugins	Plugin3Display0	Ground Radar display
 Plugins	Plugin3Display1	Standard ES radar screen
 Plugins	Plugin4Display1	SMR radar display
@@ -95,3 +94,4 @@ Settings	SettingsfileTAKEOFF	\OPXX\Settings\General.txt
 Settings	SettingsfileADCS	\OPXX\Settings\General.txt
 Settings	SettingsfileTAXIIN	\OPXX\Settings\General.txt
 Settings	SettingsfilePENDCOORD	\OPXX\Settings\General.txt
+Plugins	Plugin3Display2	SMR radar display

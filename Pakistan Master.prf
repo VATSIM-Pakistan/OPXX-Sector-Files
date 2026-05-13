@@ -40,7 +40,6 @@ Settings	airlines	\OPXX\ICAO\ICAO_Airlines.txt
 Settings	airportcoords	\OPXX\NavData\icao.txt
 Settings	airports	\OPXX\ICAO\ICAO_Airports.txt
 Settings	airways	\OPXX\NavData\airway.txt
-Settings	sector	\OPXX-Install-Package_20260430142553-260401-0002.sct
 Sounds	Sound0	\OPXX\Sounds\handoff_request.wav
 Sounds	Sound1	\OPXX\Sounds\handoff_accept.wav
 Sounds	Sound10	\OPXX\Sounds\disconnected.wav
@@ -60,16 +59,6 @@ Sounds	Sound6	\OPXX\Sounds\broadcast_message.wav
 Sounds	Sound7	\OPXX\Sounds\landline_request.wav
 Sounds	Sound8	\OPXX\Sounds\supervisor_message.wav
 Sounds	Sound9	\OPXX\Sounds\connected.wav
-LastSession	connecttype	0
-LastSession	callsign	Select_Callsign_Here------>
-LastSession	facility	0
-LastSession	rating	0
-LastSession	tovatsim	1
-LastSession	atis2	Select Your Callsign From The Dropdown Menu.
-LastSession	atis3	DO NOT REPLACE YOUR CALLSIGN AND CLICK CONNECT!
-LastSession	range	50
-LastSession	proxyserver	localhost
-LastSession	simdatapublish	0
 RecentFiles	Recent1	\OPXX\ASR\Pakistan Master.asr
 RecentFiles	Recent2	\OPXX\ASR\Karachi SMR.asr
 RecentFiles	Recent3	\OPXX\ASR\Lahore SMR.asr
