@@ -95,3 +95,5 @@ Settings	SettingsfileTAKEOFF	\OPXX\Settings\General.txt
 Settings	SettingsfileADCS	\OPXX\Settings\General.txt
 Settings	SettingsfileTAXIIN	\OPXX\Settings\General.txt
 Settings	SettingsfilePENDCOORD	\OPXX\Settings\General.txt
+
+Settings	sector	\OPXX-DEV_20260513232032-260401-0008.sct

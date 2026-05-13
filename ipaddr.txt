@@ -1,4 +1,4 @@
-178.128.193.227 AUTOMATIC
+167.99.248.14 AUTOMATIC
 sweatbox.vatsim.net SweatBox
 sweatbox-2.vatsim.net SweatBox-2
 localhost localhost

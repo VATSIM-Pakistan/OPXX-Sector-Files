@@ -1,8 +1,8 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:G:\Pak SCT Files\OPXX-Install-Package_20260430142553-260401-0002.sct
-SECTORTITLE:OPXX-Install-Package_20260430142553-260401-0002.sct
+SECTORFILE:
+SECTORTITLE:
 ARTCC low boundary:OPKC CTA:
 ARTCC low boundary:OPKC TWR:
 Free Text:OPKC Minimum Safe Altitudes\MSA 1600:freetext

@@ -84,3 +84,5 @@ Settings	SettingsfileTAXIIN	\OPXX\Settings\General.txt
 Settings	SettingsfilePENDCOORD	\OPXX\Settings\General.txt
 Settings	Settingsfile	\OPXX\Settings\General.txt
 Plugins	Plugin6Display3	Ground Radar display
+
+Settings	sector	\OPXX-DEV_20260513232032-260401-0008.sct

@@ -68,7 +68,6 @@ RecentFiles	Recent6	\OPXX\ASR\Peshawar SMR.asr
 RecentFiles	Recent7	\OPXX\ASR\Faisalabad SMR.asr
 RecentFiles	Recent8	\OPXX\ASR\Skardu SMR.asr
 RecentFiles	Recent9	\OPXX\ASR\Sialkot SMR.asr
-LastSession	atis_freq4	118000
 Plugins	Plugin3Display0	SMR radar display
 Plugins	Plugin4Display1	SMR radar display
 Plugins	Plugin0Display2	DelHel
@@ -95,3 +94,5 @@ Plugins	Plugin5Display3	Ground Radar display
 Plugins	Plugin9	\OPXX\Plugins\Topsky Enroute OPXX\TopSky.dll
 Plugins	Plugin9Display0	Ground Radar display
 Plugins	Plugin9Display1	Standard ES radar screen
+
+Settings	sector	\OPXX-DEV_20260513232032-260401-0008.sct

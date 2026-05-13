@@ -57,9 +57,9 @@ Sounds	Sound6	\OPXX\Sounds\broadcast_message.wav
 Sounds	Sound7	\OPXX\Sounds\landline_request.wav
 Sounds	Sound8	\OPXX\Sounds\supervisor_message.wav
 Sounds	Sound9	\OPXX\Sounds\connected.wav
-RecentFiles	Recent1	\OPXX\ASR\Lahore SMR.asr
-RecentFiles	Recent2	\OPXX\ASR\Lahore 18R 36L.asr
-RecentFiles	Recent3	\OPXX\ASR\Lahore 18L 36R.asr
+RecentFiles	Recent1	\OPXX\ASR\Lahore 18L 36R.asr
+RecentFiles	Recent2	\OPXX\ASR\Lahore SMR.asr
+RecentFiles	Recent3	\OPXX\ASR\Lahore 18R 36L.asr
 Plugins	Plugin1Display2	DelHel
 Plugins	Plugin5	\OPXX\Plugins\Virtual Controller Helper\VCH.dll
 Plugins	Plugin5Display0	DelHel
@@ -85,3 +85,4 @@ Settings	SettingsfileTAKEOFF	\OPXX\Settings\General.txt
 Settings	SettingsfileADCS	\OPXX\Settings\General.txt
 Settings	SettingsfileTAXIIN	\OPXX\Settings\General.txt
 Settings	SettingsfilePENDCOORD	\OPXX\Settings\General.txt
+Settings	sector	\OPXX-DEV_20260513232032-260401-0008.sct
